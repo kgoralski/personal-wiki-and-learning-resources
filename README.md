@@ -34,7 +34,7 @@ https://en.wikipedia.org/wiki/Domain-driven_design
 * WJUG #204 - Marcin Haręza: Event Sourcing - co to, po co to, jak to? https://youtube.com/watch?v=dEA6uv0FPpE (polish)
 * Domain Driven Design - A place for everything and everything in its place https://youtube.com/watch?v=jraV7xSTYVs (polish)
 * Boiling Frogs 2018 - Jarosław Pałka - Sagi, strumienie, reaktywność i inne buzzwordy https://youtu.be/27S0G9bE3Bg?t=0s(polish)
-* devstyle.pl/2014/12/01/devtalk04-o-domain-driven-design-ze-slawomirem-sobotka (polish)
+* https://devstyle.pl/2014/12/01/devtalk04-o-domain-driven-design-ze-slawomirem-sobotka/ (polish)
 * Event-Driven Rails from scratch https://youtube.com/watch?v=C3P3yGQyDQ4 
 * DDD europe https://www.youtube.com/channel/UC3PGn-hQdbtRiqxZK9XBGqQ/playlists 
 
@@ -63,18 +63,18 @@ https://en.wikipedia.org/wiki/Domain-driven_design
 * http://tidyjava.com/hexagonal-architecture-powerful
 
 ### Ruby
-* blog.arkency.com/domain-driven-rails
-* ddd-ruby.github.io
-* developer.com/open/domain-driven-design-aggregates-with-ruby.html
-* mensfeld.pl/2017/08/domain-driven-rails-mediocrity-driven-book
-* medium.com/@poilon/domain-driven-design-with-graphql-on-ruby-on-rails-api-3f0f2a090b4f
-* github.com/envato/event_sourcery
-* theplainprogrammer.com/applying-clean-architecture-to-ruby-on-rails-first-impressions-3746ed0c9668
+* https://blog.arkency.com/domain-driven-rails/
+* https://ddd-ruby.github.io/
+* https://www.developer.com/open/domain-driven-design-aggregates-with-ruby.html
+* https://mensfeld.pl/2017/08/domain-driven-rails-mediocrity-driven-book/
+* https://medium.com/@poilon/domain-driven-design-with-graphql-on-ruby-on-rails-api-3f0f2a090b4f
+* https://github.com/envato/event_sourcery
+* https://theplainprogrammer.com/applying-clean-architecture-to-ruby-on-rails-first-impressions-3746ed0c9668
 * https://github.com/valignatev/ddd-dynamic
 
 ### Go 
 * https://gist.github.com/eduncan911/c1614e684e4802d626ae
-* threedots.tech/post/microservices-or-monolith-its-detail
+* https://threedots.tech/post/microservices-or-monolith-its-detail
 * https://hackernoon.com/golang-clean-archithecture-efd6d7c43047
 * https://medium.com/@eminetto/clean-architecture-using-golang-b63587aa5e3f
 * https://juicemia.com/post/go-ddd/
@@ -89,7 +89,7 @@ https://en.wikipedia.org/wiki/Domain-driven_design
 * https://github.com/avthart/spring-boot-axon-sample
 * https://github.com/jakubnabrdalik/hentai-cloudy-rental
 * https://github.com/jakubnabrdalik/hentai
-* ordina-jworks.github.io/conference/2016/07/10/SpringIO16-DDD-Rest.html
+* https://ordina-jworks.github.io/conference/2016/07/10/SpringIO16-DDD-Rest.html
 * https://github.com/olivergierke/spring-restbucks
 
 ### Ruby
@@ -108,7 +108,7 @@ https://en.wikipedia.org/wiki/Domain-driven_design
 * https://github.com/eventuate-local/eventuate-local
 * https://github.com/RBMHTechnology/eventuate/wiki/Thoughts-on-Eventuate%E2%80%99s-future
 * https://github.com/AxonFramework
-* blog.eventuate.io/2016/04/05/the-eventuate-todo-list-application-microservices-springboot-eventsourcing-cqrs
+* https://blog.eventuate.io/2016/04/05/the-eventuate-todo-list-application-microservices-springboot-eventsourcing-cqrs/
 * https://github.com/AxonFramework/AxonFramework
 * https://github.com/binkley/axon-spring-boot-starter
 
