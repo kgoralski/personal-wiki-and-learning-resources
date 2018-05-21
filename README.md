@@ -50,6 +50,7 @@ https://en.wikipedia.org/wiki/Domain-driven_design
 ## References
 * https://github.com/heynickc/awesome-ddd
 * http://alistair.cockburn.us/Hexagonal+architecture/v/slim
+* http://mkuthan.github.io/blog/2014/09/22/ddd-how-to-learn/
 * http://dddweekly.com
 * https://martinfowler.com/bliki/AnemicDomainModel.html
 * https://martinfowler.com/tags/domain%20driven%20design.html
@@ -58,6 +59,7 @@ https://en.wikipedia.org/wiki/Domain-driven_design
 * https://content.pivotal.io/blog/getting-started-with-domain-driven-design-top-3-concepts
 * https://www.linkedin.com/pulse/code-better-ddd-what-why-balazs-hideghety/
 * https://gist.github.com/somebox/21c7c9ca3a62de9ac65a366fbb8c3250
+* http://mkuthan.github.io/presentations/micro-services.html#/
 
 ### Java
 * https://bottega.com.pl/materialy.xhtm?cat=DDD (polish)
