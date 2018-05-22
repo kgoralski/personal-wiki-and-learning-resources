@@ -41,6 +41,13 @@ DDD can also be an ideal approach if you have large and complex enterprise data 
 
 https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658117(v=pandp.10)
 
+In **Microservices**, we build each service to serve only one thing and do one thing well. Each service is also isolated from the others. On this matter, DDD principles can help us to keep the scope of the service small through what it calls **"bounded context."**
+
+Subsequently, DDD is going to help you **investigate and know your domain and all subdomains** well through the communication you build with the domain experts. 
+By knowing your domain andsubdomains well, you will know the map contexts and how all subdomains interact with each other, which will help you in designing and choosing the type of your microservices architecture and what kind of approaches you use to implement them, whether a reactive approach, orchestration approach, or hybrid... 
+it will depend on your knowledge about the domain you're working on. There are pros and cons for each approach that need to be evaluated based on the project and your domain knowledge. DDD will help you make a decision on this matter.
+https://dzone.com/articles/ddd-part-iv-ddd-amp-microservices
+
 ## Glossary
 * http://uniknow.github.io/AgileDev/site/0.1.8-SNAPSHOT/parent/ddd/core/glossary.html
 * https://gist.github.com/bobthemighty/b241a4fccadbd7591024
