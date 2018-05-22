@@ -1,12 +1,13 @@
 # Domain-driven design (DDD) learning resources
 
 1. [Introduction](#introduction)
-2. [Glossary](#glossary)
-3. [Books](#books)
-4. [Presentations](#presentations)
-5. [References](#references)
-6. [Samples](#samples)
-7. [Frameworks](#frameworks)
+2. [Benefits](#benefits)
+3. [Glossary](#glossary)
+4. [Books](#books)
+5. [Presentations](#presentations)
+6. [References](#references)
+7. [Samples](#samples)
+8. [Frameworks](#frameworks)
 
 ## Introduction
 Domain-driven design (DDD) is an approach to software development for complex needs by connecting the implementation to an evolving model. The premise of domain-driven design is the following
@@ -15,6 +16,30 @@ Domain-driven design (DDD) is an approach to software development for complex ne
 * initiating a creative collaboration between technical and domain experts to iteratively refine a conceptual model that addresses particular domain problems.
 
 https://en.wikipedia.org/wiki/Domain-driven_design
+
+## Benefits
+DDD Value And Benefits (A.K.A. How To Sell Ddd To Your Management, Domain Experts, And Technical Team Members)
+
+* Organization gains a useful model of its domain
+* Develop a refined, precise definition and understanding of your business
+* Domain experts contribute to software design
+* Gain a better user experience
+* Place clean boundaries around pure models
+* Better organize elements of your enterprise architecture
+* Use agile, iterative, continuous modeling
+* Employ new tools, both strategic and tactical, to your code
+
+http://www.informit.com/articles/article.aspx?p=1944876&seqNum=4
+
+The following are the main benefits of the Domain Driven Design style:
+
+* **Communication**. All parties within a development team can use the domain model and the entities it defines to communicate business knowledge and requirements using a common business domain language, without requiring technical jargon.
+* **Extensible**. The domain model is often modular and flexible, making it easy to update and extend as conditions and requirements change.
+* **Testable**. The domain model objects are loosely coupled and cohesive, allowing them to be more easily tested.
+Consider DDD if you have a complex domain and you wish to improve communication and understanding within your development team, or where you must express the design of an application in a common language that all stakeholders can understand. 
+DDD can also be an ideal approach if you have large and complex enterprise data scenarios that are difficult to manage using other techniques.
+
+https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658117(v=pandp.10)
 
 ## Glossary
 * http://uniknow.github.io/AgileDev/site/0.1.8-SNAPSHOT/parent/ddd/core/glossary.html
@@ -107,6 +132,7 @@ https://en.wikipedia.org/wiki/Domain-driven_design
 ### Ruby
 * https://github.com/paulrayner/ddd_sample_app_ruby
 * https://github.com/lcrodriguez/rails-ddd-todolist
+* https://railseventstore.org/docs/install/ (event sourcing lib)
 
 ### Go
 * https://github.com/bxcodec/go-clean-arch
