@@ -43,6 +43,7 @@ https://en.wikipedia.org/wiki/Domain-driven_design
 * Domain Driven Design - A place for everything and everything in its place https://youtube.com/watch?v=jraV7xSTYVs (polish)
 * Boiling Frogs 2018 - Jarosław Pałka - Sagi, strumienie, reaktywność i inne buzzwordy https://youtu.be/27S0G9bE3Bg?t=0s(polish)
 * Sławomir Sobótka - DDD: Q&A - czyli co gryzie świadomego programistę/programistkę https://youtu.be/FkylT96at4g (polish)
+* Sławomir Sobótka - DDD Q&A - wersja rozszerzona https://youtu.be/do-xqIbKZ_8 (polish)
 * https://devstyle.pl/2014/12/01/devtalk04-o-domain-driven-design-ze-slawomirem-sobotka/ (polish)
 * Event-Driven Rails from scratch https://youtube.com/watch?v=C3P3yGQyDQ4 
 * DDD europe https://www.youtube.com/channel/UC3PGn-hQdbtRiqxZK9XBGqQ/playlists 
