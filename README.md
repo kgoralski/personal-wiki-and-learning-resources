@@ -86,6 +86,7 @@ https://dzone.com/articles/ddd-part-iv-ddd-amp-microservices
 * http://alistair.cockburn.us/Hexagonal+architecture/v/slim
 * http://mkuthan.github.io/blog/2014/09/22/ddd-how-to-learn/
 * http://dddweekly.com
+* https://docs.microsoft.com/en-gb/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/ddd-oriented-microservice
 * https://martinfowler.com/bliki/AnemicDomainModel.html
 * https://martinfowler.com/tags/domain%20driven%20design.html
 * https://github.com/dzfweb/microsoft-microservices-book/blob/master/microservice-ddd-cqrs-patterns/ddd-oriented-microservice.md
