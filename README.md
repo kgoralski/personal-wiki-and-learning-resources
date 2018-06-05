@@ -95,6 +95,7 @@ https://dzone.com/articles/ddd-part-iv-ddd-amp-microservices
 * https://www.linkedin.com/pulse/code-better-ddd-what-why-balazs-hideghety/
 * https://gist.github.com/somebox/21c7c9ca3a62de9ac65a366fbb8c3250
 * http://mkuthan.github.io/presentations/micro-services.html#/
+* https://github.com/mariuszgil/awesome-eventstorming
 
 ### Java
 * https://bottega.com.pl/materialy.xhtm?cat=DDD (polish)
@@ -124,6 +125,7 @@ https://dzone.com/articles/ddd-part-iv-ddd-amp-microservices
 * https://medium.com/@eminetto/clean-architecture-using-golang-b63587aa5e3f
 * https://juicemia.com/post/go-ddd/
 * https://www.citerus.se/go-ddd/
+* https://outcrawl.com/go-microservices-cqrs-docker/
 
 ## Samples
 
