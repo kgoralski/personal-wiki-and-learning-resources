@@ -107,6 +107,7 @@ https://dzone.com/articles/ddd-part-iv-ddd-amp-microservices
 * https://devstyle.pl/2016/11/23/esencja-cqrs-to-bardzo-proste/ (polish)
 * http://piotrgankiewicz.com/2016/08/01/handling-domain-events
 * http://tidyjava.com/hexagonal-architecture-powerful
+* https://geek.justjoin.it/architektura-kodu-mikrouslugi-oparta-o-domain-driven-design/ (polish)
 
 ### Ruby
 * https://blog.arkency.com/domain-driven-rails/
