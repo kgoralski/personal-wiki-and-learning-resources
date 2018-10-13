@@ -1,5 +1,7 @@
 // TODO table of content
 
+* https://github.com/mfornos/awesome-microservices
+* https://github.com/theanalyst/awesome-distributed-systems
 * https://www.slideshare.net/adriancockcroft/dockercon-state-of-the-art-in-microservices
 - https://youtu.be/YQp85GzoxqA?t=2m48s  Microservices - the naked truth of the maintainability
 - https://www.slideshare.net/aahoogendoorn/designing-and-building-a-microservices-architecture-stairway-to-heaven-or-a-highway-to-hell
