@@ -20,6 +20,7 @@ https://en.wikipedia.org/wiki/Kotlin_(programming_language)
 
 * https://kotlinlang.org/
 * https://kotlin.link/
+* https://github.com/KotlinBy/awesome-kotlin
 * https://kotlinlang.org/docs/reference/server-overview.html
 * https://kotlinlang.org/docs/reference/comparison-to-java.html
 * https://kotlinlang.org/docs/books.html books
