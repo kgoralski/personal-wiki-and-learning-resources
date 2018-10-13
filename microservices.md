@@ -55,6 +55,8 @@ bounded contexts" by Adrian Cockcroft (Amazon)
 * https://martinfowler.com/bliki/MicroservicePrerequisites.html
 * https://martinfowler.com/bliki/MonolithFirst.html
 
+
+## References
 * https://github.com/mfornos/awesome-microservices
 * https://github.com/theanalyst/awesome-distributed-systems
 - https://youtu.be/YQp85GzoxqA?t=2m48s  Microservices - the naked truth of the maintainability
