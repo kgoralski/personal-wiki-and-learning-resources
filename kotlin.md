@@ -78,7 +78,7 @@ https://en.wikipedia.org/wiki/Kotlin_(programming_language)
 * Coroutines? https://kotlinlang.org/docs/reference/coroutines.html
 * Kotlin Native? (mobile) https://kotlinlang.org/docs/reference/native-overview.html
 * Got test libraries like Spek, KotlinTest... but you can use Spock or JUnit too
-* it is polish ketchup https://ketchupy.pl/ (wink)
+* it is polish ketchup https://ketchupy.pl/ ;)
 
 
 ### Cons: 
