@@ -127,3 +127,4 @@ Do we need it for Go? We have channels and goroutines.
 * https://blog.jetbrains.com/idea/2018/03/intellij-idea-2018-1-kubernetes-support/
 * https://plugins.jetbrains.com/plugin/7371-aws-cloudformation
 * https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support
+* https://github.com/amix/vimrc
