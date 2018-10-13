@@ -4,8 +4,8 @@
 2. [References](#references)
 3. [Tutorials](#tutorials)
 4. [Samples](#samples)
-5. [Should you switch from Java to Kotlin?](#presentations)
-6. [Comparison to Java Programming Language](#references)
+5. [Should you switch from Java to Kotlin?](#should-you-switch-from-java-to-kotlin)
+6. [Comparison to Java Programming Language](#comparison-to-java-programming-language)
 
 
 ## Introduction
@@ -18,40 +18,40 @@ https://en.wikipedia.org/wiki/Kotlin_(programming_language)
 
 ## References
 
-https://kotlinlang.org/
-https://kotlin.link/
-https://kotlinlang.org/docs/reference/server-overview.html
-https://kotlinlang.org/docs/reference/comparison-to-java.html
-https://kotlinlang.org/docs/books.html books
-https://github.com/KotlinBy/awesome-kotlin
-https://blog.gradle.org/kotlin-scripting-update
-https://codebeat.co/open-source/kotlin - static code analysis
-https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0
-https://kotlinlang.org/docs/reference/native-overview.html kotlin native
-KotlinConf 2017 https://www.youtube.com/playlist?list=PLQ176FUIyIUY6UK1cgVsbdPYA3X5WLam5
-https://kotlinlang.org/docs/resources.html
-http://www.baeldung.com/junit-5-kotlin
-https://geek.justjoin.it/kotlin-coroutine-pewno-kolejny-krok-dla-programisty-rxjava/ (polish)
+* https://kotlinlang.org/
+* https://kotlin.link/
+* https://kotlinlang.org/docs/reference/server-overview.html
+* https://kotlinlang.org/docs/reference/comparison-to-java.html
+* https://kotlinlang.org/docs/books.html books
+* https://github.com/KotlinBy/awesome-kotlin
+* https://blog.gradle.org/kotlin-scripting-update
+* https://codebeat.co/open-source/kotlin - static code analysis
+* https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0
+* https://kotlinlang.org/docs/reference/native-overview.html kotlin native
+* KotlinConf 2017 https://www.youtube.com/playlist?list=PLQ176FUIyIUY6UK1cgVsbdPYA3X5WLam5
+* https://kotlinlang.org/docs/resources.html
+* http://www.baeldung.com/junit-5-kotlin
+* https://geek.justjoin.it/kotlin-coroutine-pewno-kolejny-krok-dla-programisty-rxjava/ (polish)
 
 
 ## Tutorials:
 
-https://try.kotlinlang.org/
-http://www.baeldung.com/spring-boot-kotlin
-https://fabiomsr.github.io/from-java-to-kotlin/
-https://github.com/MindorksOpenSource/from-java-to-kotlin
-https://engineering.talkdesk.com/migrating-from-java-to-kotlin-the-easy-way-37b25a379d72
-https://stackoverflow.com/questions/40499452/how-to-build-google-protocol-buffers-and-kotlin-using-gradle
+* https://try.kotlinlang.org/
+* http://www.baeldung.com/spring-boot-kotlin
+* https://fabiomsr.github.io/from-java-to-kotlin/
+* https://github.com/MindorksOpenSource/from-java-to-kotlin
+* https://engineering.talkdesk.com/migrating-from-java-to-kotlin-the-easy-way-37b25a379d72
+* https://stackoverflow.com/questions/40499452/how-to-build-google-protocol-buffers-and-kotlin-using-gradle
 
 
 ## Samples:
 
-https://github.com/ssouris/petclinic-spring5-reactive
-https://github.com/spring-petclinic/spring-petclinic-kotlin
-https://github.com/FlavioF/kotlin-grpc-sample
-https://github.com/kgoralski/kotlin-springboot-template
-https://github.com/kgoralski/kotlin-reactive-playground
-https://github.com/kgoralski/go-kotlin-java-kafka
+* https://github.com/ssouris/petclinic-spring5-reactive
+* https://github.com/spring-petclinic/spring-petclinic-kotlin
+* https://github.com/FlavioF/kotlin-grpc-sample
+* https://github.com/kgoralski/kotlin-springboot-template
+* https://github.com/kgoralski/kotlin-reactive-playground
+* https://github.com/kgoralski/go-kotlin-java-kafka
 
 
 ## Should you switch from Java to Kotlin? 
@@ -110,7 +110,9 @@ Also... new things in Java 10 https://www.quora.com/What-is-new-in-Java-10/answe
 
 
 ## Comparison to Java Programming Language
-Some Java issues addressed in Kotlin
+https://kotlinlang.org/docs/reference/comparison-to-java.html
+
+"Some Java issues addressed in Kotlin
 
 ### Kotlin fixes a series of issues that Java suffers from:
 * Null references are controlled by the type system.
@@ -144,4 +146,4 @@ Some Java issues addressed in Kotlin
 * Companion objects
 * Data classes
 * Separate interfaces for read-only and mutable collections
-* Coroutines
+* Coroutines"
