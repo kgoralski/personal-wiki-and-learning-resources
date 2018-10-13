@@ -4,11 +4,11 @@
 "Service-oriented architecture composed of loosely coupled elements that have
 bounded contexts" by Adrian Cockcroft (Amazon)
 
-"[Conway's Law states that] Organizations that design systems are constrained to produce copies of the communication structures of these organizations [...] the organization chart will initially reflect the first system design, which is almost surely not the right one [...] as one learns, he changes the design [...]. Management structures also need to be changed as the system changes..."
+"Conway's Law states that Organizations that design systems are constrained to produce copies of the communication structures of these organizations [...] the organization chart will initially reflect the first system design, which is almost surely not the right one [...] as one learns, he changes the design [...]. Management structures also need to be changed as the system changes..."
 
-https://martinfowler.com/articles/microservices.html
-http://www.neverletdown.net/2015/05/introduction-to-microservices.html
-https://www.slideshare.net/adriancockcroft/dockercon-state-of-the-art-in-microservices
+* https://martinfowler.com/articles/microservices.html
+* http://www.neverletdown.net/2015/05/introduction-to-microservices.html
+* https://www.slideshare.net/adriancockcroft/dockercon-state-of-the-art-in-microservices
 
 # Monoliths vs Microservices
 
