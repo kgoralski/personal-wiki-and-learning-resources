@@ -10,6 +10,7 @@
 8. [Go and Rx (Reactive) Extensions](#go-and-rx-reactive-extensions)
 9. [IDE](#ide)
 10. [Performance Analysis for Golang programs](#performance-analysis-for-golang-programs)
+11. [Go for Java devs](#go-for-java-devs)
 
 ## Style and Guidelines
 * read https://github.com/golang/go/wiki/CodeReviewComments
