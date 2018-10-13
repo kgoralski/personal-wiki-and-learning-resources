@@ -128,3 +128,8 @@ Do we need it for Go? We have channels and goroutines.
 * https://plugins.jetbrains.com/plugin/7371-aws-cloudformation
 * https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support
 * https://github.com/amix/vimrc
+
+## Go for Java devs
+* https://github.com/fstab/go-programming-for-java-developers
+* https://steveperkins.com/go-for-java-programmers/
+* https://yourbasic.org/golang/go-java-tutorial/
