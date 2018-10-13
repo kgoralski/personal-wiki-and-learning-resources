@@ -1,0 +1,80 @@
+* https://www.slideshare.net/adriancockcroft/dockercon-state-of-the-art-in-microservices
+- https://youtu.be/YQp85GzoxqA?t=2m48s  Microservices - the naked truth of the maintainability
+- https://www.slideshare.net/aahoogendoorn/designing-and-building-a-microservices-architecture-stairway-to-heaven-or-a-highway-to-hell
+- http://www.infoq.com/resource/minibooks/domain-driven-design-quickly/en/pdf/DomainDrivenDesignQuicklyOnline.pdf
+- https://martinfowler.com/articles/microservices.html
+- https://martinfowler.com/articles/microservice-trade-offs.html
+- https://www.youtube.com/watch?v=JXEjAwNWays Golang UK Conference 2016 - Peter Bourgon - Go + Microservices = Go Kit
+- https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
+- https://www.youtube.com/watch?v=yxZm0Fhn9Tk  Microservices architecture pitfalls
+- https://martinfowler.com/bliki/MicroservicePrerequisites.html
+- http://callistaenterprise.se/blogg/teknik/2015/05/20/blog-series-building-microservices/
+- https://developers.redhat.com/blog/2016/12/09/spring-cloud-for-microservices-compared-to-kubernetes/
+- https://12factor.net
+- https://blog.codecentric.de/en/2016/04/event-driven-microservices-spring-cloud-stream/
+- https://techbeacon.com/what-apache-kafka-why-it-so-popular-should-you-use-it
+- https://github.com/vaquarkhan/vaquarkhan/wiki/CQRS-and-Event-Sourcing-in-Java-with-Spring-Framework
+- https://gist.github.com/staltz/868e7e9bc2a7b8c1f754  The introduction to Reactive Programming you've been missing
+- https://www.youtube.com/watch?v=QfpCF_Eo4V0  Asynchronous by default, synchronous when necessary
+- https://www.reactivemanifesto.org/
+- https://thenewstack.io/succeed-failure-microservices/
+- https://gist.github.com/chitchcock/1281611
+- https://plus.google.com/+RipRowan/posts/eVeouesvaVX
+- https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/
+- http://opensourceconnections.com/blog/2015/06/25/why-cassandra/
+- http://guide.couchdb.org/draft/consistency.html
+- https://plus.google.com/+RipRowan/posts/eVeouesvaVX
+- https://martinfowler.com/eaaDev/EventSourcing.html
+- https://dzone.com/articles/failure-mongodb-bitcoin
+- https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/
+- https://thehftguy.com/2017/02/23/docker-in-production-an-update/
+- https://blog.pragmatists.com/refactoring-from-anemic-model-to-ddd-880d3dd3d45f
+- https://jakubn.gitlab.io/keepitclean/#1
+- http://tidyjava.com/hexagonal-architecture-powerful/
+- http://www.javapractices.com/topic/TopicAction.do?Id=205
+- https://martinfowler.com/bliki/MonolithFirst.html
+- http://microservices.io/patterns/apigateway.html
+- https://vimeo.com/233798451  HTTP clients: silent heroes of distributed systems
+- https://content.pivotal.io/blog/should-that-be-a-microservice-part-4-independent-scalability
+- https://speakerdeck.com/wendigo/jdd-dlug-techniczny
+- Microservices architecture pitfalls https://youtu.be/yxZm0Fhn9Tk (polish)
+- 4lata rewolucji mikrousługowej https://youtu.be/_X89vxbuExE (polish)
+- Microservices https://youtu.be/GPj_KuWB7xA (polish)
+- Building distributed systems with OSS https://youtu.be/_2VuUr-LgLw (polish)
+- Scaling apps on local DC and cloud https://youtu.be/uSeaJcShLZk (polish)
+- A Hitchhiker's Guide to the Functional Exception Handling in Java https://www.youtube.com/watch?v=Fxyezv_a0Fk (polish)
+- https://allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html
+- https://www.mosaic9.org/
+- https://www.slideshare.net/adriancockcroft/dockercon-state-of-the-art-in-microservices
+- https://youtu.be/YQp85GzoxqA?t=2m48s
+- https://www.slideshare.net/aahoogendoorn/designing-and-building-a-microservices-architecture-stairway-to-heaven-or-a-highway-to-hell
+- http://www.infoq.com/resource/minibooks/domain-driven-design-quickly/en/pdf/DomainDrivenDesignQuicklyOnline.pdf
+- https://martinfowler.com/articles/microservices.html- https://www.youtube.com/watch?v=JXEjAwNWays
+- https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
+- https://www.youtube.com/watch?v=yxZm0Fhn9Tk
+- https://martinfowler.com/bliki/MicroservicePrerequisites.html
+- https://developers.redhat.com/blog/2016/12/09/spring-cloud-for-microservices-compared-to-kubernetes/
+- https://12factor.net
+- https://blog.codecentric.de/en/2016/04/event-driven-microservices-spring-cloud-stream/
+- https://techbeacon.com/what-apache-kafka-why-it-so-popular-should-you-use-it
+- https://github.com/vaquarkhan/vaquarkhan/wiki/CQRS-and-Event-Sourcing-in-Java-with-Spring-Framework
+- https://gist.github.com/staltz/868e7e9bc2a7b8c1f754- https://www.youtube.com/watch?v=QfpCF_Eo4V0
+- https://www.reactivemanifesto.org/
+- https://thenewstack.io/succeed-failure-microservices/
+- https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/
+- http://opensourceconnections.com/blog/2015/06/25/why-cassandra/
+- http://guide.couchdb.org/draft/consistency.html
+- https://plus.google.com/+RipRowan/posts/eVeouesvaVX
+- https://martinfowler.com/eaaDev/EventSourcing.html
+- https://dzone.com/articles/failure-mongodb-bitcoin
+- https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/
+- https://thehftguy.com/2017/02/23/docker-in-production-an-update/
+- https://blog.pragmatists.com/refactoring-from-anemic-model-to-ddd-880d3dd3d45f
+- https://jakubn.gitlab.io/keepitclean/#1
+- http://tidyjava.com/hexagonal-architecture-powerful/
+- http://www.javapractices.com/topic/TopicAction.do?Id=205
+- https://martinfowler.com/bliki/MonolithFirst.html
+- http://microservices.io/patterns/apigateway.html
+- https://vimeo.com/233798451https://speakerdeck.com/wendigo/jdd-dlug-techniczny
+- https://threedots.tech/post/microservices-or-monolith-its-detail/
+- http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/
