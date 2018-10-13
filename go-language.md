@@ -13,8 +13,6 @@
 
 ## Style and Guidelines
 * read https://github.com/golang/go/wiki/CodeReviewComments
-* read https://github.com/golang/go/wiki/CodeReviewComments again
-* everything above applies, except that we will pass pointers around if a function shall manipulate the data itself (i.e. protobuf)
 * format code according to `gofmt`, nothing else will be accepted
 * don't use a local include path, always prefix the full package URL "github.com/.../package"
 * create functions that return errors as the second return argument and handle it
