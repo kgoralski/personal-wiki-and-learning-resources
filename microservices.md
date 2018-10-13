@@ -50,6 +50,7 @@ bounded contexts" by Adrian Cockcroft (Amazon)
 * How to coordinate when business services run across components? 
 * How to build deployment pipelines?
 
+References:
 * https://www.slideshare.net/aahoogendoorn/designing-and-building-a-microservices-architecture-stairway-to-heaven-or-a-highway-to-hell
 * https://martinfowler.com/articles/microservice-trade-offs.html
 * https://martinfowler.com/bliki/MicroservicePrerequisites.html
