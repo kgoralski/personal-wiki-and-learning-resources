@@ -1,8 +1,62 @@
 // TODO table of content
 
+# Definition
+"Service-oriented architecture composed of loosely coupled elements that have
+bounded contexts" by Adrian Cockcroft (Amazon)
+
+"[Conway's Law states that] Organizations that design systems are constrained to produce copies of the communication structures of these organizations [...] the organization chart will initially reflect the first system design, which is almost surely not the right one [...] as one learns, he changes the design [...]. Management structures also need to be changed as the system changes..."
+
+https://martinfowler.com/articles/microservices.html
+http://www.neverletdown.net/2015/05/introduction-to-microservices.html
+https://www.slideshare.net/adriancockcroft/dockercon-state-of-the-art-in-microservices
+
+# Monoliths vs Microservices
+
+## Monoliths Advantages 
+* A single (layered) architecture 
+* A single technology stack 
+* A single code base maintained by multiple teams 
+
+## Monoliths Disadvantages 
+* All parts are interconnected 
+* Many other systems are connected to your system 
+* Hard to change, hard to maintain 
+* Long time between releases, thereby increasing risks  Slow innovation 
+* Hard to move to newer technologies 
+* Doesn’t scale very well 
+
+## Microservices Promises
+* Products not projects 
+* Scalable 
+* Decentralized governance 
+* Replaceable parts 
+* High performance 
+* Technology independent 
+* Polyglot persistence 
+* Easy to build 
+* Easy to test 
+* Easier deployment than monoliths Product Account Order Customer
+
+## Microservices. But… 
+* What is a microservice exactly? 
+* How small is a microservice? https://youtu.be/YQp85GzoxqA?t=2m48s
+* Requirements in a microservice world 
+* Components or services 
+* Who owns a microservice? 
+* What technologies do you use? 
+* What protocols do you apply? 
+* How to define messages 
+* How to test microservices 
+* How to coordinate when business services run across components? 
+* How to build deployment pipelines?
+
+https://www.slideshare.net/aahoogendoorn/designing-and-building-a-microservices-architecture-stairway-to-heaven-or-a-highway-to-hell
+https://martinfowler.com/articles/microservice-trade-offs.html
+https://martinfowler.com/bliki/MicroservicePrerequisites.html
+https://martinfowler.com/bliki/MonolithFirst.html
+
 * https://github.com/mfornos/awesome-microservices
 * https://github.com/theanalyst/awesome-distributed-systems
-* https://www.slideshare.net/adriancockcroft/dockercon-state-of-the-art-in-microservices
 - https://youtu.be/YQp85GzoxqA?t=2m48s  Microservices - the naked truth of the maintainability
 - https://www.slideshare.net/aahoogendoorn/designing-and-building-a-microservices-architecture-stairway-to-heaven-or-a-highway-to-hell
 - http://www.infoq.com/resource/minibooks/domain-driven-design-quickly/en/pdf/DomainDrivenDesignQuicklyOnline.pdf
