@@ -6,4 +6,4 @@
 4. [Kotlin](https://github.com/kgoralski/personal-wiki-and-learning-resources/blob/master/kotlin.md)
 5. [Apache Kafka](https://github.com/kgoralski/personal-wiki-and-learning-resources/blob/master/kafka.md)
 6. [Reactive](https://github.com/kgoralski/personal-wiki-and-learning-resources/blob/master/reactive.md)
-
+7. [Conference and meetup videos](https://github.com/kgoralski/personal-wiki-and-learning-resources/blob/master/conference_and_meetup_videos.md)
