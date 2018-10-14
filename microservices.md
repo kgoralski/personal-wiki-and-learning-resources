@@ -172,6 +172,8 @@ Reactive Systems are:
 
 "The driver is efficient resource utilization, or in other words, spending less money on servers and data centres. The promise of Reactive is that you can do more with less, specifically you can process higher loads with fewer threads. This is where the intersection of Reactive and non-blocking, asynchronous I/O comes to the foreground."
 
+"Asynchronous Communication, Isolation, Autonomicity, Single Responsibility, Exclusive State, and Mobility. These are the core traits of Microservices." by Jonas Boner
+
 * https://www.reactivemanifesto.org/
 * http://heidloff.net/article/introduction-reactive-microservices
 * https://www.oreilly.com/ideas/what-is-a-reactive-microservice
@@ -180,6 +182,7 @@ Reactive Systems are:
 * http://rxmarbles.com/
 * https://vimeo.com/233798451 - HTTP clients: silent heroes of distributed systems
 * https://www.youtube.com/watch?v=QfpCF_Eo4V0 - Asynchronous by default, synchronous when necessary
+* http://jonasboner.com/bla-bla-microservices-bla-bla/
 
 # Problems solved, Problems caused, Lessons learned
 inspired by "Peter Bourgon - Go + Microservices = Go Kit"  https://www.youtube.com/watch?v=JXEjAwNWays
