@@ -56,19 +56,12 @@ References:
 * https://martinfowler.com/articles/microservice-trade-offs.html
 * https://martinfowler.com/bliki/MicroservicePrerequisites.html
 * https://martinfowler.com/bliki/MonolithFirst.html
+* https://thenewstack.io/ten-commandments-microservices/
 
-## Microservices should be Business / Domain Oriented
-* https://martinfowler.com/bliki/BoundedContext.html
-* https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/ddd-oriented-microservice
-* http://www.infoq.com/resource/minibooks/domain-driven-design-quickly/en/pdf/DomainDrivenDesignQuicklyOnline.pdf
-* https://blog.pragmatists.com/refactoring-from-anemic-model-to-ddd-880d3dd3d45f
-* https://jakubn.gitlab.io/keepitclean/#1
-* http://tidyjava.com/hexagonal-architecture-powerful/
-
-## Fallacies of distributed computing
+# Fallacies of distributed computing
 The fallacies of distributed computing are a set of assertions made by L Peter Deutsch and others at Sun Microsystems describing false assumptions that programmers new to distributed applications invariably make.
 
-### The fallacies
+## The fallacies
 "Essentially everyone, when they first build a distributed application, makes the following eight assumptions. All prove to be false in the long run and all cause big trouble and painful learning experiences." by Peter Deutsch
 1. The network is reliable.
 2. Latency is zero.
@@ -80,7 +73,7 @@ The fallacies of distributed computing are a set of assertions made by L Peter D
 8. The network is homogeneous.
 So a design is bad if one these aspects is neglected.
 
-###  The effects of the fallacies
+##  The effects of the fallacies
 * Software applications are written with little error-handling on networking errors. During a network outage, such applications may stall or infinitely wait for an answer packet, permanently consuming memory or other resources. When the failed network becomes available, those applications may also fail to retry any stalled operations or require a (manual) restart.
 * Ignorance of network latency, and of the packet loss it can cause, induces application- and transport-layer developers to allow unbounded traffic, greatly increasing dropped packets and wasting bandwidth.
 * Ignorance of bandwidth limits on the part of traffic senders can result in bottlenecks.
@@ -94,7 +87,63 @@ https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
 http://principles-wiki.net/principles:fallacies_of_distributed_computing
 https://www.youtube.com/watch?v=yxZm0Fhn9Tk
 
-## References
+# Microservices Concerns
+* Config Management
+* Service Discovery & LB
+* Resilience & Fault Tolerance
+* Api Management
+* Service Security
+* Centralized Logging
+* Distributed Tracing
+* Scheduling & Deployment
+* Auto Scaling & Self Healing
+
+References:
+* https://developers.redhat.com/blog/2016/12/09/spring-cloud-for-microservices-compared-to-kubernetes/
+* https://12factor.net
+* https://dzone.com/articles/what-are-concerns-about-microservices
+* https://martinfowler.com/articles/microservice-trade-offs.html
+* https://www.martinfowler.com/microservices/#when
+* https://www.slideshare.net/aahoogendoorn/designing-and-building-a-microservices-architecture-stairway-to-heaven-or-a-highway-to-hell
+* https://martinfowler.com/articles/microservice-trade-offs.html
+* https://martinfowler.com/bliki/MicroservicePrerequisites.html
+* https://martinfowler.com/bliki/MonolithFirst.html
+* https://dwmkerr.com/the-death-of-microservice-madness-in-2018/
+* https://www.infoq.com/articles/seven-uservices-antipatterns
+* https://www.oreilly.com/library/view/microservices-antipatterns-and/9781492042716/
+
+# The 10 commandements of Microservices
+1. Clean Separation of Stateless and Stateful Services
+2. Do Not Share Libraries or SDKs (Dependencies will kill you)
+3. Avoid Host Affinity
+4. Focus on Services with One Task in Mind
+5. Use a Lightweight Messaging Protocol for Communication
+6. Design a Well-Defined Entry Point and Exit Point
+7. Implement a Self-Registration and Discovery Mechanism
+8. Explicitly Check for Rules and Constraints
+9. Prefer Polyglot Over Single Stack
+10. Maintain Independent Revisions and Build Environments
+https://thenewstack.io/ten-commandments-microservices/
+
+# Microservices and Teams
+(Again) "Conway's Law states that Organizations that design systems are constrained to produce copies of the communication structures of these organizations [...] the organization chart will initially reflect the first system design, which is almost surely not the right one [...] as one learns, he changes the design [...]. Management structures also need to be changed as the system changes..." 
+* https://martinfowler.com/articles/microservices.html#OrganizedAroundBusinessCapabilities
+* https://www.nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/
+* https://techbeacon.com/want-develop-great-microservices-reorganize-your-team
+* https://dzone.com/articles/microservices-and-team-organization
+* https://opensource.com/article/18/8/microservices-team-challenges
+
+# Microservices should be Organized around Business Capabilities and Domain
+* https://martinfowler.com/articles/microservices.html#OrganizedAroundBusinessCapabilities
+* https://martinfowler.com/bliki/BoundedContext.html
+* https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/ddd-oriented-microservice
+* http://www.infoq.com/resource/minibooks/domain-driven-design-quickly/en/pdf/DomainDrivenDesignQuicklyOnline.pdf
+* https://blog.pragmatists.com/refactoring-from-anemic-model-to-ddd-880d3dd3d45f
+* https://jakubn.gitlab.io/keepitclean/#1
+* http://tidyjava.com/hexagonal-architecture-powerful/
+
+
+# References
 * https://www.martinfowler.com/microservices
 * https://github.com/mfornos/awesome-microservices
 * https://github.com/theanalyst/awesome-distributed-systems
