@@ -83,9 +83,10 @@ So a design is bad if one these aspects is neglected.
 * The "hidden" costs of building and maintaining a network or subnet are non-negligible and must consequently be noted in budgets to avoid vast shortfalls.
 * If a system assumes a homogeneous network, then it can lead to the same problems that result from the first three fallacies.
 
-https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
-http://principles-wiki.net/principles:fallacies_of_distributed_computing
-https://www.youtube.com/watch?v=yxZm0Fhn9Tk
+References:
+* https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
+* http://principles-wiki.net/principles:fallacies_of_distributed_computing
+* https://www.youtube.com/watch?v=yxZm0Fhn9Tk
 
 # Microservices Concerns
 * Config Management
