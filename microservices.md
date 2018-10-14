@@ -124,6 +124,7 @@ References:
 * https://martinfowler.com/bliki/MonolithFirst.html
 * https://dwmkerr.com/the-death-of-microservice-madness-in-2018/
 * https://www.infoq.com/articles/seven-uservices-antipatterns
+* https://stackify.com/communication-microservices-avoid-common-problems/
 * https://www.oreilly.com/library/view/microservices-antipatterns-and/9781492042716/
 
 # The 10 commandements of Microservices
@@ -141,11 +142,14 @@ https://thenewstack.io/ten-commandments-microservices/
 
 # Microservices and Teams
 (Again) "Conway's Law states that Organizations that design systems are constrained to produce copies of the communication structures of these organizations [...] the organization chart will initially reflect the first system design, which is almost surely not the right one [...] as one learns, he changes the design [...]. Management structures also need to be changed as the system changes..." 
+
+"Inverse Conway Maneuver The 'Inverse Conway Maneuver' recommends evolving your team and organizational structure to promote your desired architecture. Org Structure Software Architecture"
 * https://martinfowler.com/articles/microservices.html#OrganizedAroundBusinessCapabilities
 * https://www.nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/
 * https://techbeacon.com/want-develop-great-microservices-reorganize-your-team
 * https://dzone.com/articles/microservices-and-team-organization
 * https://opensource.com/article/18/8/microservices-team-challenges
+* https://www.slideshare.net/ConfluentInc/microservices-in-the-apache-kafka-ecosystem
 
 # Microservices should be organized around Business Capabilities and Domain
 * https://martinfowler.com/articles/microservices.html#OrganizedAroundBusinessCapabilities
@@ -221,18 +225,62 @@ inspired by "Peter Bourgon - Go + Microservices = Go Kit"  https://www.youtube.c
 * One team and microservices? - Nope.
 * It is easy to create distributed monolith
 * ‘distributed’ tools by default are hard too
+* Designed for failure
 
-You can develop:
+With bad decisions you can develop:
 "Distributed Monolithic Applications: a monolithic application disguised as a collection of microservices, stitched together using JSON, simultaneously writing to a single database" by Kelsey Hightower
 
 References
 * https://www.youtube.com/watch?v=JXEjAwNWays
 * https://martinfowler.com/bliki/MonolithFirst.html
 
+# Internal communication and REST vs messaging
+"Communication between Microservices needs to be based on Asynchronous Message-Passing (while the logic inside each Microservice is performed in a synchronous fashion). As was mentioned earlier, an asynchronous boundary between services is necessary in order to decouple them, and their communication flow, in time—allowing concurrency—and in space—allowing distribution and mobility. Without this decoupling it is impossible to reach the level of compartmentalization and containment needed for isolation and resilience.
+
+Asynchronous and non-blocking execution and IO is often more cost-efficient through more efficient use of resources. It helps minimizing contention (congestion) on shared resources in the system, which is one of the biggest hurdles to scalability, low latency, and high throughput."
+
+"It is unfortunate that synchronous HTTP is widely considered as the go-to Microservice communication protocol. Its synchronous nature introduces strong coupling between services which makes it a very bad default protocol for inter-service communication." by Jonas Boner
+
+* https://dev.to/matteojoliveau/microservices-communications-why-you-should-switch-to-message-queues--48ia
+* http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+* https://www.oreilly.com/ideas/what-is-a-reactive-microservice
+* https://solace.com/blog/products-tech/experience-awesomeness-event-driven-microservices
+* https://solace.com/blog/messaging-between-microservices
+* https://www.slideshare.net/ewolff/rest-vs-messaging-for-microservices
+* https://www.slideshare.net/ConfluentInc/microservices-in-the-apache-kafka-ecosystem
+* https://techbeacon.com/what-apache-kafka-why-it-so-popular-should-you-use-it
+* https://github.com/vaquarkhan/vaquarkhan/wiki/CQRS-and-Event-Sourcing-in-Java-with-Spring-Framework
+* https://blog.codecentric.de/en/2016/04/event-driven-microservices-spring-cloud-stream/
+* https://martinfowler.com/eaaDev/EventSourcing.html
+* https://capgemini.github.io/architecture/is-rest-best-microservices/
+* https://softwaremill.com/mqperf/
+* https://softwareengineering.stackexchange.com/questions/339817/should-services-talk-directly-to-each-other-in-a-microservice-architecture
+* https://container-solutions.com/argument-rest-microservices/
+* http://jonasboner.com/bla-bla-microservices-bla-bla/
+* https://medium.com/@diogo.lucas/communication-patterns-in-a-microservice-world-af07192b12d3
+* https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/architect-microservice-container-applications/communication-in-microservice-architecture
+* https://github.com/dotnet/docs/blob/master/docs/standard/microservices-architecture/architect-microservice-container-applications/communication-in-microservice-architecture.md
+
+# Microservices Antipatterns & Pitfalls
+* http://highscalability.com/blog/2015/8/3/seven-of-the-nastiest-anti-patterns-in-microservices.html
+* https://container-solutions.com/the-seven-deadly-sins-of-microservices-redux/
+* https://www.infoq.com/articles/seven-uservices-antipatterns
+* https://opencredo.com/microservices-anti-patterns-its-all-about-the-people/
+* https://blog.appdynamics.com/engineering/how-to-avoid-antipatterns-with-microservices/
+* https://www.oreilly.com/library/view/microservices-antipatterns-and/9781492042716/
+* https://www.infoworld.com/article/3254777/application-development/3-common-pitfalls-of-microservices-integrationand-how-to-avoid-them.html
+* http://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/
+* https://enterprisersproject.com/article/2017/9/using-microservices-containers-wisely-5-pitfalls-avoid
+* https://medium.com/walmartlabs/avoiding-pitfalls-in-microservice-architecture-ba038340f8c1
+* https://www.slideshare.net/InfoQ/microservices-antipatterns
+* Pitfalls by Mateusz Gajewski https://www.youtube.com/watch?v=yxZm0Fhn9Tk
+
 # References
 * https://www.martinfowler.com/microservices
 * https://github.com/mfornos/awesome-microservices
 * https://github.com/theanalyst/awesome-distributed-systems
+* https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture
+* https://github.com/katopz/best-practices/blob/master/best-practices-for-building-a-microservice-architecture.md
 - https://youtu.be/YQp85GzoxqA?t=2m48s  Microservices - the naked truth of the maintainability
 - https://www.slideshare.net/aahoogendoorn/designing-and-building-a-microservices-architecture-stairway-to-heaven-or-a-highway-to-hell
 - http://www.infoq.com/resource/minibooks/domain-driven-design-quickly/en/pdf/DomainDrivenDesignQuicklyOnline.pdf
