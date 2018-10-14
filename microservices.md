@@ -267,6 +267,7 @@ Asynchronous and non-blocking execution and IO is often more cost-efficient thro
 * https://medium.com/@diogo.lucas/communication-patterns-in-a-microservice-world-af07192b12d3
 * https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/architect-microservice-container-applications/communication-in-microservice-architecture
 * https://github.com/dotnet/docs/blob/master/docs/standard/microservices-architecture/architect-microservice-container-applications/communication-in-microservice-architecture.md
+* https://www.infoq.com/news/2018/03/events-distributed-systems
 
 # Microservices Antipatterns & Pitfalls
 * http://highscalability.com/blog/2015/8/3/seven-of-the-nastiest-anti-patterns-in-microservices.html
