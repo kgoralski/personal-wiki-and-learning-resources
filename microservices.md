@@ -57,7 +57,7 @@ References:
 * https://martinfowler.com/bliki/MicroservicePrerequisites.html
 * https://martinfowler.com/bliki/MonolithFirst.html
 
-## Microservices should be Bussiness / Domain Oriented
+## Microservices should be Business / Domain Oriented
 * https://martinfowler.com/bliki/BoundedContext.html
 * https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/ddd-oriented-microservice
 * http://www.infoq.com/resource/minibooks/domain-driven-design-quickly/en/pdf/DomainDrivenDesignQuicklyOnline.pdf
