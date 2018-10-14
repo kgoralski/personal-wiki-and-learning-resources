@@ -7,10 +7,11 @@
 5. [The 10 commandements of Microservices](#the-10-commandements-of-microservices)
 6. [Microservices and Teams](#monoliths-vs-microservices)
 7. [Microservices should be organized around Business Capabilities and Domain](#microservices-should-be-organized-around-business-capabilities-and-domain)
-8. [Problems solved, Problems caused, Lessons learned](#problems-solved-problems-caused-lessons-learned)
-9. [Internal communication and REST vs messaging](#internal-communication-and-rest-vs-messaging)
-10. [Microservices Antipatterns & Pitfalls](#microservices-antipatterns--pitfalls)
-11. [References](#references)
+8. [Reactive Programming and Microservices](#reactive-programming-and-microservices)
+9. [Problems solved, Problems caused, Lessons learned](#problems-solved-problems-caused-lessons-learned)
+10. [Internal communication and REST vs messaging](#internal-communication-and-rest-vs-messaging)
+11. [Microservices Antipatterns & Pitfalls](#microservices-antipatterns--pitfalls)
+12. [References](#references)
 
 # Definition
 "Service-oriented architecture composed of loosely coupled elements that have
