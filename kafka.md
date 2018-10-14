@@ -47,7 +47,7 @@ First a few concepts:
 * https://www.infoq.com/articles/apache-kafka
 * Free books bundle https://www.confluent.io/apache-kafka-stream-processing-book-bundle
 * https://blog.scottlogic.com/2018/04/17/comparing-big-data-messaging.html
-
+* Rabbit & Kafka microservices https://news.ycombinator.com/item?id=11284765
 
 # Apache Kafka and Microservices
 * https://www.slideshare.net/KaiWaehner/eventdriven-microservices-with-apache-kafka-kafka-streams-and-ksql
