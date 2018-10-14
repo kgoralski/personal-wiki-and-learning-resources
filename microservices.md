@@ -7,8 +7,11 @@ bounded contexts" by Adrian Cockcroft (Amazon)
 "Conway's Law states that Organizations that design systems are constrained to produce copies of the communication structures of these organizations [...] the organization chart will initially reflect the first system design, which is almost surely not the right one [...] as one learns, he changes the design [...]. Management structures also need to be changed as the system changes..."
 
 * https://martinfowler.com/articles/microservices.html
+* https://www.martinfowler.com/microservices/
 * http://www.neverletdown.net/2015/05/introduction-to-microservices.html
 * https://www.slideshare.net/adriancockcroft/dockercon-state-of-the-art-in-microservices
+* https://github.com/mfornos/awesome-microservices#theory
+* https://github.com/theanalyst/awesome-distributed-systems
 
 # Monoliths vs Microservices
 
@@ -57,6 +60,7 @@ References:
 * https://martinfowler.com/bliki/MicroservicePrerequisites.html
 * https://martinfowler.com/bliki/MonolithFirst.html
 * https://thenewstack.io/ten-commandments-microservices/
+* https://threedots.tech/post/microservices-or-monolith-its-detail/
 
 # Fallacies of distributed computing
 The fallacies of distributed computing are a set of assertions made by L Peter Deutsch and others at Sun Microsystems describing false assumptions that programmers new to distributed applications invariably make.
@@ -134,7 +138,7 @@ https://thenewstack.io/ten-commandments-microservices/
 * https://dzone.com/articles/microservices-and-team-organization
 * https://opensource.com/article/18/8/microservices-team-challenges
 
-# Microservices should be Organized around Business Capabilities and Domain
+# Microservices should be organized around Business Capabilities and Domain
 * https://martinfowler.com/articles/microservices.html#OrganizedAroundBusinessCapabilities
 * https://martinfowler.com/bliki/BoundedContext.html
 * https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/ddd-oriented-microservice
@@ -143,6 +147,23 @@ https://thenewstack.io/ten-commandments-microservices/
 * https://jakubn.gitlab.io/keepitclean/#1
 * http://tidyjava.com/hexagonal-architecture-powerful/
 
+# Reactive Programming and Microservices
+Reactive Systems are:
+* Responsive
+* Resilient
+* Elastic
+* Message Driven
+
+"The driver is efficient resource utilization, or in other words, spending less money on servers and data centres. The promise of Reactive is that you can do more with less, specifically you can process higher loads with fewer threads. This is where the intersection of Reactive and non-blocking, asynchronous I/O comes to the foreground."
+
+* https://www.reactivemanifesto.org/
+* http://heidloff.net/article/introduction-reactive-microservices
+* https://www.oreilly.com/ideas/what-is-a-reactive-microservice
+* https://gist.github.com/staltz/868e7e9bc2a7b8c1f754 - The introduction to Reactive Programming you've been missing
+* https://spring.io/blog/2016/06/07/notes-on-reactive-programming-part-i-the-reactive-landscape
+* http://rxmarbles.com/
+* https://vimeo.com/233798451 - HTTP clients: silent heroes of distributed systems
+* https://www.youtube.com/watch?v=QfpCF_Eo4V0 - Asynchronous by default, synchronous when necessary
 
 # References
 * https://www.martinfowler.com/microservices
