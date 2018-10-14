@@ -173,7 +173,7 @@ Reactive Systems are:
 
 "The driver is efficient resource utilization, or in other words, spending less money on servers and data centres. The promise of Reactive is that you can do more with less, specifically you can process higher loads with fewer threads. This is where the intersection of Reactive and non-blocking, asynchronous I/O comes to the foreground."
 
-"Asynchronous Communication, Isolation, Autonomicity, Single Responsibility, Exclusive State, and Mobility. These are the core traits of Microservices." by Jonas Boner
+"The Reactive Essence of a Microservice. Asynchronous Communication, Isolation, Autonomicity, Single Responsibility, Exclusive State, and Mobility. These are the core traits of Microservices." by Jonas Boner
 
 * https://www.reactivemanifesto.org/
 * http://heidloff.net/article/introduction-reactive-microservices
