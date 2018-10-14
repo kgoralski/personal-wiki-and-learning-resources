@@ -1,7 +1,13 @@
 # Microservices
 
 1. [Definition](#definition)
-2. [Monoliths vs Microservices](#Monoliths-vs-Microservices)
+2. [Monoliths vs Microservices](#monoliths-vs-microservices)
+3. [Fallacies of distributed computing](#fallacies-of-distributed-computing)
+4. [Microservices Concerns](#monoliths-concerns)
+5. [The 10 commandements of Microservices](#the-10-commandements-of-microservices)
+6. [Microservices and Teams](#monoliths-vs-microservices)
+7. [Microservices should be organized around Business Capabilities and Domain](#microservices-should-be-organized-around-business-capabilities-and-domain)
+8. [Problems solved, Problems caused, Lessons learned](#problems-solved-problems-caused-lessons-learned)
 
 # Definition
 "Service-oriented architecture composed of loosely coupled elements that have
