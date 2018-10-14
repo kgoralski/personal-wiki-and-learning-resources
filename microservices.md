@@ -165,6 +165,61 @@ Reactive Systems are:
 * https://vimeo.com/233798451 - HTTP clients: silent heroes of distributed systems
 * https://www.youtube.com/watch?v=QfpCF_Eo4V0 - Asynchronous by default, synchronous when necessary
 
+# Problems solved, Problems caused, Lessons learned
+inspired by "Peter Bourgon - Go + Microservices = Go Kit"  https://www.youtube.com/watch?v=JXEjAwNWays
+
+## Problems solved
+* Team is too large to work effectively on shared codebase
+* Teams are blocked on other teams — can't make progress
+* Communication overhead too large
+* Velocity stalled
+* Gives more freedom about technology and ability to replace it
+* Teams in different timezones
+* Scalability and some technical issues
+
+## Problems caused
+* Need well-defined business domains for stable APIs
+* How to make it decoupled?
+* No more shared DB — distributed transactions?
+* Testing becomes really hard (chaos monkey anyone?)
+* Require dev/ops culture: devs deploy & operate their work
+* Job (service) scheduling — manually works, for a while…
+* Addressability i.e. service discovery
+* Monitoring and instrumentation — tail -f? Nagios & New Relic?
+* Distributed tracing?
+* Your SLA?
+* Audits?
+* Production database snapshots
+* Code reuse
+
+## Lessons learned
+* Distributed systems are hard to do
+* Evolutionary architecture!
+* Microservices are changing organisations
+* Devops/SysOps skill required, High level automation needed
+* Just another level of complexity
+* Always check if your framework solved your problem, already
+* Code reuse might be hard (or you just don’t want to do this)
+* Async communication / Event sourcing may help with decoupling
+* Config / Discovery should exist from day one?
+* One team per microservice?
+* Think twice before going Micro
+* Micro solves organisation problems, causing technical ones
+* Hard to manage Micro when business requirements are unknown, where are correct split lines?
+* Using Open Source Software is the way to go ?
+* Don’t start with microservices ? Monolith First, Microservices later
+* Software Houses - not sure if they possible to do such thing - time to market?
+* One team and microservices? - Nope.
+* It is easy to create distributed monolith
+* ‘distributed’ tools by default are hard too
+
+You can develop:
+"Distributed Monolithic Applications: a monolithic application disguised as a collection of microservices, stitched together using JSON, simultaneously writing to a single database" by Kelsey Hightower
+
+References
+* https://www.youtube.com/watch?v=JXEjAwNWays
+* https://martinfowler.com/bliki/MonolithFirst.html
+
 # References
 * https://www.martinfowler.com/microservices
 * https://github.com/mfornos/awesome-microservices
