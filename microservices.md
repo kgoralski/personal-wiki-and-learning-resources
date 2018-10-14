@@ -8,6 +8,9 @@
 6. [Microservices and Teams](#monoliths-vs-microservices)
 7. [Microservices should be organized around Business Capabilities and Domain](#microservices-should-be-organized-around-business-capabilities-and-domain)
 8. [Problems solved, Problems caused, Lessons learned](#problems-solved-problems-caused-lessons-learned)
+9. [Internal communication and REST vs messaging](#internal-communication-and-rest-vs-messaging)
+10. [Microservices Antipatterns & Pitfalls](#microservices-antipatterns--pitfalls)
+11. [References](#references)
 
 # Definition
 "Service-oriented architecture composed of loosely coupled elements that have
