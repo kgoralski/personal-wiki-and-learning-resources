@@ -51,13 +51,51 @@ bounded contexts" by Adrian Cockcroft (Amazon)
 * How to build deployment pipelines?
 
 References:
+* https://www.martinfowler.com/microservices/#when
 * https://www.slideshare.net/aahoogendoorn/designing-and-building-a-microservices-architecture-stairway-to-heaven-or-a-highway-to-hell
 * https://martinfowler.com/articles/microservice-trade-offs.html
 * https://martinfowler.com/bliki/MicroservicePrerequisites.html
 * https://martinfowler.com/bliki/MonolithFirst.html
 
+## Microservices should be Bussiness / Domain Oriented
+* https://martinfowler.com/bliki/BoundedContext.html
+* https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/ddd-oriented-microservice
+* http://www.infoq.com/resource/minibooks/domain-driven-design-quickly/en/pdf/DomainDrivenDesignQuicklyOnline.pdf
+* https://blog.pragmatists.com/refactoring-from-anemic-model-to-ddd-880d3dd3d45f
+* https://jakubn.gitlab.io/keepitclean/#1
+* http://tidyjava.com/hexagonal-architecture-powerful/
+
+## Fallacies of distributed computing
+The fallacies of distributed computing are a set of assertions made by L Peter Deutsch and others at Sun Microsystems describing false assumptions that programmers new to distributed applications invariably make.
+
+### The fallacies
+"Essentially everyone, when they first build a distributed application, makes the following eight assumptions. All prove to be false in the long run and all cause big trouble and painful learning experiences." by Peter Deutsch
+1. The network is reliable.
+2. Latency is zero.
+3. Bandwidth is infinite.
+4. The network is secure.
+5. Topology doesn't change.
+6. There is one administrator.
+7. Transport cost is zero.
+8. The network is homogeneous.
+So a design is bad if one these aspects is neglected.
+
+###  The effects of the fallacies
+* Software applications are written with little error-handling on networking errors. During a network outage, such applications may stall or infinitely wait for an answer packet, permanently consuming memory or other resources. When the failed network becomes available, those applications may also fail to retry any stalled operations or require a (manual) restart.
+* Ignorance of network latency, and of the packet loss it can cause, induces application- and transport-layer developers to allow unbounded traffic, greatly increasing dropped packets and wasting bandwidth.
+* Ignorance of bandwidth limits on the part of traffic senders can result in bottlenecks.
+* Complacency regarding network security results in being blindsided by malicious users and programs that continually adapt to security measures.
+* Changes in network topology can have effects on both bandwidth and latency issues, and therefore can have similar problems.
+* Multiple administrators, as with subnets for rival companies, may institute conflicting policies of which senders of network traffic must be aware in order to complete their desired paths.
+* The "hidden" costs of building and maintaining a network or subnet are non-negligible and must consequently be noted in budgets to avoid vast shortfalls.
+* If a system assumes a homogeneous network, then it can lead to the same problems that result from the first three fallacies.
+
+https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
+http://principles-wiki.net/principles:fallacies_of_distributed_computing
+https://www.youtube.com/watch?v=yxZm0Fhn9Tk
 
 ## References
+* https://www.martinfowler.com/microservices
 * https://github.com/mfornos/awesome-microservices
 * https://github.com/theanalyst/awesome-distributed-systems
 - https://youtu.be/YQp85GzoxqA?t=2m48s  Microservices - the naked truth of the maintainability
@@ -139,3 +177,4 @@ References:
 - https://vimeo.com/233798451https://speakerdeck.com/wendigo/jdd-dlug-techniczny
 - https://threedots.tech/post/microservices-or-monolith-its-detail/
 - http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/
+
