@@ -303,4 +303,6 @@ References
 - https://vimeo.com/233798451https://speakerdeck.com/wendigo/jdd-dlug-techniczny
 - https://threedots.tech/post/microservices-or-monolith-its-detail/
 - http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/
+* https://gist.github.com/chitchcock/1281611
+* https://plus.google.com/+RipRowan/posts/eVeouesvaVX
 
