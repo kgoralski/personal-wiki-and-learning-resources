@@ -98,6 +98,7 @@
 * [https://outcrawl.com/go-microservices-cqrs-docker/](https://outcrawl.com/go-microservices-cqrs-docker/)
 * [https://github.com/marcusolsson/goddd](https://github.com/marcusolsson/goddd)
 * [https://www.youtube.com/watch?v=dPmqQqPn75w](https://www.youtube.com/watch?v=dPmqQqPn75w)
+* [Criticism](https://www.reddit.com/r/golang/comments/6ugzo2/domain_driven_design_and_go/dlsm85q)
 
 ## Performance & monitoring
 
