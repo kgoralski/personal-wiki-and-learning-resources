@@ -269,6 +269,9 @@ Asynchronous and non-blocking execution and IO is often more cost-efficient thro
 * https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/architect-microservice-container-applications/communication-in-microservice-architecture
 * https://github.com/dotnet/docs/blob/master/docs/standard/microservices-architecture/architect-microservice-container-applications/communication-in-microservice-architecture.md
 * https://www.infoq.com/news/2018/03/events-distributed-systems
+* https://github.com/kgoralski/personal-wiki-and-learning-resources/blob/master/kafka.md#apache-kafka-and-microservices
+* https://www.confluent.io/solutions/microservices/
+* https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/
 
 # Microservices Antipatterns & Pitfalls
 * http://highscalability.com/blog/2015/8/3/seven-of-the-nastiest-anti-patterns-in-microservices.html
