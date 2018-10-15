@@ -59,6 +59,7 @@
 * [https://blog.gopheracademy.com/advent-2016/go-and-package-focused-design/](https://blog.gopheracademy.com/advent-2016/go-and-package-focused-design/)
 * [https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html](https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html)
 * [https://www.reddit.com/r/golang/comments/84a1q6/go_project_structure_is/](https://www.reddit.com/r/golang/comments/84a1q6/go_project_structure_is/)
+* [https://peter.bourgon.org/go-best-practices-2016/#repository-structure](https://peter.bourgon.org/go-best-practices-2016/#repository-structure)
 
 ## Tutorials
 
