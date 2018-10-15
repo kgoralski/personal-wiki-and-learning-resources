@@ -1,52 +1,57 @@
-# Conferences	
-* Talkery https://talkery.io/
-* GOTO	https://www.youtube.com/user/GotoConferences/playlists
-* Devoxx	https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists
-* Devoxx Poland	https://www.youtube.com/channel/UCAu3kLPVR1KScr5BReBJTvg/playlists
-* Devoxx UK	https://www.youtube.com/channel/UCxIamwHotqAAdmecaKT9WpA/playlists
-* GopherCon	https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA/playlists
-* GothamGo      https://www.youtube.com/channel/UCgRpkkcigKZk52JyAOYNs6w/playlists
-* Golang UK     https://www.youtube.com/channel/UC9ZNrGdT2aAdrNbX78lbNlQ/playlists
-* Google I/O , GDD etc.	https://www.youtube.com/user/GoogleDevelopers/playlists
-* Google Cloud https://www.youtube.com/channel/UCTMRxtyHoE3LPcrl-kT4AQQ/playlists
-* JavaOne	https://www.youtube.com/user/java/playlists
-* Code Europe	https://www.youtube.com/channel/UChdVVEAilVHULlycMbqRpdg/videos
-* Voxxed	https://www.youtube.com/user/voxxing/playlists
-* AWS	https://www.youtube.com/user/AmazonWebServices/playlists
-* Boiling Frogs PL	https://www.youtube.com/channel/UCgUfIjfLvWmARsQ-d5gPzrw/playlists
-* DevopsCon	https://www.youtube.com/channel/UCttdqyJB5wuJOO2KXea6WMQ/playlists
-* DevopsTalks	https://www.youtube.com/channel/UCrlLChZc3lcBKb_lqOIlwAQ/videos
-* DockerCon	https://www.youtube.com/user/dockerrun/playlists
-* code::dive	https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g/playlists
-* Confitura PL	https://www.youtube.com/user/confiturapl/playlists
-* 4developers & JDD PL 	https://www.youtube.com/user/PROIDEAconferences/playlists
-* infoShare PL	https://www.youtube.com/user/infoSharePL/playlists
-* InfoQ	https://www.youtube.com/user/MarakanaTechTV/playlists
-* MesosCon, ApacheCon, Open Source Summit	https://www.youtube.com/user/TheLinuxFoundation/playlists
-* Spring Framework 	https://www.youtube.com/user/SpringSourceDev/playlists
-* Web Summit	https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ/playlists
-* GeeCON	https://www.youtube.com/channel/UCVnJYdr91EZW8YvtMrxB1bg/playlists
-* dotConferences	https://www.youtube.com/user/dotconferences/playlists
-* Lambda World	https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/playlists
-* Scala Days	https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg/playlists
-* Scala Wave	https://www.youtube.com/channel/UC1VAdzkoY7M2e3msbW9Ur8w/videos
-* KotlinConf	https://www.youtube.com/playlist?list=PLQ176FUIyIUY6UK1cgVsbdPYA3X5WLam5&app=desktop
-* HashiCorp	https://m.youtube.com/playlist?list=PL81sUbsFNc5Y-jbEC1y5BWenDoYscVv4t
-* Black Hat     https://www.youtube.com/user/BlackHatOfficialYT/playlists
-* JetBrainsTV   https://www.youtube.com/user/JetBrainsTV/playlists
-* PyData        https://www.youtube.com/user/PyDataTV/playlists
-* CppCon        https://www.youtube.com/user/CppCon/playlists
-* RustConf      https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA/videos
-* HACKADAY      https://www.youtube.com/user/hackaday/playlists
-* SREcon,USENIX https://www.youtube.com/user/USENIXAssociation/playlists
-* Various	https://www.youtube.com/channel/UCipCbzfUjg7GZ-IFYpLvYWg/playlists
-* Various	https://www.youtube.com/user/Confreaks/playlists
-	
-# Meetups	
-* Various Poznań PL	https://www.youtube.com/channel/UCe90G1Bls8uibHTkPGEswmg/videos
-* Warsaw JUG PL	https://www.youtube.com/channel/UC2coGyxf5x_CzJ3l4F-N-Sw/videos
-* Łódź JUG PL https://www.youtube.com/user/juglodz/videos
-* Wrocław JUG PL https://www.youtube.com/channel/UCvj_1SWNU4diTM2Z2KCUHug/videos
-* Toruń JUG PL https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg/videos
-* Virtual JUG	https://www.youtube.com/user/virtualJUG/playlists
-* Golang Warsaw PL	https://www.youtube.com/channel/UCLO1lWtbudMB83WhxQNjNFw
+# Conference and meetup videos
+
+## Conferences
+
+* Talkery [https://talkery.io/](https://talkery.io/)
+* GOTO    [https://www.youtube.com/user/GotoConferences/playlists](https://www.youtube.com/user/GotoConferences/playlists)
+* Devoxx    [https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV\_3vurg/playlists](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists)
+* Devoxx Poland    [https://www.youtube.com/channel/UCAu3kLPVR1KScr5BReBJTvg/playlists](https://www.youtube.com/channel/UCAu3kLPVR1KScr5BReBJTvg/playlists)
+* Devoxx UK    [https://www.youtube.com/channel/UCxIamwHotqAAdmecaKT9WpA/playlists](https://www.youtube.com/channel/UCxIamwHotqAAdmecaKT9WpA/playlists)
+* GopherCon    [https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA/playlists](https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA/playlists)
+* GothamGo      [https://www.youtube.com/channel/UCgRpkkcigKZk52JyAOYNs6w/playlists](https://www.youtube.com/channel/UCgRpkkcigKZk52JyAOYNs6w/playlists)
+* Golang UK     [https://www.youtube.com/channel/UC9ZNrGdT2aAdrNbX78lbNlQ/playlists](https://www.youtube.com/channel/UC9ZNrGdT2aAdrNbX78lbNlQ/playlists)
+* Google I/O , GDD etc.    [https://www.youtube.com/user/GoogleDevelopers/playlists](https://www.youtube.com/user/GoogleDevelopers/playlists)
+* Google Cloud [https://www.youtube.com/channel/UCTMRxtyHoE3LPcrl-kT4AQQ/playlists](https://www.youtube.com/channel/UCTMRxtyHoE3LPcrl-kT4AQQ/playlists)
+* JavaOne    [https://www.youtube.com/user/java/playlists](https://www.youtube.com/user/java/playlists)
+* Code Europe    [https://www.youtube.com/channel/UChdVVEAilVHULlycMbqRpdg/videos](https://www.youtube.com/channel/UChdVVEAilVHULlycMbqRpdg/videos)
+* Voxxed    [https://www.youtube.com/user/voxxing/playlists](https://www.youtube.com/user/voxxing/playlists)
+* AWS    [https://www.youtube.com/user/AmazonWebServices/playlists](https://www.youtube.com/user/AmazonWebServices/playlists)
+* Boiling Frogs PL    [https://www.youtube.com/channel/UCgUfIjfLvWmARsQ-d5gPzrw/playlists](https://www.youtube.com/channel/UCgUfIjfLvWmARsQ-d5gPzrw/playlists)
+* DevopsCon    [https://www.youtube.com/channel/UCttdqyJB5wuJOO2KXea6WMQ/playlists](https://www.youtube.com/channel/UCttdqyJB5wuJOO2KXea6WMQ/playlists)
+* DevopsTalks    [https://www.youtube.com/channel/UCrlLChZc3lcBKb\_lqOIlwAQ/videos](https://www.youtube.com/channel/UCrlLChZc3lcBKb_lqOIlwAQ/videos)
+* DockerCon    [https://www.youtube.com/user/dockerrun/playlists](https://www.youtube.com/user/dockerrun/playlists)
+* code::dive    [https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g/playlists](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g/playlists)
+* Confitura PL    [https://www.youtube.com/user/confiturapl/playlists](https://www.youtube.com/user/confiturapl/playlists)
+* 4developers & JDD PL     [https://www.youtube.com/user/PROIDEAconferences/playlists](https://www.youtube.com/user/PROIDEAconferences/playlists)
+* infoShare PL    [https://www.youtube.com/user/infoSharePL/playlists](https://www.youtube.com/user/infoSharePL/playlists)
+* InfoQ    [https://www.youtube.com/user/MarakanaTechTV/playlists](https://www.youtube.com/user/MarakanaTechTV/playlists)
+* MesosCon, ApacheCon, Open Source Summit    [https://www.youtube.com/user/TheLinuxFoundation/playlists](https://www.youtube.com/user/TheLinuxFoundation/playlists)
+* Spring Framework     [https://www.youtube.com/user/SpringSourceDev/playlists](https://www.youtube.com/user/SpringSourceDev/playlists)
+* Web Summit    [https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ/playlists](https://www.youtube.com/channel/UCJtkHqH4Qof97TSx7BzE5IQ/playlists)
+* GeeCON    [https://www.youtube.com/channel/UCVnJYdr91EZW8YvtMrxB1bg/playlists](https://www.youtube.com/channel/UCVnJYdr91EZW8YvtMrxB1bg/playlists)
+* dotConferences    [https://www.youtube.com/user/dotconferences/playlists](https://www.youtube.com/user/dotconferences/playlists)
+* Lambda World    [https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/playlists](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/playlists)
+* Scala Days    [https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT\_0Mg/playlists](https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg/playlists)
+* Scala Wave    [https://www.youtube.com/channel/UC1VAdzkoY7M2e3msbW9Ur8w/videos](https://www.youtube.com/channel/UC1VAdzkoY7M2e3msbW9Ur8w/videos)
+* KotlinConf    [https://www.youtube.com/playlist?list=PLQ176FUIyIUY6UK1cgVsbdPYA3X5WLam5&app=desktop](https://www.youtube.com/playlist?list=PLQ176FUIyIUY6UK1cgVsbdPYA3X5WLam5&app=desktop)
+* HashiCorp    [https://m.youtube.com/playlist?list=PL81sUbsFNc5Y-jbEC1y5BWenDoYscVv4t](https://m.youtube.com/playlist?list=PL81sUbsFNc5Y-jbEC1y5BWenDoYscVv4t)
+* Black Hat     [https://www.youtube.com/user/BlackHatOfficialYT/playlists](https://www.youtube.com/user/BlackHatOfficialYT/playlists)
+* JetBrainsTV   [https://www.youtube.com/user/JetBrainsTV/playlists](https://www.youtube.com/user/JetBrainsTV/playlists)
+* PyData        [https://www.youtube.com/user/PyDataTV/playlists](https://www.youtube.com/user/PyDataTV/playlists)
+* CppCon        [https://www.youtube.com/user/CppCon/playlists](https://www.youtube.com/user/CppCon/playlists)
+* RustConf      [https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA/videos](https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA/videos)
+* HACKADAY      [https://www.youtube.com/user/hackaday/playlists](https://www.youtube.com/user/hackaday/playlists)
+* SREcon,USENIX [https://www.youtube.com/user/USENIXAssociation/playlists](https://www.youtube.com/user/USENIXAssociation/playlists)
+* Various    [https://www.youtube.com/channel/UCipCbzfUjg7GZ-IFYpLvYWg/playlists](https://www.youtube.com/channel/UCipCbzfUjg7GZ-IFYpLvYWg/playlists)
+* Various    [https://www.youtube.com/user/Confreaks/playlists](https://www.youtube.com/user/Confreaks/playlists)
+
+## Meetups
+
+* Various Poznań PL    [https://www.youtube.com/channel/UCe90G1Bls8uibHTkPGEswmg/videos](https://www.youtube.com/channel/UCe90G1Bls8uibHTkPGEswmg/videos)
+* Warsaw JUG PL    [https://www.youtube.com/channel/UC2coGyxf5x\_CzJ3l4F-N-Sw/videos](https://www.youtube.com/channel/UC2coGyxf5x_CzJ3l4F-N-Sw/videos)
+* Łódź JUG PL [https://www.youtube.com/user/juglodz/videos](https://www.youtube.com/user/juglodz/videos)
+* Wrocław JUG PL [https://www.youtube.com/channel/UCvj\_1SWNU4diTM2Z2KCUHug/videos](https://www.youtube.com/channel/UCvj_1SWNU4diTM2Z2KCUHug/videos)
+* Toruń JUG PL [https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg/videos](https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg/videos)
+* Virtual JUG    [https://www.youtube.com/user/virtualJUG/playlists](https://www.youtube.com/user/virtualJUG/playlists)
+* Golang Warsaw PL    [https://www.youtube.com/channel/UCLO1lWtbudMB83WhxQNjNFw](https://www.youtube.com/channel/UCLO1lWtbudMB83WhxQNjNFw)
+
