@@ -2,16 +2,15 @@
 
 1. [Style and Guidelines](go-language.md#style-and-guidelines)
 2. [Books](go-language.md#books)
-3. [Best Practices & interesting articles](go-language.md#best-practices--interesting-articles)
+3. [Best Practices & interesting articles](go-language.md#best-practices-and-interesting-articles)
 4. [Tutorials](go-language.md#tutorials)
 5. [Tests](go-language.md#tests)
 6. [Architecture & DDD](go-language.md#architecture--ddd)
-7. [Performance & monitoring](go-language.md#performance--monitoring)
+7. [Performance & monitoring](go-language.md#performance-and-monitoring)
 8. [Libraries](go-language.md#libraries)
 9. [Go and Rx \(Reactive\) Extensions](go-language.md#go-and-rx-reactive-extensions)
 10. [IDE](go-language.md#ide)
-11. [Performance Analysis for Golang programs](go-language.md#performance-analysis-for-golang-programs)
-12. [Go for Java devs](go-language.md#go-for-java-devs)
+11. [Go for Java devs](go-language.md#go-for-java-devs)
 
 ## Style and Guidelines
 
