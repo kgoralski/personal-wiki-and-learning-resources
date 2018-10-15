@@ -3,6 +3,7 @@
 1. [Style and Guidelines](go-language.md#style-and-guidelines)
 2. [Books](go-language.md#books)
 3. [Best Practices & interesting articles](go-language.md#best-practices--interesting-articles)
+4. [Package Design](go-language.md#package-design)
 4. [Tutorials](go-language.md#tutorials)
 5. [Tests](go-language.md#tests)
 6. [Architecture & DDD](go-language.md#architecture--ddd)
@@ -55,11 +56,15 @@
 * [https://github.com/enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list)
 * [http://oyvindsk.com/writing/common-golang-mistakes-1](http://oyvindsk.com/writing/common-golang-mistakes-1)
 * [https://eli.thegreenplace.net/2018/go-hits-the-concurrency-nail-right-on-the-head/](https://eli.thegreenplace.net/2018/go-hits-the-concurrency-nail-right-on-the-head/)
+
+## Package Design
 * [https://github.com/golang-standards/project-layout](https://github.com/golang-standards/project-layout)
 * [https://blog.gopheracademy.com/advent-2016/go-and-package-focused-design/](https://blog.gopheracademy.com/advent-2016/go-and-package-focused-design/)
 * [https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html](https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html)
 * [https://www.reddit.com/r/golang/comments/84a1q6/go_project_structure_is/](https://www.reddit.com/r/golang/comments/84a1q6/go_project_structure_is/)
 * [https://peter.bourgon.org/go-best-practices-2016/#repository-structure](https://peter.bourgon.org/go-best-practices-2016/#repository-structure)
+* [https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831](https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831)
+* [https://dave.cheney.net/2016/08/20/solid-go-design](https://dave.cheney.net/2016/08/20/solid-go-design)
 
 ## Tutorials
 
