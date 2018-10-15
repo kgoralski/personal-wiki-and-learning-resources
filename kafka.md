@@ -52,6 +52,7 @@ First a few concepts:
 * Free books bundle [https://www.confluent.io/apache-kafka-stream-processing-book-bundle](https://www.confluent.io/apache-kafka-stream-processing-book-bundle)
 * [https://blog.scottlogic.com/2018/04/17/comparing-big-data-messaging.html](https://blog.scottlogic.com/2018/04/17/comparing-big-data-messaging.html)
 * Rabbit & Kafka microservices [https://news.ycombinator.com/item?id=11284765](https://news.ycombinator.com/item?id=11284765)
+* Rabbit & Kafka [https://tech.trello.com/why-we-chose-kafka/](https://tech.trello.com/why-we-chose-kafka/)
 
 ## Apache Kafka and Microservices
 
