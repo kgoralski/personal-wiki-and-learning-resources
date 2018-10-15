@@ -51,6 +51,7 @@
 * https://itnext.io/debug-a-go-application-in-kubernetes-from-ide-c45ad26d8785
 * https://github.com/enocom/gopher-reading-list
 * http://oyvindsk.com/writing/common-golang-mistakes-1
+* https://eli.thegreenplace.net/2018/go-hits-the-concurrency-nail-right-on-the-head/
 
 ## Tutorials
 * For starter: https://tour.golang.org/welcome/1
