@@ -2,7 +2,7 @@
 
 1. [Style and Guidelines](go-language.md#style-and-guidelines)
 2. [Books](go-language.md#books)
-3. [Best Practices & interesting articles](go-language.md#best-practices-and-interesting-articles)
+3. [Best Practices & interesting articles](go-language.md#best-practices--interesting-articles)
 4. [Tutorials](go-language.md#tutorials)
 5. [Tests](go-language.md#tests)
 6. [Architecture & DDD](go-language.md#architecture--ddd)
