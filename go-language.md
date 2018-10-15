@@ -56,6 +56,7 @@
 * [https://github.com/enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list)
 * [http://oyvindsk.com/writing/common-golang-mistakes-1](http://oyvindsk.com/writing/common-golang-mistakes-1)
 * [https://eli.thegreenplace.net/2018/go-hits-the-concurrency-nail-right-on-the-head/](https://eli.thegreenplace.net/2018/go-hits-the-concurrency-nail-right-on-the-head/)
+* [https://github.com/golang-standards/project-layout](https://github.com/golang-standards/project-layout)
 
 ## Tutorials
 
