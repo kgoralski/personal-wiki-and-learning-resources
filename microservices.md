@@ -143,6 +143,7 @@ References:
 8. Explicitly Check for Rules and Constraints
 9. Prefer Polyglot Over Single Stack
 10. Maintain Independent Revisions and Build Environments
+
 https://thenewstack.io/ten-commandments-microservices/
 
 # Microservices and Teams
