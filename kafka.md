@@ -53,6 +53,8 @@ First a few concepts:
 * [https://blog.scottlogic.com/2018/04/17/comparing-big-data-messaging.html](https://blog.scottlogic.com/2018/04/17/comparing-big-data-messaging.html)
 * Rabbit & Kafka microservices [https://news.ycombinator.com/item?id=11284765](https://news.ycombinator.com/item?id=11284765)
 * Rabbit & Kafka [https://tech.trello.com/why-we-chose-kafka/](https://tech.trello.com/why-we-chose-kafka/)
+* Rabbit & Kafka [https://blog.mavenhive.in/which-one-to-use-and-when-rabbitmq-vs-apache-kafka-7d5423301b58](https://blog.mavenhive.in/which-one-to-use-and-when-rabbitmq-vs-apache-kafka-7d5423301b58)
+
 
 ## Apache Kafka and Microservices
 
