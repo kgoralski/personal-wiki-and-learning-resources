@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Github Content](README.md)
+* [My Knowledge Wiki](README.md)
 * [Microservices](microservices.md)
 * [Domain-driven design \(DDD\) learning resources](domain-driven-design.md)
 * [Go Programming Language](go-language.md)
