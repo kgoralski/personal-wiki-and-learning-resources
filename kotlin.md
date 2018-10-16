@@ -1,12 +1,5 @@
 # Kotlin Programming Language
 
-1. [Introduction](kotlin.md#introduction)
-2. [References](kotlin.md#references)
-3. [Tutorials](kotlin.md#tutorials)
-4. [Samples](kotlin.md#samples)
-5. [Should you switch from Java to Kotlin?](kotlin.md#should-you-switch-from-java-to-kotlin)
-6. [Comparison to Java Programming Language](kotlin.md#comparison-to-java-programming-language)
-
 ## Introduction
 
 "Kotlin is a statically typed programming language that runs on the Java virtual machine and also can be compiled to JavaScript source code or use the LLVM compiler infrastructure. Its primary development is from a team of JetBrains programmers based in Saint Petersburg, Russia.While the syntax is not compatible with Java, the JVM implementation of the Kotlin standard library is designed to interoperate with Java code and is reliant on Java code from the existing Java Class Library, such as the collections framework. Kotlin uses aggressive type inference to determine the type of values and expressions for which type has been left unstated. This reduces language verbosity relative to Java, which demands often entirely redundant type specifications prior to version 10.

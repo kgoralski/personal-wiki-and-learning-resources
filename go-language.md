@@ -1,18 +1,5 @@
 # Go Programming Language
 
-1. [Style and Guidelines](go-language.md#style-and-guidelines)
-2. [Books](go-language.md#books)
-3. [Best Practices & interesting articles](go-language.md#best-practices--interesting-articles)
-4. [Package Design](go-language.md#package-design)
-4. [Tutorials](go-language.md#tutorials)
-5. [Tests](go-language.md#tests)
-6. [Architecture & DDD](go-language.md#architecture--ddd)
-7. [Performance & monitoring](go-language.md#performance-and-monitoring)
-8. [Libraries](go-language.md#libraries)
-9. [Go and Rx \(Reactive\) Extensions](go-language.md#go-and-rx-reactive-extensions)
-10. [IDE](go-language.md#ide)
-11. [Go for Java devs](go-language.md#go-for-java-devs)
-
 ## Style and Guidelines
 
 * read [https://github.com/golang/go/wiki/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
@@ -58,11 +45,12 @@
 * [https://eli.thegreenplace.net/2018/go-hits-the-concurrency-nail-right-on-the-head/](https://eli.thegreenplace.net/2018/go-hits-the-concurrency-nail-right-on-the-head/)
 
 ## Package Design
+
 * [https://github.com/golang-standards/project-layout](https://github.com/golang-standards/project-layout)
 * [https://blog.gopheracademy.com/advent-2016/go-and-package-focused-design/](https://blog.gopheracademy.com/advent-2016/go-and-package-focused-design/)
 * [https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html](https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html)
-* [https://www.reddit.com/r/golang/comments/84a1q6/go_project_structure_is/](https://www.reddit.com/r/golang/comments/84a1q6/go_project_structure_is/)
-* [https://peter.bourgon.org/go-best-practices-2016/#repository-structure](https://peter.bourgon.org/go-best-practices-2016/#repository-structure)
+* [https://www.reddit.com/r/golang/comments/84a1q6/go\_project\_structure\_is/](https://www.reddit.com/r/golang/comments/84a1q6/go_project_structure_is/)
+* [https://peter.bourgon.org/go-best-practices-2016/\#repository-structure](https://peter.bourgon.org/go-best-practices-2016/#repository-structure)
 * [https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831](https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831)
 * [https://dave.cheney.net/2016/08/20/solid-go-design](https://dave.cheney.net/2016/08/20/solid-go-design)
 

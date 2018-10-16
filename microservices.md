@@ -1,20 +1,5 @@
 # Microservices
 
-## Microservices
-
-1. [Definition](microservices.md#definition)
-2. [Monoliths vs Microservices](microservices.md#monoliths-vs-microservices)
-3. [Fallacies of distributed computing](microservices.md#fallacies-of-distributed-computing)
-4. [Microservices Concerns](microservices.md#monoliths-concerns)
-5. [The 10 commandements of Microservices](microservices.md#the-10-commandements-of-microservices)
-6. [Microservices and Teams](microservices.md#monoliths-vs-microservices)
-7. [Microservices should be organized around Business Capabilities and Domain](microservices.md#microservices-should-be-organized-around-business-capabilities-and-domain)
-8. [Reactive Programming and Microservices](microservices.md#reactive-programming-and-microservices)
-9. [Problems solved, Problems caused, Lessons learned](microservices.md#problems-solved-problems-caused-lessons-learned)
-10. [Internal communication and REST vs messaging](microservices.md#internal-communication-and-rest-vs-messaging)
-11. [Microservices Antipatterns & Pitfalls](microservices.md#microservices-antipatterns--pitfalls)
-12. [References](microservices.md#references)
-
 ## Definition
 
 "Service-oriented architecture composed of loosely coupled elements that have bounded contexts" by Adrian Cockcroft \(Amazon\)

@@ -1,15 +1,6 @@
 # Domain-driven design \(DDD\) learning resources
 
-1. [Introduction](domain-driven-design.md#introduction)
-2. [Benefits](domain-driven-design.md#benefits)
-3. [Glossary](domain-driven-design.md#glossary)
-4. [Books](domain-driven-design.md#books)
-5. [Presentations](domain-driven-design.md#presentations)
-6. [References](domain-driven-design.md#references)
-7. [Samples](domain-driven-design.md#samples)
-8. [Frameworks](domain-driven-design.md#frameworks)
-
-## Introduction
+## **Introduction**
 
 Domain-driven design \(DDD\) is an approach to software development for complex needs by connecting the implementation to an evolving model. The premise of domain-driven design is the following
 

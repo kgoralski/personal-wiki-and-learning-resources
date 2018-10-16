@@ -1,12 +1,5 @@
 # Apache Kafka
 
-## Table of Contents
-
-1. [Introduction](kafka.md#introduction)
-2. [References](kafka.md#references)
-3. [Apache Kafka and Microservices](kafka.md#apache-kafka-and-microservices)
-4. [Apache Kafka and Blockchain](kafka.md#apache-kafka-and-blockchain)
-
 ## Introduction
 
 Apache Kafka® is a distributed streaming platform.
@@ -54,7 +47,6 @@ First a few concepts:
 * Rabbit & Kafka microservices [https://news.ycombinator.com/item?id=11284765](https://news.ycombinator.com/item?id=11284765)
 * Rabbit & Kafka [https://tech.trello.com/why-we-chose-kafka/](https://tech.trello.com/why-we-chose-kafka/)
 * Rabbit & Kafka [https://blog.mavenhive.in/which-one-to-use-and-when-rabbitmq-vs-apache-kafka-7d5423301b58](https://blog.mavenhive.in/which-one-to-use-and-when-rabbitmq-vs-apache-kafka-7d5423301b58)
-
 
 ## Apache Kafka and Microservices
 
