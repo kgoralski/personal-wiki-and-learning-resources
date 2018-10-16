@@ -141,7 +141,7 @@ References:
 
 \(Again\) "Conway's Law states that Organizations that design systems are constrained to produce copies of the communication structures of these organizations \[...\] the organization chart will initially reflect the first system design, which is almost surely not the right one \[...\] as one learns, he changes the design \[...\]. Management structures also need to be changed as the system changes..."
 
-"Inverse Conway Maneuver The 'Inverse Conway Maneuver' recommends evolving your team and organizational structure to promote your desired architecture. Org Structure Software Architecture"
+'Inverse Conway Maneuver' recommends evolving your team and organizational structure to promote your desired architecture. Ideally your technology architecture will display isomorphism with your business architecture. [https://www.thoughtworks.com/radar/techniques/inverse-conway-maneuver](https://www.thoughtworks.com/radar/techniques/inverse-conway-maneuver)
 
 * [https://martinfowler.com/articles/microservices.html\#OrganizedAroundBusinessCapabilities](https://martinfowler.com/articles/microservices.html#OrganizedAroundBusinessCapabilities)
 * [https://www.nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/](https://www.nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/)
