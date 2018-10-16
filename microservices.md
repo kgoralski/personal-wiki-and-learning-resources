@@ -27,7 +27,8 @@
 * All parts are interconnected 
 * Many other systems are connected to your system 
 * Hard to change, hard to maintain 
-* Long time between releases, thereby increasing risks  Slow innovation 
+* Long time between releases, thereby increasing risks 
+* Slow innovation 
 * Hard to move to newer technologies 
 * Doesn’t scale very well 
 
