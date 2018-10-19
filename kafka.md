@@ -49,6 +49,7 @@ First a few concepts:
 * Rabbit & Kafka [https://blog.mavenhive.in/which-one-to-use-and-when-rabbitmq-vs-apache-kafka-7d5423301b58](https://blog.mavenhive.in/which-one-to-use-and-when-rabbitmq-vs-apache-kafka-7d5423301b58)
 * [https://www.confluent.io/blog/event-driven-2-0](https://www.confluent.io/blog/event-driven-2-0)
 * [https://www.confluent.io/product/confluent-platform/](https://www.confluent.io/product/confluent-platform/)
+* [https://www.slideshare.net/ConfluentInc/common-patterns-of-multi-datacenter-architectures-with-apache-kafka](https://www.slideshare.net/ConfluentInc/common-patterns-of-multi-datacenter-architectures-with-apache-kafka)
 
 ## Apache Kafka and Microservices
 
