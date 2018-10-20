@@ -26,6 +26,8 @@ As of Android Studio 3.0 \(released in October 2017\), Kotlin is fully supported
 * [http://www.baeldung.com/junit-5-kotlin](http://www.baeldung.com/junit-5-kotlin)
 * [https://geek.justjoin.it/kotlin-coroutine-pewno-kolejny-krok-dla-programisty-rxjava/](https://geek.justjoin.it/kotlin-coroutine-pewno-kolejny-krok-dla-programisty-rxjava/) \(polish\)
 * [https://stackoverflow.com/questions/46864623/which-of-coroutines-goroutines-and-kotlin-coroutines-are-faster](https://stackoverflow.com/questions/46864623/which-of-coroutines-goroutines-and-kotlin-coroutines-are-faster)
+* [https://www.infoq.com/articles/intro-kotlin-java-developers](https://www.infoq.com/articles/intro-kotlin-java-developers)
+
 
 ## Tutorials:
 
