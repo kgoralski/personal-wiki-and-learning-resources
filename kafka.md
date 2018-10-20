@@ -26,10 +26,10 @@ First a few concepts:
 * Tutorial [https://www.udemy.com/apache-kafka/](https://www.udemy.com/apache-kafka/)
 * Books [https://www.confluent.io/apache-kafka-stream-processing-book-bundle](https://www.confluent.io/apache-kafka-stream-processing-book-bundle)
 * GCP [https://cloud.google.com/blog/big-data/2018/05/google-cloud-platform-and-confluent-partner-to-deliver-a-managed-apache-kafka-service](https://cloud.google.com/blog/big-data/2018/05/google-cloud-platform-and-confluent-partner-to-deliver-a-managed-apache-kafka-service)
-* AWS [https://aws.amazon.com/kafka/](https://aws.amazon.com/kafka/) 
+* AWS [https://aws.amazon.com/kafka/](https://aws.amazon.com/kafka/), [https://aws.amazon.com/quickstart/architecture/confluent-platform/](https://aws.amazon.com/quickstart/architecture/confluent-platform/), [https://www.confluent.io/confluent-cloud/](https://www.confluent.io/confluent-cloud/)
 * Beam has KafkaIO [https://cloud.google.com/blog/big-data/2016/09/apache-kafka-for-gcp-users-connectors-for-pubsub-dataflow-and-bigquery](https://cloud.google.com/blog/big-data/2016/09/apache-kafka-for-gcp-users-connectors-for-pubsub-dataflow-and-bigquery)
 * Spring Boot and Kafka [https://cloud.spring.io/spring-cloud-stream/](https://cloud.spring.io/spring-cloud-stream/)
-* Kafka has many connectors [https://www.confluent.io/product/connectors/](https://www.confluent.io/product/connectors/) one forBlockchain.info
+* Kafka has many connectors [https://www.confluent.io/product/connectors/](https://www.confluent.io/product/connectors/) one for Blockchain.info too
 * KSQL - enables something really effective: reading, writing and transforming data in real-time and a scale using a semantic already known by the majority of the community working in the data space, the SQL! [https://www.confluent.io/product/ksql/](https://www.confluent.io/product/ksql/) oraz [https://www.rittmanmead.com/blog/2017/10/ksql-streaming-sql-for-apache-kafka/](https://www.rittmanmead.com/blog/2017/10/ksql-streaming-sql-for-apache-kafka/)
 
   similar to blockchain in some way [https://www.rittmanmead.com/blog/2017/10/ksql-streaming-sql-for-apache-kafka/](https://www.rittmanmead.com/blog/2017/10/ksql-streaming-sql-for-apache-kafka/)
