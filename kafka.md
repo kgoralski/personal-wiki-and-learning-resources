@@ -50,7 +50,6 @@ First a few concepts:
 * [https://www.confluent.io/blog/event-driven-2-0](https://www.confluent.io/blog/event-driven-2-0)
 * [https://www.confluent.io/product/confluent-platform/](https://www.confluent.io/product/confluent-platform/)
 * [https://www.slideshare.net/ConfluentInc/common-patterns-of-multi-datacenter-architectures-with-apache-kafka](https://www.slideshare.net/ConfluentInc/common-patterns-of-multi-datacenter-architectures-with-apache-kafka)
-* [https://www.infoq.com/articles/intro-kotlin-java-developers](https://www.infoq.com/articles/intro-kotlin-java-developers)
 
 ## Apache Kafka and Microservices
 
