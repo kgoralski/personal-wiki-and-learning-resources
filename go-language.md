@@ -54,6 +54,7 @@
 * [https://www.reddit.com/r/golang/comments/84a1q6/go\_project\_structure\_is/](https://www.reddit.com/r/golang/comments/84a1q6/go_project_structure_is/)
 * [https://peter.bourgon.org/go-best-practices-2016/\#repository-structure](https://peter.bourgon.org/go-best-practices-2016/#repository-structure)
 * [https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831](https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831)
+* [Writing Beautiful Packages in Go - Mat Ryer](https://www.youtube.com/watch?v=cmkKxNN7cs4)
 * [https://dave.cheney.net/2016/08/20/solid-go-design](https://dave.cheney.net/2016/08/20/solid-go-design)
 
 ## Tutorials
