@@ -51,6 +51,7 @@
 * [https://blog.gopheracademy.com/advent-2016/go-and-package-focused-design/](https://blog.gopheracademy.com/advent-2016/go-and-package-focused-design/)
 * [https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html](https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html)
 * [Package oriented design by William Kennedy](https://www.youtube.com/watch?v=ik1l5a50hKQ) and sample [https://github.com/ardanlabs/service](https://github.com/ardanlabs/service)
+* [https://www.reddit.com/r/golang/comments/6vtp5x/go_programming_packageoriented_design_what_are/](https://www.reddit.com/r/golang/comments/6vtp5x/go_programming_packageoriented_design_what_are/)
 * [https://www.reddit.com/r/golang/comments/84a1q6/go\_project\_structure\_is/](https://www.reddit.com/r/golang/comments/84a1q6/go_project_structure_is/)
 * [https://peter.bourgon.org/go-best-practices-2016/\#repository-structure](https://peter.bourgon.org/go-best-practices-2016/#repository-structure)
 * [https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831](https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831)
