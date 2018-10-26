@@ -50,7 +50,6 @@ First a few concepts:
 * [https://www.confluent.io/blog/event-driven-2-0](https://www.confluent.io/blog/event-driven-2-0)
 * [https://www.confluent.io/product/confluent-platform/](https://www.confluent.io/product/confluent-platform/)
 * [https://www.slideshare.net/ConfluentInc/common-patterns-of-multi-datacenter-architectures-with-apache-kafka](https://www.slideshare.net/ConfluentInc/common-patterns-of-multi-datacenter-architectures-with-apache-kafka)
-* [https://www.slideshare.net/ConfluentInc/common-patterns-of-multi-datacenter-architectures-with-apache-kafka](https://www.slideshare.net/ConfluentInc/common-patterns-of-multi-datacenter-architectures-with-apache-kafka)
 
 ## Apache Kafka and Microservices
 
@@ -63,6 +62,7 @@ First a few concepts:
 * [https://engineering.linkedin.com/blog/2016/04/kafka-ecosystem-at-linkedin](https://engineering.linkedin.com/blog/2016/04/kafka-ecosystem-at-linkedin)
 * [https://engineering.linkedin.com/kafka/running-kafka-scale](https://engineering.linkedin.com/kafka/running-kafka-scale)
 * [https://www.thoughtworks.com/radar/techniques/recreating-esb-antipatterns-with-kafka](https://www.thoughtworks.com/radar/techniques/recreating-esb-antipatterns-with-kafka)
+* [https://www.slideshare.net/ConfluentInc/common-patterns-of-multi-datacenter-architectures-with-apache-kafka](https://www.slideshare.net/ConfluentInc/common-patterns-of-multi-datacenter-architectures-with-apache-kafka)
 
 ## Apache Kafka and Blockchain
 
