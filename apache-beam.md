@@ -76,8 +76,6 @@ Cloud Dataflow unlocks transformational use cases across industries, including:
 
 {% embed url="https://beam.apache.org/documentation/io/built-in/" %}
 
-![](https://ci4.googleusercontent.com/proxy/zrWwaPYDpgYAhJXgQlhC_snWGst5OKPLLojNlh5yH9ssh-hGsi6Pk89jnWKOUmtd-TgQAV23OMKhjw9T7q0NKjbAlWTvP9b6VGNv4I3NcKPTR6A3vK495-Cz3NMQc1viJhfAZZkbKifdx498q17uPeVli4vu_ifTuUwBv0u2FtCFp4INJDCD31Uz32_Apa94zWBBWJMug6mL37qrRMo-hq36yUxCHoBuCeLH42W9ifHJQio4ZGdrtr0Q6WfOwnljPQSmJEVF236X6UerZ0ZzCg=s0-d-e1-ft#https://bitgamelabs.atlassian.net/wiki/download/thumbnails/464093229/Screen%20Shot%202018-02-12%20at%2010.49.54.png?version=1&modificationDate=1518429093099&cacheVersion=1&api=v2&width=900)
-
 ![](.gitbook/assets/image.png)
 
 ### How are Java exceptions handled in Dataflow?
