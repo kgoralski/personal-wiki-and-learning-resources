@@ -9,6 +9,7 @@
 * use const if possible and multiple const blocks if necessary
 * [https://github.com/tmrts/go-patterns](https://github.com/tmrts/go-patterns)
 * [https://github.com/cristaloleg/go-advices/blob/master/README.md](https://github.com/cristaloleg/go-advices/blob/master/README.md)
+* [https://goreportcard.com](https://goreportcard.com)
 
 ## Books
 
