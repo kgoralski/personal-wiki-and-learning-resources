@@ -8,5 +8,6 @@
 * [Reactive Programming](reactive.md)
 * [Apache Kafka](kafka.md)
 * [Serverless](serverless.md)
+* [Apache Beam](apache-beam.md)
 * [Conference and meetup videos](conference_and_meetup_videos.md)
 
