@@ -183,6 +183,11 @@ Reactive Systems are:
 * [https://www.youtube.com/watch?v=QfpCF\_Eo4V0](https://www.youtube.com/watch?v=QfpCF_Eo4V0) - Asynchronous by default, synchronous when necessary
 * [http://jonasboner.com/bla-bla-microservices-bla-bla/](http://jonasboner.com/bla-bla-microservices-bla-bla/)
 
+## Microservices solve organizational problems and cause technical problem
+
+From Go + Microservices = Go Kit \[I\] - Peter Bourgon, Go Kit  
+[https://youtu.be/NX0sHF8ZZgw?t=729](https://youtu.be/NX0sHF8ZZgw?t=729)
+
 ## Problems solved, Problems caused, Lessons learned
 
 inspired by "Peter Bourgon - Go + Microservices = Go Kit" [https://www.youtube.com/watch?v=JXEjAwNWays](https://www.youtube.com/watch?v=JXEjAwNWays)
