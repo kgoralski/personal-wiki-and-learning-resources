@@ -49,6 +49,7 @@
 ## Package Design
 
 * [https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
+* [Ben Johnson way](https://stackoverflow.com/a/46663495/7120456)
 * [https://github.com/golang-standards/project-layout](https://github.com/golang-standards/project-layout)
 * [https://blog.gopheracademy.com/advent-2016/go-and-package-focused-design/](https://blog.gopheracademy.com/advent-2016/go-and-package-focused-design/)
 * [https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html](https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html)
