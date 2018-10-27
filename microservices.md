@@ -122,7 +122,7 @@ References:
 * [https://www.infoq.com/articles/seven-uservices-antipatterns](https://www.infoq.com/articles/seven-uservices-antipatterns)
 * [https://stackify.com/communication-microservices-avoid-common-problems/](https://stackify.com/communication-microservices-avoid-common-problems/)
 * [https://www.oreilly.com/library/view/microservices-antipatterns-and/9781492042716/](https://www.oreilly.com/library/view/microservices-antipatterns-and/9781492042716/)
-* [Microservices in the Cloud with Kubernetes and Istio (Google I/O '18)](https://youtu.be/gauOI0O9fRM)
+* [Microservices in the Cloud with Kubernetes and Istio \(Google I/O '18\)](https://youtu.be/gauOI0O9fRM)
 
 ## The 10 commandements of Microservices
 

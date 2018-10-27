@@ -28,7 +28,7 @@ As of Android Studio 3.0 \(released in October 2017\), Kotlin is fully supported
 * [https://stackoverflow.com/questions/46864623/which-of-coroutines-goroutines-and-kotlin-coroutines-are-faster](https://stackoverflow.com/questions/46864623/which-of-coroutines-goroutines-and-kotlin-coroutines-are-faster)
 * [https://www.infoq.com/articles/intro-kotlin-java-developers](https://www.infoq.com/articles/intro-kotlin-java-developers)
 
-## Tutorials:
+## Tutorials
 
 * [https://try.kotlinlang.org/](https://try.kotlinlang.org/)
 * [http://www.baeldung.com/spring-boot-kotlin](http://www.baeldung.com/spring-boot-kotlin)
@@ -37,7 +37,7 @@ As of Android Studio 3.0 \(released in October 2017\), Kotlin is fully supported
 * [https://engineering.talkdesk.com/migrating-from-java-to-kotlin-the-easy-way-37b25a379d72](https://engineering.talkdesk.com/migrating-from-java-to-kotlin-the-easy-way-37b25a379d72)
 * [https://stackoverflow.com/questions/40499452/how-to-build-google-protocol-buffers-and-kotlin-using-gradle](https://stackoverflow.com/questions/40499452/how-to-build-google-protocol-buffers-and-kotlin-using-gradle)
 
-## Samples:
+## Samples
 
 * [https://github.com/ssouris/petclinic-spring5-reactive](https://github.com/ssouris/petclinic-spring5-reactive)
 * [https://github.com/spring-petclinic/spring-petclinic-kotlin](https://github.com/spring-petclinic/spring-petclinic-kotlin)
@@ -48,7 +48,7 @@ As of Android Studio 3.0 \(released in October 2017\), Kotlin is fully supported
 
 ## Should you switch from Java to Kotlin?
 
-### Pros:
+### Pros
 
 * "Better Java" & "Java after Effective Java" 
 * Syntax Sugar
@@ -72,7 +72,7 @@ As of Android Studio 3.0 \(released in October 2017\), Kotlin is fully supported
 * Got test libraries like Spek, KotlinTest... but you can use Spock or JUnit too
 * it is polish ketchup [https://ketchupy.pl/](https://ketchupy.pl/) ;\)
 
-### Cons:
+### Cons
 
 * Most people will stick to Java
 * Java development will be slower but it will probably catch Kotlin features later. But switching back to Java will be easy.
@@ -84,7 +84,7 @@ As of Android Studio 3.0 \(released in October 2017\), Kotlin is fully supported
 * Still it is a some kind of risk and time investment
 * A litle bit slower compilation time \(?\)
 
-### More opinnions:
+### More opinnions
 
 * [https://medium.com/@magnus.chatt/why-you-should-totally-switch-to-kotlin-c7bbde9e10d5](https://medium.com/@magnus.chatt/why-you-should-totally-switch-to-kotlin-c7bbde9e10d5)
 * [https://hashnode.com/post/why-i-abandoned-java-in-favour-of-kotlin-ciuzhmecf09khdc530m1ghu6d](https://hashnode.com/post/why-i-abandoned-java-in-favour-of-kotlin-ciuzhmecf09khdc530m1ghu6d)
@@ -105,7 +105,7 @@ Also... new things in Java 10 [https://www.quora.com/What-is-new-in-Java-10/answ
 
 "Some Java issues addressed in Kotlin
 
-### Kotlin fixes a series of issues that Java suffers from:
+### Kotlin fixes a series of issues that Java suffers from
 
 * Null references are controlled by the type system.
 * No raw types
@@ -114,7 +114,7 @@ Also... new things in Java 10 [https://www.quora.com/What-is-new-in-Java-10/answ
 * Use-site variance without wildcards
 * Kotlin does not have checked exceptions
 
-  **What Java has that Kotlin does not**
+### **What Java has that Kotlin does not**
 
 * Checked exceptions
 * Primitive types that are not classes
