@@ -26,7 +26,7 @@ First a few concepts:
 * Tutorial [https://www.udemy.com/apache-kafka/](https://www.udemy.com/apache-kafka/)
 * Books [https://www.confluent.io/apache-kafka-stream-processing-book-bundle](https://www.confluent.io/apache-kafka-stream-processing-book-bundle)
 * GCP [https://cloud.google.com/blog/big-data/2018/05/google-cloud-platform-and-confluent-partner-to-deliver-a-managed-apache-kafka-service](https://cloud.google.com/blog/big-data/2018/05/google-cloud-platform-and-confluent-partner-to-deliver-a-managed-apache-kafka-service)
-* AWS [https://aws.amazon.com/kafka/](https://aws.amazon.com/kafka/), [https://aws.amazon.com/quickstart/architecture/confluent-platform/](https://aws.amazon.com/quickstart/architecture/confluent-platform/), [https://www.confluent.io/confluent-cloud/](https://www.confluent.io/confluent-cloud/)
+* AWS [https://aws.amazon.com/kafka/](https://aws.amazon.com/kafka/), [https://aws.amazon.com/quickstart/architecture/confluent-platform/](https://aws.amazon.com/quickstart/architecture/confluent-platform/), [https://www.confluent.io/confluent-cloud/](https://www.confluent.io/confluent-cloud/) &lt;- managed service
 * Beam has KafkaIO [https://cloud.google.com/blog/big-data/2016/09/apache-kafka-for-gcp-users-connectors-for-pubsub-dataflow-and-bigquery](https://cloud.google.com/blog/big-data/2016/09/apache-kafka-for-gcp-users-connectors-for-pubsub-dataflow-and-bigquery)
 * Spring Boot and Kafka [https://cloud.spring.io/spring-cloud-stream/](https://cloud.spring.io/spring-cloud-stream/)
 * Kafka has many connectors [https://www.confluent.io/product/connectors/](https://www.confluent.io/product/connectors/) one for Blockchain.info too
@@ -50,6 +50,9 @@ First a few concepts:
 * [https://www.confluent.io/blog/event-driven-2-0](https://www.confluent.io/blog/event-driven-2-0)
 * [https://www.confluent.io/product/confluent-platform/](https://www.confluent.io/product/confluent-platform/)
 * [https://www.slideshare.net/ConfluentInc/common-patterns-of-multi-datacenter-architectures-with-apache-kafka](https://www.slideshare.net/ConfluentInc/common-patterns-of-multi-datacenter-architectures-with-apache-kafka)
+* [https://www.slideshare.net/KaushalLahankarFRM/kafka-vs-kinesis](https://www.slideshare.net/KaushalLahankarFRM/kafka-vs-kinesis)
+* [https://edoc.site/datapipe-whitepaper-kafka-vs-kinesis-pdf-free.html](https://edoc.site/datapipe-whitepaper-kafka-vs-kinesis-pdf-free.html)
+* [https://www.quora.com/Which-of-Amazon-Kinesis-and-Apache-Kafka-is-the-more-proven-and-high-performance-oriented](https://www.quora.com/Which-of-Amazon-Kinesis-and-Apache-Kafka-is-the-more-proven-and-high-performance-oriented)
 
 ## Apache Kafka and Microservices
 
