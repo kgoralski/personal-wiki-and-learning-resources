@@ -71,6 +71,21 @@
 * [https://grpc.io/docs/tutorials/basic/go.html](https://grpc.io/docs/tutorials/basic/go.html)
 * [https://gobyexample.com/](https://gobyexample.com/)
 
+## Survival Tips for Beginners
+
+* Avoid frameworks, use libraries if you must, but Go encourages you to write it yourself
+* review comments [https://github.com/golang/go/wiki/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
+* go tools and linters, static code analysis - gometalinter, golint, errcheck, golangci-lint itp.
+* dont panic, pro verbs [https://go-proverbs.github.io/](https://go-proverbs.github.io/)
+* handle all errors, dont ignore them \(use errcheck linter\) [https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)
+* package design [https://kgoralski.gitbook.io/wiki/go-language\#package-design](https://kgoralski.gitbook.io/wiki/go-language#package-design)
+* struct injection / constructor [https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831](https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831)
+* interfaces and mocking them \(mockery tool if possible\)
+* avoid global state and init blocks
+* goroutines and for loops [https://github.com/golang/go/wiki/CommonMistakes](https://github.com/golang/go/wiki/CommonMistakes)
+* go encourage to use channels instead of using synchronization
+* gofmt goimports
+
 ## Tests
 
 * [https://medium.com/@povilasve/go-advanced-tips-tricks-a872503ac859](https://medium.com/@povilasve/go-advanced-tips-tricks-a872503ac859)
