@@ -172,7 +172,9 @@ Not everything is good
 * [https://vimeo.com/221255968](https://vimeo.com/221255968)
 * [https://www.infoq.com/articles/Servlet-and-Reactive-Stacks-Spring-Framework-5](https://www.infoq.com/articles/Servlet-and-Reactive-Stacks-Spring-Framework-5)
 * [https://allegro.tech/2014/10/async-rest.html](https://allegro.tech/2014/10/async-rest.html)
-* [https://www.youtube.com/watch?v=weWSYIUdX6c](https://www.youtube.com/watch?v=weWSYIUdX6c)
+* ReactSphere: Reactive programming: lessons learned by Tomasz Nurkiewicz [https://youtu.be/g\_JyHJ20Iog](https://youtu.be/g_JyHJ20Iog)
+
+
 
 ## Books
 
