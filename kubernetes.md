@@ -53,6 +53,7 @@
 * [https://www.slideshare.net/Provectus/dive-into-devops-march-traefik-as-kubernetes-ingress-controller-ihor-borodin](https://www.slideshare.net/Provectus/dive-into-devops-march-traefik-as-kubernetes-ingress-controller-ihor-borodin)
 * [https://medium.com/@dmaas/amazon-eks-ingress-guide-8ec2ec940a70](https://medium.com/@dmaas/amazon-eks-ingress-guide-8ec2ec940a70) 
 * [https://itnext.io/save-on-your-aws-bill-with-kubernetes-ingress-148214a79dcb](https://itnext.io/save-on-your-aws-bill-with-kubernetes-ingress-148214a79dcb)
+* Traefik: "Another consideration is minimizing server reloads because that impacts load balancing quality and existing connections etc. Traefik doesn’t support hitless reloads so you need NGINX or Envoy Proxy for this. For a lot of people this is a big deal."
 
 ## External DNS
 
