@@ -8,9 +8,9 @@
 * [https://azure.microsoft.com/pl-pl/services/kubernetes-service/](https://azure.microsoft.com/pl-pl/services/kubernetes-service/)
 * [https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 * The Illustrated Children's Guide to Kubernetes [https://www.youtube.com/watch?v=4ht22ReBjno](https://www.youtube.com/watch?v=4ht22ReBjno)
-* [https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/) 
-* [https://kubernetes.io/docs/reference/kubectl/cheatsheet/](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) 
-* [https://github.com/dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) 
+* [https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
+* [https://kubernetes.io/docs/reference/kubectl/cheatsheet/](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+* [https://github.com/dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 * [https://github.com/ramitsurana/awesome-kubernetes\#books](https://github.com/ramitsurana/awesome-kubernetes#books)
 
 ## EKS
@@ -47,7 +47,7 @@
 * [https://kubedex.com/nginx-ingress-vs-kong-vs-traefik-vs-haproxy-vs-voyager-vs-contour-vs-ambassador/](https://kubedex.com/nginx-ingress-vs-kong-vs-traefik-vs-haproxy-vs-voyager-vs-contour-vs-ambassador/)
 * [https://www.envoyproxy.io/](https://www.envoyproxy.io/)
 * [https://github.com/pahud/amazon-eks-workshop/tree/master/03-creating-services/ingress/traefik-ingress](https://github.com/pahud/amazon-eks-workshop/tree/master/03-creating-services/ingress/traefik-ingress)
-* [https://www.slideshare.net/Provectus/dive-into-devops-march-traefik-as-kubernetes-ingress-controller-ihor-borodin](https://www.slideshare.net/Provectus/dive-into-devops-march-traefik-as-kubernetes-ingress-controller-ihor-borodin) 
+* [https://www.slideshare.net/Provectus/dive-into-devops-march-traefik-as-kubernetes-ingress-controller-ihor-borodin](https://www.slideshare.net/Provectus/dive-into-devops-march-traefik-as-kubernetes-ingress-controller-ihor-borodin)
 * [https://medium.com/@dmaas/amazon-eks-ingress-guide-8ec2ec940a70](https://medium.com/@dmaas/amazon-eks-ingress-guide-8ec2ec940a70) 
 * [https://itnext.io/save-on-your-aws-bill-with-kubernetes-ingress-148214a79dcb](https://itnext.io/save-on-your-aws-bill-with-kubernetes-ingress-148214a79dcb)
 
@@ -104,22 +104,36 @@
 
 ## Serverless & Kubernetes
 
-* [https://github.com/knative/](https://github.com/knative/) 
+* [https://github.com/knative/](https://github.com/knative/)
 * [https://cloud.google.com/knative/](https://cloud.google.com/knative/)
 * [https://github.com/kubeless/kubeless](https://github.com/kubeless/kubeless)
 * [https://fission.io/](https://fission.io/)
-* [https://thenewstack.io/the-future-of-kubernetes-is-serverless/](https://thenewstack.io/the-future-of-kubernetes-is-serverless/) 
-* [https://thenewstack.io/why-serverless-vs-kubernetes-isnt-a-real-debate/](https://thenewstack.io/why-serverless-vs-kubernetes-isnt-a-real-debate/) 
-* [https://dzone.com/articles/when-to-use-serverless-when-to-use-kubernetes](https://dzone.com/articles/when-to-use-serverless-when-to-use-kubernetes) 
+* [https://thenewstack.io/the-future-of-kubernetes-is-serverless/](https://thenewstack.io/the-future-of-kubernetes-is-serverless/)
+* [https://thenewstack.io/why-serverless-vs-kubernetes-isnt-a-real-debate/](https://thenewstack.io/why-serverless-vs-kubernetes-isnt-a-real-debate/)
+* [https://dzone.com/articles/when-to-use-serverless-when-to-use-kubernetes](https://dzone.com/articles/when-to-use-serverless-when-to-use-kubernetes)
 * [https://medium.com/coryodaniel/from-erverless-to-elixir-48752db4d7bc](https://medium.com/coryodaniel/from-erverless-to-elixir-48752db4d7bc)
 
-## Tools & CI/CD
+## Misc \(Tools, CI/CD, ML, CD/CI, Metrics\)
 
-* [https://kubernetes.io/docs/reference/tools/](https://kubernetes.io/docs/reference/tools/) 
+* [https://kubernetes.io/docs/reference/tools/](https://kubernetes.io/docs/reference/tools/)
 * [https://github.com/ahmetb/kubectx](https://github.com/ahmetb/kubectx)
-* [https://github.com/txn2/kubefwd](https://github.com/txn2/kubefwd) 
-* [https://about.gitlab.com/solutions/kubernetes/](https://about.gitlab.com/solutions/kubernetes/) 
+* [https://github.com/txn2/kubefwd](https://github.com/txn2/kubefwd)
+* [https://about.gitlab.com/solutions/kubernetes/](https://about.gitlab.com/solutions/kubernetes/)
 * [https://www.spinnaker.io/](https://www.spinnaker.io/)
+* [https://www.kubeflow.org/](https://www.kubeflow.org/) 
+* [https://opencensus.io/](https://opencensus.io/) 
+* [https://www.pulumi.com/](https://www.pulumi.com/)
+
+## Multi-cloud
+
+* [https://banzaicloud.com/blog/multi-cloud-k8s/](https://banzaicloud.com/blog/multi-cloud-k8s/) 
+* [https://kubernetes.io/docs/setup/turnkey/stackpoint/](https://kubernetes.io/docs/setup/turnkey/stackpoint/) 
+* [https://kubernetes.io/docs/concepts/cluster-administration/federation/](https://kubernetes.io/docs/concepts/cluster-administration/federation/) 
+* [https://dzone.com/articles/best-practices-for-multi-cloud-kubernetes](https://dzone.com/articles/best-practices-for-multi-cloud-kubernetes) 
+* [https://cloudify.co/webinars/multi-cloud-orchestration-kubernetes](https://cloudify.co/webinars/multi-cloud-orchestration-kubernetes) 
+* [https://containership.io/](https://containership.io/) 
+* [http://superuser.openstack.org/articles/how-to-multi-cloud-kubernetes/](http://superuser.openstack.org/articles/how-to-multi-cloud-kubernetes/) 
+* [https://www.tripwire.com/state-of-security/security-data-protection/cloud/multi-cloud-security-best-practices-guide/](https://www.tripwire.com/state-of-security/security-data-protection/cloud/multi-cloud-security-best-practices-guide/)
 
 ## PREEMPTIBLE & SPOT Instances
 
