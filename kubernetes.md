@@ -1,0 +1,150 @@
+# Kubernetes
+
+## Introduction
+
+* [https://kubernetes.io/](https://kubernetes.io/)
+* [https://aws.amazon.com/eks/](https://aws.amazon.com/eks/)
+* [https://cloud.google.com/kubernetes-engine/](https://cloud.google.com/kubernetes-engine/)
+* [https://azure.microsoft.com/pl-pl/services/kubernetes-service/](https://azure.microsoft.com/pl-pl/services/kubernetes-service/)
+* [https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
+* The Illustrated Children's Guide to Kubernetes [https://www.youtube.com/watch?v=4ht22ReBjno](https://www.youtube.com/watch?v=4ht22ReBjno)
+* [https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/) 
+* [https://kubernetes.io/docs/reference/kubectl/cheatsheet/](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) 
+* [https://github.com/dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) 
+* [https://github.com/ramitsurana/awesome-kubernetes\#books](https://github.com/ramitsurana/awesome-kubernetes#books)
+
+## EKS
+
+* [https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
+* [https://aws.amazon.com/eks/faq/](https://aws.amazon.com/eks/faq/)
+* [https://docs.aws.amazon.com/eks/latest/userguide/eks-ug.pdf](https://docs.aws.amazon.com/eks/latest/userguide/eks-ug.pdf)
+* [https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html](https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html)
+* [https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html](https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html)
+* [https://docs.aws.amazon.com/eks/latest/userguide/create-public-private-vpc.html](https://docs.aws.amazon.com/eks/latest/userguide/create-public-private-vpc.html)
+* [https://github.com/uswitch/kiam/pull/112](https://github.com/uswitch/kiam/pull/112)
+* [https://sourcediving.com/elastic-kubernetes-service-536a9ffe9223](https://sourcediving.com/elastic-kubernetes-service-536a9ffe9223)
+* [https://aws.amazon.com/blogs/opensource/eksctl-eks-cluster-one-command/](https://aws.amazon.com/blogs/opensource/eksctl-eks-cluster-one-command/)
+* [https://aws.amazon.com/blogs/opensource/category/compute/amazon-elastic-container-service-for-kubernetes/](https://aws.amazon.com/blogs/opensource/category/compute/amazon-elastic-container-service-for-kubernetes/)
+* [https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html)
+* [https://www.reddit.com/r/aws/comments/9kbejr/anyone\_using\_eks\_yet\_for\_prod/](https://www.reddit.com/r/aws/comments/9kbejr/anyone_using_eks_yet_for_prod/)
+* [https://aws.amazon.com/blogs/opensource/eksctl-eks-cluster-one-command/](https://aws.amazon.com/blogs/opensource/eksctl-eks-cluster-one-command/)
+* [https://aws.amazon.com/blogs/opensource/aws-service-operator-kubernetes-available/](https://aws.amazon.com/blogs/opensource/aws-service-operator-kubernetes-available/)
+* [https://aws.amazon.com/about-aws/whats-new/2018/10/amazon-eks-enables-support-for-kubernetes-dynamic-admission-cont/](https://aws.amazon.com/about-aws/whats-new/2018/10/amazon-eks-enables-support-for-kubernetes-dynamic-admission-cont/) \(istio stuff\)
+* [https://docs.aws.amazon.com/eks/latest/userguide/calico.html](https://docs.aws.amazon.com/eks/latest/userguide/calico.html)
+* [https://github.com/awsdocs/amazon-eks-user-guide/blob/master/doc\_source/doc-history.md](https://github.com/awsdocs/amazon-eks-user-guide/blob/master/doc_source/doc-history.md) [https://github.com/awslabs/amazon-ecr-credential-helper](https://github.com/awslabs/amazon-ecr-credential-helper#installing)
+
+## Ingress
+
+* [https://github.com/kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
+* [https://github.com/Kong/kong](https://github.com/Kong/kong) \(nginx\)
+* [https://github.com/containous/traefik](https://github.com/containous/traefik)
+* [https://github.com/haproxy/haproxy](https://github.com/haproxy/haproxy)
+* [https://github.com/appscode/voyager](https://github.com/appscode/voyager) \(haproxy\)
+* [https://github.com/heptio/contour](https://github.com/heptio/contour) \(envoy\)
+* [https://github.com/datawire/ambassador](https://github.com/datawire/ambassador) \(envoy\) \(with istio [https://www.getambassador.io/user-guide/with-istio/](https://www.getambassador.io/user-guide/with-istio/)\)
+* [https://istio.io/docs/tasks/traffic-management/ingress/](https://istio.io/docs/tasks/traffic-management/ingress/) \(envoy\)
+* [https://github.com/kubernetes-sigs/aws-alb-ingress-controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller) \(ALB\)
+* [https://kubedex.com/nginx-ingress-vs-kong-vs-traefik-vs-haproxy-vs-voyager-vs-contour-vs-ambassador/](https://kubedex.com/nginx-ingress-vs-kong-vs-traefik-vs-haproxy-vs-voyager-vs-contour-vs-ambassador/)
+* [https://www.envoyproxy.io/](https://www.envoyproxy.io/)
+* [https://github.com/pahud/amazon-eks-workshop/tree/master/03-creating-services/ingress/traefik-ingress](https://github.com/pahud/amazon-eks-workshop/tree/master/03-creating-services/ingress/traefik-ingress)
+* [https://www.slideshare.net/Provectus/dive-into-devops-march-traefik-as-kubernetes-ingress-controller-ihor-borodin](https://www.slideshare.net/Provectus/dive-into-devops-march-traefik-as-kubernetes-ingress-controller-ihor-borodin) 
+* [https://medium.com/@dmaas/amazon-eks-ingress-guide-8ec2ec940a70](https://medium.com/@dmaas/amazon-eks-ingress-guide-8ec2ec940a70) 
+* [https://itnext.io/save-on-your-aws-bill-with-kubernetes-ingress-148214a79dcb](https://itnext.io/save-on-your-aws-bill-with-kubernetes-ingress-148214a79dcb)
+
+## AWS/GCP IAM with Kubernetes
+
+* [https://github.com/uswitch/kiam](https://github.com/uswitch/kiam)
+* [https://github.com/jtblin/kube2iam](https://github.com/jtblin/kube2iam)
+* [https://github.com/ash2k/iam4kube](https://github.com/ash2k/iam4kube)
+* [https://github.com/mikkeloscar/kube-aws-iam-controller](https://github.com/mikkeloscar/kube-aws-iam-controller)
+* [https://docs.google.com/document/d/1rn-v2TNH9k4Oz-VuaueP77ANE5p-5Ua89obK2JaArfg/edit?usp=sharing](https://docs.google.com/document/d/1rn-v2TNH9k4Oz-VuaueP77ANE5p-5Ua89obK2JaArfg/edit?usp=sharing)
+* [https://github.com/kernelpayments/kube-google-iam](https://github.com/kernelpayments/kube-google-iam)
+
+## Service Mesh 
+
+* [https://istio.io/docs/concepts/what-is-istio/](https://istio.io/docs/concepts/what-is-istio/)
+* [https://kubernetes.io/blog/2017/05/managing-microservices-with-istio-service-mesh/](https://kubernetes.io/blog/2017/05/managing-microservices-with-istio-service-mesh/)
+* [https://www.hashicorp.com/blog/consul-1-2-service-mesh](https://www.hashicorp.com/blog/consul-1-2-service-mesh)
+* [https://linkerd.io/1/getting-started/k8s/](https://linkerd.io/1/getting-started/k8s/)
+* [https://thenewstack.io/which-service-mesh-should-i-use/](https://thenewstack.io/which-service-mesh-should-i-use/)
+
+## Helm
+
+* [https://helm.sh/](https://helm.sh/)
+* [https://www.digitalocean.com/community/tutorials/how-to-install-software-on-kubernetes-clusters-with-the-helm-package-manager](https://www.digitalocean.com/community/tutorials/how-to-install-software-on-kubernetes-clusters-with-the-helm-package-manager)
+* [https://rancher.com/docs/rancher/v2.x/en/installation/ha/helm-init/](https://rancher.com/docs/rancher/v2.x/en/installation/ha/helm-init/)
+* [https://github.com/helm/charts](https://github.com/helm/charts)
+* [https://www.terraform.io/docs/providers/helm/index.html](https://www.terraform.io/docs/providers/helm/index.html)
+* [https://github.com/roboll/helmfile](https://github.com/roboll/helmfile)
+* [https://github.com/Praqma/helmsman](https://github.com/Praqma/helmsman)
+
+## Security
+
+* [https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
+* [https://github.com/kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator)
+* [https://kubernetes.io/docs/reference/access-authn-authz/rbac/](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
+* [https://github.com/freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice)
+* [https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/](https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/)
+* [https://engineering.bitnami.com/articles/sealed-secrets.html](https://engineering.bitnami.com/articles/sealed-secrets.html)
+* [https://github.com/bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets)
+* [https://www.slideshare.net/sebastiengoasguen/kubernetes-sealed-secrets](https://www.slideshare.net/sebastiengoasguen/kubernetes-sealed-secrets)
+* [https://medium.com/@gmaliar/dynamic-secrets-on-kubernetes-pods-using-vault-35d9094d169](https://medium.com/@gmaliar/dynamic-secrets-on-kubernetes-pods-using-vault-35d9094d169)
+* [https://github.com/Boostport/kubernetes-vault](https://github.com/Boostport/kubernetes-vault)
+* [https://coreos.com/blog/introducing-vault-operator-project](https://coreos.com/blog/introducing-vault-operator-project)
+* [https://medium.com/containerum/top-security-tips-for-your-kubernetes-cluster-9b23a4e95111](https://medium.com/containerum/top-security-tips-for-your-kubernetes-cluster-9b23a4e95111)
+* [https://neuvector.com/container-security/kubernetes-security-guide/](https://neuvector.com/container-security/kubernetes-security-guide/)
+
+## Chaos Engineering & Kubernetes
+
+* [https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/](https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/)
+* [https://thenewstack.io/how-chaos-engineering-can-drive-kubernetes-reliability/](https://thenewstack.io/how-chaos-engineering-can-drive-kubernetes-reliability/)
+* [https://learnk8s.io/blog/kubernetes-chaos-engineering-lessons-learned](https://learnk8s.io/blog/kubernetes-chaos-engineering-lessons-learned)
+* [https://github.com/asobti/kube-monkey](https://github.com/asobti/kube-monkey)
+* [https://github.com/bloomberg/powerfulseal](https://github.com/bloomberg/powerfulseal)
+
+## Serverless & Kubernetes
+
+* [https://github.com/knative/](https://github.com/knative/) 
+* [https://cloud.google.com/knative/](https://cloud.google.com/knative/)
+* [https://github.com/kubeless/kubeless](https://github.com/kubeless/kubeless)
+* [https://fission.io/](https://fission.io/)
+* [https://thenewstack.io/the-future-of-kubernetes-is-serverless/](https://thenewstack.io/the-future-of-kubernetes-is-serverless/) 
+* [https://thenewstack.io/why-serverless-vs-kubernetes-isnt-a-real-debate/](https://thenewstack.io/why-serverless-vs-kubernetes-isnt-a-real-debate/) 
+* [https://dzone.com/articles/when-to-use-serverless-when-to-use-kubernetes](https://dzone.com/articles/when-to-use-serverless-when-to-use-kubernetes) 
+* [https://medium.com/coryodaniel/from-erverless-to-elixir-48752db4d7bc](https://medium.com/coryodaniel/from-erverless-to-elixir-48752db4d7bc)
+
+## Tools & CI/CD
+
+* [https://kubernetes.io/docs/reference/tools/](https://kubernetes.io/docs/reference/tools/) 
+* [https://github.com/ahmetb/kubectx](https://github.com/ahmetb/kubectx)
+* [https://github.com/txn2/kubefwd](https://github.com/txn2/kubefwd) 
+* [https://about.gitlab.com/solutions/kubernetes/](https://about.gitlab.com/solutions/kubernetes/) 
+* [https://www.spinnaker.io/](https://www.spinnaker.io/)
+
+## PREEMPTIBLE & SPOT Instances
+
+* [https://cloud.google.com/preemptible-vms/](https://cloud.google.com/preemptible-vms/)
+* [https://aws.amazon.com/ec2/spot/](https://aws.amazon.com/ec2/spot/)
+
+## RBAC Sample
+
+```text
+# Allows scaling deployments or stateful sets up/down
+# Generally bound at the namespace level to allow scaling only in that namespace
+kind: ClusterRole
+apiVersion: rbac.authorization.k8s.io/v1
+metadata:
+  name: namespace-scale
+rules:
+  - apiGroups:
+      - '' # core group
+    resources:
+      - deployments/scale
+      - statefulsets/scale
+    verbs:
+      - create
+ ---
+```
+
+##  
+

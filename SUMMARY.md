@@ -7,6 +7,7 @@
 * [Kotlin Programming Language](kotlin.md)
 * [Reactive Programming](reactive.md)
 * [Apache Kafka](kafka.md)
+* [Kubernetes](kubernetes.md)
 * [Serverless](serverless.md)
 * [Apache Beam](apache-beam.md)
 * [Software Craftsmanship](software-craftsmanship.md)
