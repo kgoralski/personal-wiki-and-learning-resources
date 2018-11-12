@@ -54,6 +54,37 @@
 * [https://medium.com/@dmaas/amazon-eks-ingress-guide-8ec2ec940a70](https://medium.com/@dmaas/amazon-eks-ingress-guide-8ec2ec940a70) 
 * [https://itnext.io/save-on-your-aws-bill-with-kubernetes-ingress-148214a79dcb](https://itnext.io/save-on-your-aws-bill-with-kubernetes-ingress-148214a79dcb)
 
+## External DNS
+
+* [https://github.com/kubernetes-incubator/external-dns](https://github.com/kubernetes-incubator/external-dns)
+* [https://github.com/helm/charts/tree/master/stable/external-dns](https://github.com/helm/charts/tree/master/stable/external-dns)
+* [https://github.com/kubernetes-incubator/external-dns/blob/master/docs/tutorials/nginx-ingress.md](https://github.com/kubernetes-incubator/external-dns/blob/master/docs/tutorials/nginx-ingress.md)
+* [https://banzaicloud.com/blog/k8s-external-dns-route53/](https://banzaicloud.com/blog/k8s-external-dns-route53/)
+* [https://ryaneschinger.com/blog/automatic-dns-kubernetes-ingresses-externaldns/](https://ryaneschinger.com/blog/automatic-dns-kubernetes-ingresses-externaldns/)
+* [https://medium.com/@russell.whelan/traefik-and-external-dns-naming-magic-b4d6a01d3634](https://medium.com/@russell.whelan/traefik-and-external-dns-naming-magic-b4d6a01d3634)
+* [https://github.com/kubernetes-incubator/external-dns/blob/master/docs/tutorials/istio.md](https://github.com/kubernetes-incubator/external-dns/blob/master/docs/tutorials/istio.md)  
+  
+  Ingress with traefik
+
+  ```yaml
+  apiVersion: extensions/v1beta1
+  kind: Ingress
+  metadata:
+    name: test-wordpress
+    annotations:
+      kubernetes.io/ingress.class: traefik
+      external-dns.alpha.kubernetes.io/target: mytraefikservice.mydomain.com
+  spec:
+    rules:
+    - host: test.mydomain.com
+      http:
+        paths:
+        - path: /
+          backend:
+            serviceName: test-wordpress
+            servicePort: 80
+  ```
+
 ## AWS/GCP IAM with Kubernetes
 
 * [https://github.com/uswitch/kiam](https://github.com/uswitch/kiam)
@@ -62,6 +93,7 @@
 * [https://github.com/mikkeloscar/kube-aws-iam-controller](https://github.com/mikkeloscar/kube-aws-iam-controller)
 * [https://docs.google.com/document/d/1rn-v2TNH9k4Oz-VuaueP77ANE5p-5Ua89obK2JaArfg/edit?usp=sharing](https://docs.google.com/document/d/1rn-v2TNH9k4Oz-VuaueP77ANE5p-5Ua89obK2JaArfg/edit?usp=sharing)
 * [https://github.com/kernelpayments/kube-google-iam](https://github.com/kernelpayments/kube-google-iam)
+* [https://github.com/istio/istio/issues/9297](https://github.com/istio/istio/issues/9297)
 
 ## Service Mesh 
 

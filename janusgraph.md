@@ -40,6 +40,21 @@ Official website [http://janusgraph.org/](http://janusgraph.org/)
 * [https://stackoverflow.com/questions/47536418/how-to-connect-to-gremlin-server-through-java-using-the-gremlin-driver-with-sess](https://stackoverflow.com/questions/47536418/how-to-connect-to-gremlin-server-through-java-using-the-gremlin-driver-with-sess)
 * [http://gremlindocs.spmallette.documentup.com/](http://gremlindocs.spmallette.documentup.com/)
 
+## Traversal promises
+
+[http://tinkerpop.apache.org/docs/3.3.0/upgrade/\#\_traversal\_promises](http://tinkerpop.apache.org/docs/3.3.0/upgrade/#_traversal_promises)
+
+```text
+gremlin> promise = g.V().out().promise{it.next()}
+==>java.util.concurrent.CompletableFuture@4aa3d36[Completed normally]
+gremlin> promise.join()
+==>v[3]
+gremlin> promise.isDone()
+==>true
+gremlin> g.V().out().promise{it.toList()}.thenApply{it.size()}.get()
+==>6
+```
+
 ## Important
 
 * JanusGraph can work with embedded gremlin server and it is able to connect to remote standalone gremlin servers
