@@ -13,7 +13,7 @@
 * [https://github.com/dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 * [https://github.com/ramitsurana/awesome-kubernetes\#books](https://github.com/ramitsurana/awesome-kubernetes#books)
 
-## EKS
+## AWS EKS
 
 * [https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
 * [https://aws.amazon.com/eks/faq/](https://aws.amazon.com/eks/faq/)
@@ -120,19 +120,19 @@
 * [https://github.com/txn2/kubefwd](https://github.com/txn2/kubefwd)
 * [https://about.gitlab.com/solutions/kubernetes/](https://about.gitlab.com/solutions/kubernetes/)
 * [https://www.spinnaker.io/](https://www.spinnaker.io/)
-* [https://www.kubeflow.org/](https://www.kubeflow.org/) 
-* [https://opencensus.io/](https://opencensus.io/) 
+* [https://www.kubeflow.org/](https://www.kubeflow.org/)
+* [https://opencensus.io/](https://opencensus.io/)
 * [https://www.pulumi.com/](https://www.pulumi.com/)
 
 ## Multi-cloud
 
-* [https://banzaicloud.com/blog/multi-cloud-k8s/](https://banzaicloud.com/blog/multi-cloud-k8s/) 
-* [https://kubernetes.io/docs/setup/turnkey/stackpoint/](https://kubernetes.io/docs/setup/turnkey/stackpoint/) 
-* [https://kubernetes.io/docs/concepts/cluster-administration/federation/](https://kubernetes.io/docs/concepts/cluster-administration/federation/) 
-* [https://dzone.com/articles/best-practices-for-multi-cloud-kubernetes](https://dzone.com/articles/best-practices-for-multi-cloud-kubernetes) 
-* [https://cloudify.co/webinars/multi-cloud-orchestration-kubernetes](https://cloudify.co/webinars/multi-cloud-orchestration-kubernetes) 
-* [https://containership.io/](https://containership.io/) 
-* [http://superuser.openstack.org/articles/how-to-multi-cloud-kubernetes/](http://superuser.openstack.org/articles/how-to-multi-cloud-kubernetes/) 
+* [https://banzaicloud.com/blog/multi-cloud-k8s/](https://banzaicloud.com/blog/multi-cloud-k8s/)
+* [https://kubernetes.io/docs/setup/turnkey/stackpoint/](https://kubernetes.io/docs/setup/turnkey/stackpoint/)
+* [https://kubernetes.io/docs/concepts/cluster-administration/federation/](https://kubernetes.io/docs/concepts/cluster-administration/federation/)
+* [https://dzone.com/articles/best-practices-for-multi-cloud-kubernetes](https://dzone.com/articles/best-practices-for-multi-cloud-kubernetes)
+* [https://cloudify.co/webinars/multi-cloud-orchestration-kubernetes](https://cloudify.co/webinars/multi-cloud-orchestration-kubernetes)
+* [https://containership.io/](https://containership.io/)
+* [http://superuser.openstack.org/articles/how-to-multi-cloud-kubernetes/](http://superuser.openstack.org/articles/how-to-multi-cloud-kubernetes/)
 * [https://www.tripwire.com/state-of-security/security-data-protection/cloud/multi-cloud-security-best-practices-guide/](https://www.tripwire.com/state-of-security/security-data-protection/cloud/multi-cloud-security-best-practices-guide/)
 
 ## PREEMPTIBLE & SPOT Instances
