@@ -15,4 +15,21 @@
 * [https://eventuate.io/whyeventsourcing.html](https://eventuate.io/whyeventsourcing.html)
 * [http://www.kennybastani.com/2016/04/event-sourcing-microservices-spring-cloud.html](http://www.kennybastani.com/2016/04/event-sourcing-microservices-spring-cloud.html)
 * [https://docs.microsoft.com/en-gb/azure/architecture/patterns/cqrs](https://docs.microsoft.com/en-gb/azure/architecture/patterns/cqrs)
+* Greg Young — A Decade of DDD, CQRS, Event Sourcing [https://youtube.com/watch?v=LDW0QWie21s](https://youtube.com/watch?v=LDW0QWie21s)​
+* WJUG \#204 - Marcin Haręza: Event Sourcing - co to, po co to, jak to? [https://youtube.com/watch?v=dEA6uv0FPpE](https://youtube.com/watch?v=dEA6uv0FPpE)
+* [https://www.amazon.com/Exploring-CQRS-Event-Sourcing-maintainability/dp/1621140164](https://www.amazon.com/Exploring-CQRS-Event-Sourcing-maintainability/dp/1621140164)
+* [http://blog.langer.eu/2014/09/02/literature.html](http://blog.langer.eu/2014/09/02/literature.html)
+* [https://github.com/cer/event-sourcing-examples/wiki/WhyEventSourcing](https://github.com/cer/event-sourcing-examples/wiki/WhyEventSourcing)
+* [https://github.com/kbastani/event-sourcing-microservices-basics](https://github.com/kbastani/event-sourcing-microservices-basics)
+* [https://github.com/kbastani/spring-cloud-event-sourcing-example](https://github.com/kbastani/spring-cloud-event-sourcing-example)
+* [https://medium.com/@pierreprinetti/event-sourcing-in-go-the-event-handler-29f9438c58f0](https://medium.com/@pierreprinetti/event-sourcing-in-go-the-event-handler-29f9438c58f0)
+* [https://medium.com/@shijuvar/building-microservices-with-event-sourcing-cqrs-in-go-using-grpc-nats-streaming-and-cockroachdb-983f650452aa](https://medium.com/@shijuvar/building-microservices-with-event-sourcing-cqrs-in-go-using-grpc-nats-streaming-and-cockroachdb-983f650452aa)
+* [https://github.com/bringmeister/event-sourcing-with-kotlin](https://github.com/bringmeister/event-sourcing-with-kotlin)
+* [https://tuhrig.de/event-sourcing-with-kotlin/](https://tuhrig.de/event-sourcing-with-kotlin/)
+* [https://www.slideshare.net/ubertobarbini/cqrs-with-event-source-in-functional-sauce-served-by-kotlin](https://www.slideshare.net/ubertobarbini/cqrs-with-event-source-in-functional-sauce-served-by-kotlin)
+* [https://github.com/Pragmatists/eventsourcing-java-example](https://github.com/Pragmatists/eventsourcing-java-example)
+* [https://github.com/ddd-by-examples/event-source-cqrs-sample](https://github.com/ddd-by-examples/event-source-cqrs-sample)
+* [https://github.com/VaughnVernon/IDDD\_Samples](https://github.com/VaughnVernon/IDDD_Samples)
+
+
 
