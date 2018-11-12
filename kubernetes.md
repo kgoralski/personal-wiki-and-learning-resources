@@ -62,8 +62,8 @@
 * [https://banzaicloud.com/blog/k8s-external-dns-route53/](https://banzaicloud.com/blog/k8s-external-dns-route53/)
 * [https://ryaneschinger.com/blog/automatic-dns-kubernetes-ingresses-externaldns/](https://ryaneschinger.com/blog/automatic-dns-kubernetes-ingresses-externaldns/)
 * [https://medium.com/@russell.whelan/traefik-and-external-dns-naming-magic-b4d6a01d3634](https://medium.com/@russell.whelan/traefik-and-external-dns-naming-magic-b4d6a01d3634)
-* [https://github.com/kubernetes-incubator/external-dns/blob/master/docs/tutorials/istio.md](https://github.com/kubernetes-incubator/external-dns/blob/master/docs/tutorials/istio.md) 
-* [https://appscode.com/products/voyager/8.0.1/guides/ingress/dns/external-dns/](https://appscode.com/products/voyager/8.0.1/guides/ingress/dns/external-dns/) 
+* [https://github.com/kubernetes-incubator/external-dns/blob/master/docs/tutorials/istio.md](https://github.com/kubernetes-incubator/external-dns/blob/master/docs/tutorials/istio.md)
+* [https://appscode.com/products/voyager/8.0.1/guides/ingress/dns/external-dns/](https://appscode.com/products/voyager/8.0.1/guides/ingress/dns/external-dns/)
 * [https://stackoverflow.com/questions/50251672/how-to-setup-up-dns-and-ingress-controllers-for-a-public-facing-web-app](https://stackoverflow.com/questions/50251672/how-to-setup-up-dns-and-ingress-controllers-for-a-public-facing-web-app)  
   
   Ingress with traefik
