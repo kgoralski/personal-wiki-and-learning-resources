@@ -127,6 +127,8 @@
 * [https://www.kubeflow.org/](https://www.kubeflow.org/)
 * [https://opencensus.io/](https://opencensus.io/)
 * [https://www.pulumi.com/](https://www.pulumi.com/)
+* [https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/](https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/)
+* [https://itnext.io/kubernetes-monitoring-with-prometheus-in-15-minutes-8e54d1de2e13](https://itnext.io/kubernetes-monitoring-with-prometheus-in-15-minutes-8e54d1de2e13)
 
 ## Multi-cloud
 
