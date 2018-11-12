@@ -2,7 +2,8 @@
 
 ## Introduction
 
-* [https://kubernetes.io/](https://kubernetes.io/)
+* [https://kubernetes.io/](https://kubernetes.io/) 
+* [https://github.com/ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 * [https://aws.amazon.com/eks/](https://aws.amazon.com/eks/)
 * [https://cloud.google.com/kubernetes-engine/](https://cloud.google.com/kubernetes-engine/)
 * [https://azure.microsoft.com/pl-pl/services/kubernetes-service/](https://azure.microsoft.com/pl-pl/services/kubernetes-service/)
@@ -11,7 +12,9 @@
 * [https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
 * [https://kubernetes.io/docs/reference/kubectl/cheatsheet/](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 * [https://github.com/dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
-* [https://github.com/ramitsurana/awesome-kubernetes\#books](https://github.com/ramitsurana/awesome-kubernetes#books)
+* [https://github.com/ramitsurana/awesome-kubernetes\#books](https://github.com/ramitsurana/awesome-kubernetes#books) 
+* [https://www.replex.io/blog/the-ultimate-kubernetes-cost-guide-aws-vs-gce-vs-azure-vs-digital-ocean](https://www.replex.io/blog/the-ultimate-kubernetes-cost-guide-aws-vs-gce-vs-azure-vs-digital-ocean) 
+* [https://divvycloud.com/blog/kubedex-comparison-google-gke-microsoft-aks-amazon-eks/](https://divvycloud.com/blog/kubedex-comparison-google-gke-microsoft-aks-amazon-eks/)
 
 ## AWS EKS
 
