@@ -386,3 +386,10 @@ Asynchronous and non-blocking execution and IO is often more cost-efficient thro
 * [https://gist.github.com/chitchcock/1281611](https://gist.github.com/chitchcock/1281611)
 * [https://plus.google.com/+RipRowan/posts/eVeouesvaVX](https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
 
+## Docker in production
+
+* [https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/](https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/)
+* [https://thehftguy.com/2017/02/23/docker-in-production-an-update/](https://thehftguy.com/2017/02/23/docker-in-production-an-update/)
+
+
+

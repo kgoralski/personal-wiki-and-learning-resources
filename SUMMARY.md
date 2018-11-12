@@ -5,6 +5,7 @@
 * [Domain-driven design \(DDD\) learning resources](domain-driven-design.md)
 * [Go Programming Language](go-language.md)
 * [Kotlin Programming Language](kotlin.md)
+* [Java Programming Language](java-programming-language.md)
 * [Reactive Programming](reactive.md)
 * [Apache Kafka](kafka.md)
 * [Kubernetes](kubernetes.md)
