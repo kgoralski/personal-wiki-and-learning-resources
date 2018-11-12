@@ -13,4 +13,5 @@
 * [Apache Beam](apache-beam.md)
 * [Software Craftsmanship](software-craftsmanship.md)
 * [Conference and meetup videos](conference_and_meetup_videos.md)
+* [Google Cloud](google-cloud.md)
 
