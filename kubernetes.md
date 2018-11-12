@@ -50,6 +50,7 @@
 * [https://kubedex.com/nginx-ingress-vs-kong-vs-traefik-vs-haproxy-vs-voyager-vs-contour-vs-ambassador/](https://kubedex.com/nginx-ingress-vs-kong-vs-traefik-vs-haproxy-vs-voyager-vs-contour-vs-ambassador/)
 * [https://www.envoyproxy.io/](https://www.envoyproxy.io/)
 * [https://github.com/pahud/amazon-eks-workshop/tree/master/03-creating-services/ingress/traefik-ingress](https://github.com/pahud/amazon-eks-workshop/tree/master/03-creating-services/ingress/traefik-ingress)
+* [https://github.com/aws-samples/aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes)
 * [https://www.slideshare.net/Provectus/dive-into-devops-march-traefik-as-kubernetes-ingress-controller-ihor-borodin](https://www.slideshare.net/Provectus/dive-into-devops-march-traefik-as-kubernetes-ingress-controller-ihor-borodin)
 * [https://medium.com/@dmaas/amazon-eks-ingress-guide-8ec2ec940a70](https://medium.com/@dmaas/amazon-eks-ingress-guide-8ec2ec940a70) 
 * [https://itnext.io/save-on-your-aws-bill-with-kubernetes-ingress-148214a79dcb](https://itnext.io/save-on-your-aws-bill-with-kubernetes-ingress-148214a79dcb)
