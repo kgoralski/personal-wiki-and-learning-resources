@@ -70,6 +70,7 @@
 * [https://www.hashicorp.com/blog/consul-1-2-service-mesh](https://www.hashicorp.com/blog/consul-1-2-service-mesh)
 * [https://linkerd.io/1/getting-started/k8s/](https://linkerd.io/1/getting-started/k8s/)
 * [https://thenewstack.io/which-service-mesh-should-i-use/](https://thenewstack.io/which-service-mesh-should-i-use/)
+* [https://medium.com/@jeffzzq/how-to-integrate-an-aws-lambda-function-into-your-kubernetes-service-mesh-5d665f351675](https://medium.com/@jeffzzq/how-to-integrate-an-aws-lambda-function-into-your-kubernetes-service-mesh-5d665f351675)
 
 ## Helm
 
