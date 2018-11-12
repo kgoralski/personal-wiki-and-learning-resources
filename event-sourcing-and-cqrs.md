@@ -2,6 +2,7 @@
 
 * [https://eventstore.org/docs/event-sourcing-basics/index.html](https://eventstore.org/docs/event-sourcing-basics/index.html)
 * [https://www.martinfowler.com/eaaDev/EventSourcing.html](https://www.martinfowler.com/eaaDev/EventSourcing.html)
+* [https://martinfowler.com/bliki/CQRS.html](https://martinfowler.com/bliki/CQRS.html)
 * [https://github.com/leandrocp/awesome-cqrs-event-sourcing](https://github.com/leandrocp/awesome-cqrs-event-sourcing)
 * [https://github.com/heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd)
 * GOTO 2014 • Event Sourcing • Greg Young [https://www.youtube.com/watch?v=8JKjvY4etTY](https://www.youtube.com/watch?v=8JKjvY4etTY)
