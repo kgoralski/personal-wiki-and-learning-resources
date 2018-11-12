@@ -165,7 +165,11 @@
 * [https://opencensus.io/](https://opencensus.io/)
 * [https://www.pulumi.com/](https://www.pulumi.com/)
 * [https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/](https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/)
-* [https://itnext.io/kubernetes-monitoring-with-prometheus-in-15-minutes-8e54d1de2e13](https://itnext.io/kubernetes-monitoring-with-prometheus-in-15-minutes-8e54d1de2e13)
+* [https://itnext.io/kubernetes-monitoring-with-prometheus-in-15-minutes-8e54d1de2e1](https://itnext.io/kubernetes-monitoring-with-prometheus-in-15-minutes-8e54d1de2e13)
+* [https://www.abhishek-tiwari.com/10-open-source-tools-for-highly-effective-kubernetes-sre-and-ops-teams/](https://www.abhishek-tiwari.com/10-open-source-tools-for-highly-effective-kubernetes-sre-and-ops-teams/)
+* [https://logz.io/blog/kubernetes-monitoring/](https://logz.io/blog/kubernetes-monitoring/)
+* [https://thenewstack.io/5-tools-monitoring-kubernetes-scale-production/](https://thenewstack.io/5-tools-monitoring-kubernetes-scale-production/)
+* [https://medium.com/containerum/4-tools-to-monitor-your-kubernetes-cluster-efficiently-ceaf62818eea](https://medium.com/containerum/4-tools-to-monitor-your-kubernetes-cluster-efficiently-ceaf62818eea)
 
 ## Multi-cloud
 
