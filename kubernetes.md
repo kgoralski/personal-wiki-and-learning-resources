@@ -171,6 +171,7 @@
 * [https://thenewstack.io/5-tools-monitoring-kubernetes-scale-production/](https://thenewstack.io/5-tools-monitoring-kubernetes-scale-production/)
 * [https://medium.com/containerum/4-tools-to-monitor-your-kubernetes-cluster-efficiently-ceaf62818eea](https://medium.com/containerum/4-tools-to-monitor-your-kubernetes-cluster-efficiently-ceaf62818eea)
 * [https://www.weave.works/technologies/monitoring-kubernetes-with-prometheus/](https://www.weave.works/technologies/monitoring-kubernetes-with-prometheus/)
+* [https://github.com/XiaoMi/naftis](https://github.com/XiaoMi/naftis)
 
 ## Multi-cloud
 
