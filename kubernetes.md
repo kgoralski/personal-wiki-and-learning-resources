@@ -41,6 +41,7 @@
 * [https://blog.giantswarm.io/load-balancer-service-use-cases-on-aws/](https://blog.giantswarm.io/load-balancer-service-use-cases-on-aws/)
 * [https://kubernetes.io/docs/concepts/services-networking/service/\#internal-load-balancer](https://kubernetes.io/docs/concepts/services-networking/service/#internal-load-balancer)
 * [https://github.com/kubernetes/kubernetes/issues/26670](https://github.com/kubernetes/kubernetes/issues/26670)
+* [https://www.weave.works/technologies/kubernetes-on-aws/](https://www.weave.works/technologies/kubernetes-on-aws/)
 
 ## Ingress
 
@@ -53,6 +54,7 @@
 * [https://github.com/datawire/ambassador](https://github.com/datawire/ambassador) \(envoy\) \(with istio [https://www.getambassador.io/user-guide/with-istio/](https://www.getambassador.io/user-guide/with-istio/)\)
 * [https://istio.io/docs/tasks/traffic-management/ingress/](https://istio.io/docs/tasks/traffic-management/ingress/) \(envoy\)
 * [https://github.com/kubernetes-sigs/aws-alb-ingress-controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller) \(ALB\)
+* [https://github.com/zalando-incubator/kube-ingress-aws-controller](https://github.com/zalando-incubator/kube-ingress-aws-controller)
 * [https://kubedex.com/nginx-ingress-vs-kong-vs-traefik-vs-haproxy-vs-voyager-vs-contour-vs-ambassador/](https://kubedex.com/nginx-ingress-vs-kong-vs-traefik-vs-haproxy-vs-voyager-vs-contour-vs-ambassador/)
 * [https://www.envoyproxy.io/](https://www.envoyproxy.io/)
 * [https://github.com/pahud/amazon-eks-workshop/tree/master/03-creating-services/ingress/traefik-ingress](https://github.com/pahud/amazon-eks-workshop/tree/master/03-creating-services/ingress/traefik-ingress)
