@@ -10,4 +10,6 @@
 * Criticism of these all manifestos [https://www.youtube.com/watch?v=neI\_Pj558CY&t](https://www.youtube.com/watch?v=neI_Pj558CY&t) 
 * Does TDD really lead to good design? [https://codurance.com/2015/05/12/does-tdd-lead-to-good-design/](https://codurance.com/2015/05/12/does-tdd-lead-to-good-design/)
 * Clean Architecture: [https://github.com/coi-gov-pl/spring-clean-architecture](https://github.com/coi-gov-pl/spring-clean-architecture) [https://medium.com/@teo2k/go-clean-54c5cd866fe5](https://medium.com/@teo2k/go-clean-54c5cd866fe5) [https://github.com/bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch)
+* [https://jvns.ca/blog/senior-engineer/](https://jvns.ca/blog/senior-engineer/)
+* [https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 
