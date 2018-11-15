@@ -40,6 +40,7 @@
 * [https://github.com/awslabs/amazon-ecr-credential-helper](https://github.com/awslabs/amazon-ecr-credential-helper#installing)
 * [https://blog.giantswarm.io/load-balancer-service-use-cases-on-aws/](https://blog.giantswarm.io/load-balancer-service-use-cases-on-aws/)
 * [https://kubernetes.io/docs/concepts/services-networking/service/\#internal-load-balancer](https://kubernetes.io/docs/concepts/services-networking/service/#internal-load-balancer)
+* [https://github.com/kubernetes/kubernetes/issues/26670](https://github.com/kubernetes/kubernetes/issues/26670)
 
 ## Ingress
 
