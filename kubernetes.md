@@ -36,7 +36,10 @@
 * [https://aws.amazon.com/blogs/opensource/aws-service-operator-kubernetes-available/](https://aws.amazon.com/blogs/opensource/aws-service-operator-kubernetes-available/)
 * [https://aws.amazon.com/about-aws/whats-new/2018/10/amazon-eks-enables-support-for-kubernetes-dynamic-admission-cont/](https://aws.amazon.com/about-aws/whats-new/2018/10/amazon-eks-enables-support-for-kubernetes-dynamic-admission-cont/) \(istio stuff\)
 * [https://docs.aws.amazon.com/eks/latest/userguide/calico.html](https://docs.aws.amazon.com/eks/latest/userguide/calico.html)
-* [https://github.com/awsdocs/amazon-eks-user-guide/blob/master/doc\_source/doc-history.md](https://github.com/awsdocs/amazon-eks-user-guide/blob/master/doc_source/doc-history.md) [https://github.com/awslabs/amazon-ecr-credential-helper](https://github.com/awslabs/amazon-ecr-credential-helper#installing)
+* [https://github.com/awsdocs/amazon-eks-user-guide/blob/master/doc\_source/doc-history.md](https://github.com/awsdocs/amazon-eks-user-guide/blob/master/doc_source/doc-history.md)
+* [https://github.com/awslabs/amazon-ecr-credential-helper](https://github.com/awslabs/amazon-ecr-credential-helper#installing)
+* [https://blog.giantswarm.io/load-balancer-service-use-cases-on-aws/](https://blog.giantswarm.io/load-balancer-service-use-cases-on-aws/)
+* [https://kubernetes.io/docs/concepts/services-networking/service/\#internal-load-balancer](https://kubernetes.io/docs/concepts/services-networking/service/#internal-load-balancer)
 
 ## Ingress
 
