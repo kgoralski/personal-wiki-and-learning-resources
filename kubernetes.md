@@ -58,6 +58,7 @@
 * [https://itnext.io/save-on-your-aws-bill-with-kubernetes-ingress-148214a79dcb](https://itnext.io/save-on-your-aws-bill-with-kubernetes-ingress-148214a79dcb)
 * Traefik from kubedex.com: "Another consideration is minimizing server reloads because that impacts load balancing quality and existing connections etc. Traefik doesn’t support hitless reloads so you need NGINX or Envoy Proxy for this. For a lot of people this is a big deal."  vs from rancher.com: "Traefik has a true zero downtime reload and implements the possibility of defining circuit breakers rules."
 * [https://github.com/nginxinc/nginmesh](https://github.com/nginxinc/nginmesh)
+* [https://blog.giantswarm.io/load-balancer-service-use-cases-on-aws/](https://blog.giantswarm.io/load-balancer-service-use-cases-on-aws/)
 
 ## External DNS
 
