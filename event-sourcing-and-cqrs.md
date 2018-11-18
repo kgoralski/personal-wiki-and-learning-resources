@@ -6,6 +6,8 @@
 * [https://github.com/leandrocp/awesome-cqrs-event-sourcing](https://github.com/leandrocp/awesome-cqrs-event-sourcing)
 * [https://github.com/heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd)
 * GOTO 2014 • Event Sourcing • Greg Young [https://www.youtube.com/watch?v=8JKjvY4etTY](https://www.youtube.com/watch?v=8JKjvY4etTY)
+* Event sourcing - Greg Young - DPC2016 [https://youtu.be/I3uH3iiiDqY](https://youtu.be/I3uH3iiiDqY)
+* Greg Young — A Decade of DDD, CQRS, Event Sourcing [https://www.youtube.com/watch?v=LDW0QWie21s](https://www.youtube.com/watch?v=LDW0QWie21s)
 * Martin Kleppmann — Event Sourcing and Stream Processing at Scale [https://youtu.be/avi-TZI9t2I](https://youtu.be/avi-TZI9t2I)
 * [https://www.baeldung.com/cqrs-event-sourced-architecture-resources](https://www.baeldung.com/cqrs-event-sourced-architecture-resources)
 * [https://blog.softwaremill.com/event-sourcing-using-kafka-53dfd72ad45d](https://blog.softwaremill.com/event-sourcing-using-kafka-53dfd72ad45d)
