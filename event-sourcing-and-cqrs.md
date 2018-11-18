@@ -30,7 +30,9 @@
 * [https://www.slideshare.net/ubertobarbini/cqrs-with-event-source-in-functional-sauce-served-by-kotlin](https://www.slideshare.net/ubertobarbini/cqrs-with-event-source-in-functional-sauce-served-by-kotlin)
 * [https://github.com/Pragmatists/eventsourcing-java-example](https://github.com/Pragmatists/eventsourcing-java-example)
 * [https://github.com/ddd-by-examples/event-source-cqrs-sample](https://github.com/ddd-by-examples/event-source-cqrs-sample)
-* [https://github.com/VaughnVernon/IDDD\_Samples](https://github.com/VaughnVernon/IDDD_Samples)
+* [https://github.com/VaughnVernon/IDDD\_Samples](https://github.com/VaughnVernon/IDDD_Samples) 
+* [https://www.hugopicado.com/2017/05/06/what-event-sourcing-is-not.html](https://www.hugopicado.com/2017/05/06/what-event-sourcing-is-not.html)
+* [https://cqrs.files.wordpress.com/2010/11/cqrs\_documents.pdf](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
 
 
 
