@@ -99,6 +99,27 @@
 * [https://blog.codeship.com/testing-in-go/](https://blog.codeship.com/testing-in-go/)
 * [https://medium.com/agrea-technogies/mocking-dependencies-in-go-bb9739fef008](https://medium.com/agrea-technogies/mocking-dependencies-in-go-bb9739fef008)
 
+## Go & DDD? Debatable.
+
+* "I find DDD with Go adds unnecessary complexity, because it tends more to OOP then Go. Go has its own style and trying to port it to Go may not be Go's idiomatic way. However, by keeping "some" of DDD's and general software design principles in mind will be more" - comment from [https://blog.gopheracademy.com/advent-2016/go-and-package-focused-design/](https://blog.gopheracademy.com/advent-2016/go-and-package-focused-design/)
+* "Just do the minimal and keep things decoupled in your same package for easier testing. Keep a close eye on your exported API to make sure it makes sense to others.  
+
+
+  The best packages are those that the API is self explanatory. If you flood it with 50 domain objects, 19 aggregates, 40 value objects, 70 specifications, and 5 modules - it is no longer easy to follow.
+
+  
+  DDD, while needed in OOO languages, tends to have an adverse effect in Go where things end up being more complicated with object graphs of several structs and aggregates - when you could have just wrote a single func that took parameters and returned an error."  [https://www.reddit.com/r/golang/comments/6ugzo2/domain\_driven\_design\_and\_go/](https://www.reddit.com/r/golang/comments/6ugzo2/domain_driven_design_and_go/)
+
+* "Most if not all concepts found in DDD and similar methodologies, guides, patterns and philosophies \(SOLID; separation of concerns, the open-closed principle and so forth\) are all based in the thoughts of people who spent years and years doing Java and other inheritance-oriented object-models like C++. It's hard to structure such applications well while at the same time keeping enough wiggle-room around to change things later. In that sense this wisdom is priceless and has saved many programmers countless hours of work.  
+
+
+  But Go is not like Java or C++, Go is much smaller \(C++ has 85 keywords, Java has 50, Go has 25\). Also, there is no inheritance and embedding is something that is only rarely used. Add to that the novel approach to implicit interface implementation and you have a language where every package hosts its own dependencies and contracts and has clearly defined boundaries.
+
+  The only conventions/patterns/rules we consider as "good practice" in the Go community is using the basic interfaces that the standard library provides \(like io.Reader, io.Writer\) whenever possible, instead of inventing new ones that do the same. Some additional common idioms are described in "effective go" \([https://golang.org/doc/effective\_go.html](https://golang.org/doc/effective_go.html)\).  
+
+
+  After you've written some Go code you'll realize \(or get the impression that\) "patternism" as I like to call it has gotten out of hand; people doing design-patterns are more concerned with the form of their programs than actually shipping functional code. Hence stuff like the often mocked "ProviderBuilderFactoryFactory". That's why I called that function the antithesis of Go." [https://groups.google.com/forum/m/\#!msg/Golang-nuts/0hJuub86zpo/ftx2L523uU8J](https://groups.google.com/forum/m/#!msg/Golang-nuts/0hJuub86zpo/ftx2L523uU8J)
+
 ## Architecture & DDD
 
 * go-kit & microservices [https://www.youtube.com/watch?v=NX0sHF8ZZgw](https://www.youtube.com/watch?v=NX0sHF8ZZgw)
@@ -119,6 +140,7 @@
 * [https://github.com/marcusolsson/goddd](https://github.com/marcusolsson/goddd)
 * [https://www.youtube.com/watch?v=dPmqQqPn75w](https://www.youtube.com/watch?v=dPmqQqPn75w)
 * [Criticism](https://www.reddit.com/r/golang/comments/6ugzo2/domain_driven_design_and_go/dlsm85q)
+* [https://gist.github.com/gotjosh/2f00560efab83eb5d834](https://gist.github.com/gotjosh/2f00560efab83eb5d834)
 
 ## Performance & monitoring
 
