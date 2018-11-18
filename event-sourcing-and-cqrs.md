@@ -39,6 +39,7 @@
 * [https://stackoverflow.com/questions/17708489/using-kafka-as-a-cqrs-eventstore-good-idea/](https://stackoverflow.com/questions/17708489/using-kafka-as-a-cqrs-eventstore-good-idea/)
 * [https://gist.github.com/bobthemighty/b241a4fccadbd7591024](https://gist.github.com/bobthemighty/b241a4fccadbd7591024)
 * [http://uniknow.github.io/AgileDev/site/0.1.9-SNAPSHOT/parent/ddd/core/glossary.html](http://uniknow.github.io/AgileDev/site/0.1.9-SNAPSHOT/parent/ddd/core/glossary.html)
+* YOW! Nights March 2016 Martin Fowler - Event Sourcing [https://www.youtube.com/watch?v=aweV9FLTZkU](https://www.youtube.com/watch?v=aweV9FLTZkU)
 
 
 
