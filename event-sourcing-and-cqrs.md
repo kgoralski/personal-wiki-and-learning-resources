@@ -40,6 +40,9 @@
 * [https://gist.github.com/bobthemighty/b241a4fccadbd7591024](https://gist.github.com/bobthemighty/b241a4fccadbd7591024)
 * [http://uniknow.github.io/AgileDev/site/0.1.9-SNAPSHOT/parent/ddd/core/glossary.html](http://uniknow.github.io/AgileDev/site/0.1.9-SNAPSHOT/parent/ddd/core/glossary.html)
 * YOW! Nights March 2016 Martin Fowler - Event Sourcing [https://www.youtube.com/watch?v=aweV9FLTZkU](https://www.youtube.com/watch?v=aweV9FLTZkU)
+* [http://www.kennybastani.com/2016/04/event-sourcing-microservices-spring-cloud.html](http://www.kennybastani.com/2016/04/event-sourcing-microservices-spring-cloud.html)
+* [https://github.com/kbastani/spring-cloud-event-sourcing-example](https://github.com/kbastani/spring-cloud-event-sourcing-example)
+* [https://github.com/kbastani/event-sourcing-microservices-basics](https://github.com/kbastani/event-sourcing-microservices-basics)
 
 
 
