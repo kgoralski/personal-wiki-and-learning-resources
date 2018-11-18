@@ -43,6 +43,8 @@
 * [http://www.kennybastani.com/2016/04/event-sourcing-microservices-spring-cloud.html](http://www.kennybastani.com/2016/04/event-sourcing-microservices-spring-cloud.html)
 * [https://github.com/kbastani/spring-cloud-event-sourcing-example](https://github.com/kbastani/spring-cloud-event-sourcing-example)
 * [https://github.com/kbastani/event-sourcing-microservices-basics](https://github.com/kbastani/event-sourcing-microservices-basics)
+* [https://thenewstack.io/how-cqrs-works-with-spring-tools/](https://thenewstack.io/how-cqrs-works-with-spring-tools/)
+* [https://github.com/ddd-by-examples](https://github.com/ddd-by-examples)
 
 
 
