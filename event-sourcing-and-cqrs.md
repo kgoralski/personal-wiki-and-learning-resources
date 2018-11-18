@@ -34,6 +34,11 @@
 * [https://github.com/VaughnVernon/IDDD\_Samples](https://github.com/VaughnVernon/IDDD_Samples)
 * [https://www.hugopicado.com/2017/05/06/what-event-sourcing-is-not.html](https://www.hugopicado.com/2017/05/06/what-event-sourcing-is-not.html)
 * [https://cqrs.files.wordpress.com/2010/11/cqrs\_documents.pdf](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
+* GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler [https://www.youtube.com/watch?v=STKCRSUsyP0](https://www.youtube.com/watch?v=STKCRSUsyP0)
+* Scaling Event Sourcing for Netflix Downloads [https://www.youtube.com/watch?v=rsSld8NycCU](https://www.youtube.com/watch?v=rsSld8NycCU)
+* [https://stackoverflow.com/questions/17708489/using-kafka-as-a-cqrs-eventstore-good-idea/](https://stackoverflow.com/questions/17708489/using-kafka-as-a-cqrs-eventstore-good-idea/)
+* [https://gist.github.com/bobthemighty/b241a4fccadbd7591024](https://gist.github.com/bobthemighty/b241a4fccadbd7591024)
+* [http://uniknow.github.io/AgileDev/site/0.1.9-SNAPSHOT/parent/ddd/core/glossary.html](http://uniknow.github.io/AgileDev/site/0.1.9-SNAPSHOT/parent/ddd/core/glossary.html)
 
 
 
