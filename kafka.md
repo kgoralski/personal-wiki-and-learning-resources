@@ -53,6 +53,7 @@ First a few concepts:
 * [https://www.slideshare.net/KaushalLahankarFRM/kafka-vs-kinesis](https://www.slideshare.net/KaushalLahankarFRM/kafka-vs-kinesis)
 * [https://edoc.site/datapipe-whitepaper-kafka-vs-kinesis-pdf-free.html](https://edoc.site/datapipe-whitepaper-kafka-vs-kinesis-pdf-free.html)
 * [https://www.quora.com/Which-of-Amazon-Kinesis-and-Apache-Kafka-is-the-more-proven-and-high-performance-oriented](https://www.quora.com/Which-of-Amazon-Kinesis-and-Apache-Kafka-is-the-more-proven-and-high-performance-oriented)
+* Martin Kleppmann \| Kafka Summit SF 2018 Keynote \(Is Kafka a Database?\) [https://www.youtube.com/watch?v=v2RJQELoM6Y](https://www.youtube.com/watch?v=v2RJQELoM6Y)
 
 ## Apache Kafka and Microservices
 
