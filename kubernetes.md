@@ -41,7 +41,8 @@
 * [https://blog.giantswarm.io/load-balancer-service-use-cases-on-aws/](https://blog.giantswarm.io/load-balancer-service-use-cases-on-aws/)
 * [https://kubernetes.io/docs/concepts/services-networking/service/\#internal-load-balancer](https://kubernetes.io/docs/concepts/services-networking/service/#internal-load-balancer)
 * [https://github.com/kubernetes/kubernetes/issues/26670](https://github.com/kubernetes/kubernetes/issues/26670)
-* [https://www.weave.works/technologies/kubernetes-on-aws/](https://www.weave.works/technologies/kubernetes-on-aws/)
+* [https://www.weave.works/technologies/kubernetes-on-aws](https://www.weave.works/technologies/kubernetes-on-aws/)
+* [https://stripe.com/blog/operating-kubernetes](https://stripe.com/blog/operating-kubernetes)
 
 ## Ingress
 
