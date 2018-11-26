@@ -57,7 +57,7 @@ Subsequently, DDD is going to help you **investigate and know your domain and al
 * [https://amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164](https://amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 * [http://carfield.com.hk/document/software%2Bdesign/dddquickly.pdf](http://carfield.com.hk/document/software%2Bdesign/dddquickly.pdf)
 * [http://eventstorming.com](http://eventstorming.com)
-* [https://www.google.com/url?q=https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709&sa=D&source=hangouts&ust=1542544297031000&usg=AFQjCNHTsdCY4W8vmEItzHgrZgiB-dufaw](https://www.google.com/url?q=https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709&sa=D&source=hangouts&ust=1542544297031000&usg=AFQjCNHTsdCY4W8vmEItzHgrZgiB-dufaw)
+* [https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709)
 
 ## Presentations
 
