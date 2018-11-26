@@ -25,6 +25,7 @@ First a few concepts:
 * [https://kafka.apache.org/](https://kafka.apache.org/)
 * Tutorial [https://www.udemy.com/apache-kafka/](https://www.udemy.com/apache-kafka/)
 * Books [https://www.confluent.io/apache-kafka-stream-processing-book-bundle](https://www.confluent.io/apache-kafka-stream-processing-book-bundle)
+* Mastering Apache Kafka [https://legacy.gitbook.com/book/jaceklaskowski/apache-kafka/details](https://legacy.gitbook.com/book/jaceklaskowski/apache-kafka/details)
 * GCP [https://cloud.google.com/blog/big-data/2018/05/google-cloud-platform-and-confluent-partner-to-deliver-a-managed-apache-kafka-service](https://cloud.google.com/blog/big-data/2018/05/google-cloud-platform-and-confluent-partner-to-deliver-a-managed-apache-kafka-service)
 * AWS [https://aws.amazon.com/kafka/](https://aws.amazon.com/kafka/), [https://aws.amazon.com/quickstart/architecture/confluent-platform/](https://aws.amazon.com/quickstart/architecture/confluent-platform/), [https://www.confluent.io/confluent-cloud/](https://www.confluent.io/confluent-cloud/) &lt;- managed service
 * Beam has KafkaIO [https://cloud.google.com/blog/big-data/2016/09/apache-kafka-for-gcp-users-connectors-for-pubsub-dataflow-and-bigquery](https://cloud.google.com/blog/big-data/2016/09/apache-kafka-for-gcp-users-connectors-for-pubsub-dataflow-and-bigquery)
