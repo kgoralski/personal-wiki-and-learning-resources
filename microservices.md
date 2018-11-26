@@ -69,6 +69,17 @@ References:
 * [https://thenewstack.io/ten-commandments-microservices/](https://thenewstack.io/ten-commandments-microservices/)
 * [https://threedots.tech/post/microservices-or-monolith-its-detail/](https://threedots.tech/post/microservices-or-monolith-its-detail/)
 
+## Breaking the Monolith
+
+* [https://martinfowler.com/articles/break-monolith-into-microservices.html](https://martinfowler.com/articles/break-monolith-into-microservices.html)
+* [https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/](https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/)
+* [https://www.dynatrace.com/news/blog/breaking-the-monolith-an-8-step-recipe/](https://www.dynatrace.com/news/blog/breaking-the-monolith-an-8-step-recipe/)
+* [https://www.dynatrace.com/news/blog/fearless-monolith-to-microservices-migration-a-guided-journey/](https://www.dynatrace.com/news/blog/fearless-monolith-to-microservices-migration-a-guided-journey/)
+* [https://techbeacon.com/how-break-apart-monolith-without-destroying-your-team](https://techbeacon.com/how-break-apart-monolith-without-destroying-your-team)
+* [https://medium.com/weebly-engineering/how-to-organize-your-monolith-before-breaking-it-into-services-69cbdb9248b0](https://medium.com/weebly-engineering/how-to-organize-your-monolith-before-breaking-it-into-services-69cbdb9248b0)
+* [https://www.appcelerator.com/blog/2018/01/5-strategies-for-making-the-switch-from-monolith-to-microservices/](https://www.appcelerator.com/blog/2018/01/5-strategies-for-making-the-switch-from-monolith-to-microservices/)
+* [http://enos.itcollege.ee/~jpoial/allalaadimised/reading/microservicesguide-2017.pdf](http://enos.itcollege.ee/~jpoial/allalaadimised/reading/microservicesguide-2017.pdf)
+
 ## Fallacies of distributed computing
 
 The fallacies of distributed computing are a set of assertions made by L Peter Deutsch and others at Sun Microsystems describing false assumptions that programmers new to distributed applications invariably make.
