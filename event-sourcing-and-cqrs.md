@@ -46,6 +46,7 @@
 * [https://thenewstack.io/how-cqrs-works-with-spring-tools/](https://thenewstack.io/how-cqrs-works-with-spring-tools/)
 * [https://github.com/ddd-by-examples](https://github.com/ddd-by-examples)
 * The Dark Side of Event Sourcing: Managing Data Conversion [http://files.movereem.nl/2017saner-eventsourcing.pdf](http://files.movereem.nl/2017saner-eventsourcing.pdf)
+* Event Sourcing Anti Patterns and Failures - Nathan Ladd [https://youtu.be/vh1QTk34350](https://youtu.be/vh1QTk34350)
 
 
 
