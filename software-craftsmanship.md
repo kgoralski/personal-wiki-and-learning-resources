@@ -12,4 +12,7 @@
 * Clean Architecture: [https://github.com/coi-gov-pl/spring-clean-architecture](https://github.com/coi-gov-pl/spring-clean-architecture) [https://medium.com/@teo2k/go-clean-54c5cd866fe5](https://medium.com/@teo2k/go-clean-54c5cd866fe5) [https://github.com/bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch)
 * [https://jvns.ca/blog/senior-engineer/](https://jvns.ca/blog/senior-engineer/)
 * [https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
+* [https://en.wikipedia.org/wiki/Extreme\_programming](https://en.wikipedia.org/wiki/Extreme_programming)
+* [http://www.extremeprogramming.org/](http://www.extremeprogramming.org/)
+* [https://blog.versionone.com/how-to-become-a-software-craftsman/](https://blog.versionone.com/how-to-become-a-software-craftsman/)
 
