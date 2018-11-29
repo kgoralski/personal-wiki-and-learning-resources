@@ -10,6 +10,8 @@ Domain-driven design \(DDD\) is an approach to software development for complex 
 
 [https://en.wikipedia.org/wiki/Domain-driven\_design](https://en.wikipedia.org/wiki/Domain-driven_design)
 
+DDD for everyone [https://docs.google.com/presentation/d/1HOqF3vvvckDu05CgHwj7afZfbxrZrS62Mn3VpB0-T0w/edit\#slide=id.p](https://docs.google.com/presentation/d/1HOqF3vvvckDu05CgHwj7afZfbxrZrS62Mn3VpB0-T0w/edit#slide=id.p)
+
 ## Benefits
 
 DDD Value And Benefits \(A.K.A. How To Sell Ddd To Your Management, Domain Experts, And Technical Team Members\)
