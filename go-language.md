@@ -19,6 +19,7 @@
 * [https://github.com/dgryski/go-perfbook](https://github.com/dgryski/go-perfbook)
 * [http://shop.oreilly.com/product/0636920046189.do](http://shop.oreilly.com/product/0636920046189.do)
 * go-internals [https://github.com/teh-cmc/go-internals](https://github.com/teh-cmc/go-internals)
+* [https://www.packtpub.com/application-development/go-programming-blueprints-second-edition](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)
 
 ## Best Practices & interesting articles
 
