@@ -20,6 +20,7 @@
 * [http://shop.oreilly.com/product/0636920046189.do](http://shop.oreilly.com/product/0636920046189.do)
 * go-internals [https://github.com/teh-cmc/go-internals](https://github.com/teh-cmc/go-internals)
 * [https://www.packtpub.com/application-development/go-programming-blueprints-second-edition](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)
+* [https://github.com/matryer/goblueprints](https://github.com/matryer/goblueprints)
 
 ## Best Practices & interesting articles
 
