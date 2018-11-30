@@ -17,6 +17,7 @@
 * [https://divvycloud.com/blog/kubedex-comparison-google-gke-microsoft-aks-amazon-eks/](https://divvycloud.com/blog/kubedex-comparison-google-gke-microsoft-aks-amazon-eks/)
 * [https://github.com/ramitsurana/awesome-kubernetes\#useful-article](https://github.com/ramitsurana/awesome-kubernetes#useful-articles)
 * [https://github.com/kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+* [https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/](https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/)
 
 ## AWS EKS
 
