@@ -62,6 +62,7 @@
 * [Writing Beautiful Packages in Go - Mat Ryer](https://www.youtube.com/watch?v=cmkKxNN7cs4)
 * [https://dave.cheney.net/2016/08/20/solid-go-design](https://dave.cheney.net/2016/08/20/solid-go-design)
 * GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps [https://youtu.be/oL6JBUk6tj0](https://youtu.be/oL6JBUk6tj0)
+* [https://github.com/katzien/go-structure-examples](https://github.com/katzien/go-structure-examples)
 
 ## Tutorials
 
