@@ -17,7 +17,12 @@
 * [https://divvycloud.com/blog/kubedex-comparison-google-gke-microsoft-aks-amazon-eks/](https://divvycloud.com/blog/kubedex-comparison-google-gke-microsoft-aks-amazon-eks/)
 * [https://github.com/ramitsurana/awesome-kubernetes\#useful-article](https://github.com/ramitsurana/awesome-kubernetes#useful-articles)
 * [https://github.com/kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+* [https://kubedex.com/google-gke-vs-microsoft-aks-vs-amazon-eks/](https://kubedex.com/google-gke-vs-microsoft-aks-vs-amazon-eks/)
+
+## CNI
+
 * [https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/](https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/)
+* [https://itnext.io/benchmark-results-of-kubernetes-network-plugins-cni-over-10gbit-s-network-36475925a560](https://itnext.io/benchmark-results-of-kubernetes-network-plugins-cni-over-10gbit-s-network-36475925a560)
 
 ## AWS EKS
 
@@ -67,6 +72,7 @@
 * Traefik from kubedex.com: "Another consideration is minimizing server reloads because that impacts load balancing quality and existing connections etc. Traefik doesn’t support hitless reloads so you need NGINX or Envoy Proxy for this. For a lot of people this is a big deal."  vs from rancher.com: "Traefik has a true zero downtime reload and implements the possibility of defining circuit breakers rules."
 * [https://github.com/nginxinc/nginmesh](https://github.com/nginxinc/nginmesh)
 * [https://blog.giantswarm.io/load-balancer-service-use-cases-on-aws/](https://blog.giantswarm.io/load-balancer-service-use-cases-on-aws/)
+* [https://medium.com/devopslinks/istio-step-by-step-part-01-introduction-to-istio-b9fd0df30a9e](https://medium.com/devopslinks/istio-step-by-step-part-01-introduction-to-istio-b9fd0df30a9e) Istio
 
 ## External DNS
 

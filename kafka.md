@@ -20,6 +20,12 @@ First a few concepts:
 * The Kafka cluster stores streams of records in categories called topics.
 * Each record consists of a key, a value, and a timestamp.
 
+## Kafka Adoption Stories
+
+* [https://blog.twitter.com/engineering/en\_us/topics/insights/2018/twitters-kafka-adoption-story.html](https://blog.twitter.com/engineering/en_us/topics/insights/2018/twitters-kafka-adoption-story.html)
+* [https://tech.trello.com/why-we-chose-kafka/](https://tech.trello.com/why-we-chose-kafka/)
+* [https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be](https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be)
+
 ## References
 
 * [https://kafka.apache.org/](https://kafka.apache.org/)
@@ -55,6 +61,7 @@ First a few concepts:
 * [https://edoc.site/datapipe-whitepaper-kafka-vs-kinesis-pdf-free.html](https://edoc.site/datapipe-whitepaper-kafka-vs-kinesis-pdf-free.html)
 * [https://www.quora.com/Which-of-Amazon-Kinesis-and-Apache-Kafka-is-the-more-proven-and-high-performance-oriented](https://www.quora.com/Which-of-Amazon-Kinesis-and-Apache-Kafka-is-the-more-proven-and-high-performance-oriented)
 * Martin Kleppmann \| Kafka Summit SF 2018 Keynote \(Is Kafka a Database?\) [https://www.youtube.com/watch?v=v2RJQELoM6Y](https://www.youtube.com/watch?v=v2RJQELoM6Y)
+* [https://medium.com/@stephane.maarek/an-honest-review-of-aws-managed-apache-kafka-amazon-msk-94b1ff9459d8](https://medium.com/@stephane.maarek/an-honest-review-of-aws-managed-apache-kafka-amazon-msk-94b1ff9459d8) AWS MSK
 
 ## Apache Kafka and Microservices
 
