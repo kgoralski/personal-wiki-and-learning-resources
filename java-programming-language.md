@@ -96,4 +96,5 @@ With Java 11 should be ok now. "The Java JVM ~~until now doesn’t~~ didn’t pr
 * [https://jaxenter.com/nobody-puts-java-container-139373.html](https://jaxenter.com/nobody-puts-java-container-139373.html)
 * Why you’re going to FAIL running Java on docker [https://www.youtube.com/watch?v=UrAE0hD1\_pM](https://www.youtube.com/watch?v=UrAE0hD1_pM)
 * [https://bugs.openjdk.java.net/browse/JDK-8146115](https://bugs.openjdk.java.net/browse/JDK-8146115)
+* [https://stackoverflow.com/questions/53451103/java-using-much-more-memory-than-heap-size-or-size-correctly-docker-memory-limi/53624438\#53624438](https://stackoverflow.com/questions/53451103/java-using-much-more-memory-than-heap-size-or-size-correctly-docker-memory-limi/53624438#53624438)
 
