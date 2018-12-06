@@ -18,6 +18,7 @@
 * [https://github.com/ramitsurana/awesome-kubernetes\#useful-article](https://github.com/ramitsurana/awesome-kubernetes#useful-articles)
 * [https://github.com/kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * [https://kubedex.com/google-gke-vs-microsoft-aks-vs-amazon-eks/](https://kubedex.com/google-gke-vs-microsoft-aks-vs-amazon-eks/)
+* [https://github.com/darshanime/notes/blob/master/kubernetes.org](https://github.com/darshanime/notes/blob/master/kubernetes.org)
 
 ## CNI
 
