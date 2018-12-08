@@ -15,5 +15,6 @@
 * [Janusgraph](janusgraph.md)
 * [Event Sourcing & CQRS](event-sourcing-and-cqrs.md)
 * [Software Craftsmanship](software-craftsmanship.md)
+* [Site Reliability Engineering](site-reliability-engineering.md)
 * [Conference and meetup videos](conference_and_meetup_videos.md)
 
