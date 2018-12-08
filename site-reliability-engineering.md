@@ -18,6 +18,8 @@
 * [https://thenewstack.io/the-new-devops-site-reliability-engineering-comes-of-age/](https://thenewstack.io/the-new-devops-site-reliability-engineering-comes-of-age/)
 * [https://cloud.kapostcontent.net/pub/1418185e-b325-49d3-b65c-de338e45cb6f/ebook-10-essential-skills-of-a-site-reliability-engineer-sre.pdf](https://cloud.kapostcontent.net/pub/1418185e-b325-49d3-b65c-de338e45cb6f/ebook-10-essential-skills-of-a-site-reliability-engineer-sre.pdf)
 * [https://www.slideshare.net/initcron/devops-skills-survey](https://www.slideshare.net/initcron/devops-skills-survey)
+* [https://cloudacademy.com/blog/what-is-the-role-of-a-site-reliability-engineer](https://cloudacademy.com/blog/what-is-the-role-of-a-site-reliability-engineer/)
+* AWS re:Invent 2015: DevOps at Amazon: A Look at Our Tools and Processes \(DVO202\) [https://www.youtube.com/watch?v=esEFaY0FDKc](https://www.youtube.com/watch?v=esEFaY0FDKc)
 
 
 
