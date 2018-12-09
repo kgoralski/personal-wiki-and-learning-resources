@@ -20,6 +20,7 @@
 * [https://www.slideshare.net/initcron/devops-skills-survey](https://www.slideshare.net/initcron/devops-skills-survey)
 * [https://cloudacademy.com/blog/what-is-the-role-of-a-site-reliability-engineer](https://cloudacademy.com/blog/what-is-the-role-of-a-site-reliability-engineer/)
 * AWS re:Invent 2015: DevOps at Amazon: A Look at Our Tools and Processes \(DVO202\) [https://www.youtube.com/watch?v=esEFaY0FDKc](https://www.youtube.com/watch?v=esEFaY0FDKc)
+* [https://github.com/dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering)
 
 
 
