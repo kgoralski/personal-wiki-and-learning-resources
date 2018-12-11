@@ -146,6 +146,13 @@
 * [Criticism](https://www.reddit.com/r/golang/comments/6ugzo2/domain_driven_design_and_go/dlsm85q)
 * [https://gist.github.com/gotjosh/2f00560efab83eb5d834](https://gist.github.com/gotjosh/2f00560efab83eb5d834)
 
+## HTTP clients configuration
+
+* [https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
+* [https://medium.com/@valyala/net-http-client-has-the-following-additional-limitations-318ac870ce9d](https://medium.com/@valyala/net-http-client-has-the-following-additional-limitations-318ac870ce9d)
+* [http://tleyden.github.io/blog/2016/11/21/tuning-the-go-http-client-library-for-load-testing/](http://tleyden.github.io/blog/2016/11/21/tuning-the-go-http-client-library-for-load-testing/)
+* [https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/)
+
 ## Performance & monitoring
 
 * [https://blog.golang.org/profiling-go-programs](https://blog.golang.org/profiling-go-programs)
