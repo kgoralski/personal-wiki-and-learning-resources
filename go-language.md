@@ -68,7 +68,9 @@
 
 ## Error Handling
 
-* [https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)
+* [https://blog.golang.org/errors-are-values](https://blog.golang.org/errors-are-values)
+* [https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully) and [https://www.youtube.com/watch?v=lsBF58Q-DnY](https://www.youtube.com/watch?v=lsBF58Q-DnY)
+* [https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html](https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html)
 * [https://www.ardanlabs.com/blog/2014/10/error-handling-in-go-part-i.html](https://www.ardanlabs.com/blog/2014/10/error-handling-in-go-part-i.html)
 * [https://www.ardanlabs.com/blog/2014/11/error-handling-in-go-part-ii.html](https://www.ardanlabs.com/blog/2014/11/error-handling-in-go-part-ii.html)
 * [https://go.googlesource.com/proposal/+/master/design/go2draft-error-handling-overview.md](https://go.googlesource.com/proposal/+/master/design/go2draft-error-handling-overview.md)
