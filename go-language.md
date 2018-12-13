@@ -66,6 +66,17 @@
 * GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps [https://youtu.be/oL6JBUk6tj0](https://youtu.be/oL6JBUk6tj0)
 * [https://github.com/katzien/go-structure-examples](https://github.com/katzien/go-structure-examples)
 
+## Error Handling
+
+* [https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)
+* [https://www.ardanlabs.com/blog/2014/10/error-handling-in-go-part-i.html](https://www.ardanlabs.com/blog/2014/10/error-handling-in-go-part-i.html)
+* [https://www.ardanlabs.com/blog/2014/11/error-handling-in-go-part-ii.html](https://www.ardanlabs.com/blog/2014/11/error-handling-in-go-part-ii.html)
+* [https://go.googlesource.com/proposal/+/master/design/go2draft-error-handling-overview.md](https://go.googlesource.com/proposal/+/master/design/go2draft-error-handling-overview.md)
+* [https://banzaicloud.com/blog/error-handling-go/](https://banzaicloud.com/blog/error-handling-go/)
+* [https://github.com/pkg/errors](https://github.com/pkg/errors)
+* [https://golang.org/src/os/error.go](https://golang.org/src/os/error.go)
+* [https://github.com/ardanlabs/service/blob/master/cmd/sales-api/handlers/errors.go\#L13](https://github.com/ardanlabs/service/blob/master/cmd/sales-api/handlers/errors.go#L13)
+
 ## Tutorials
 
 * For starter: [https://tour.golang.org/welcome/1](https://tour.golang.org/welcome/1)
