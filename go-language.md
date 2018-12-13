@@ -49,6 +49,15 @@
 * [https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/)
 * [https://blog.cloudflare.com/exposing-go-on-the-internet/](https://blog.cloudflare.com/exposing-go-on-the-internet/)
 
+## Tutorials
+
+* For starter: [https://tour.golang.org/welcome/1](https://tour.golang.org/welcome/1)
+* More [https://github.com/avelino/awesome-go\#tutorials](https://github.com/avelino/awesome-go#tutorials)
+* [https://github.com/golang/go/wiki/Learn](https://github.com/golang/go/wiki/Learn)
+* Cheatsheet [https://github.com/a8m/go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet)
+* [https://grpc.io/docs/tutorials/basic/go.html](https://grpc.io/docs/tutorials/basic/go.html)
+* [https://gobyexample.com/](https://gobyexample.com/)
+
 ## Package Design
 
 * [https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
@@ -80,14 +89,16 @@
 * [https://golang.org/src/os/error.go](https://golang.org/src/os/error.go)
 * [https://github.com/ardanlabs/service/blob/master/cmd/sales-api/handlers/errors.go\#L13](https://github.com/ardanlabs/service/blob/master/cmd/sales-api/handlers/errors.go#L13)
 
-## Tutorials
+## JSON
 
-* For starter: [https://tour.golang.org/welcome/1](https://tour.golang.org/welcome/1)
-* More [https://github.com/avelino/awesome-go\#tutorials](https://github.com/avelino/awesome-go#tutorials)
-* [https://github.com/golang/go/wiki/Learn](https://github.com/golang/go/wiki/Learn)
-* Cheatsheet [https://github.com/a8m/go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet)
-* [https://grpc.io/docs/tutorials/basic/go.html](https://grpc.io/docs/tutorials/basic/go.html)
-* [https://gobyexample.com/](https://gobyexample.com/)
+* [https://blog.golang.org/json-and-go](https://blog.golang.org/json-and-go)
+* [https://gobyexample.com/json](https://gobyexample.com/json)
+* [https://golang.org/pkg/encoding/json/](https://golang.org/pkg/encoding/json/)
+* [https://jsoniter.com/](https://jsoniter.com/)
+* [https://github.com/francoispqt/gojay](https://github.com/francoispqt/gojay)
+* [http://eagain.net/articles/go-dynamic-json/](http://eagain.net/articles/go-dynamic-json/)
+* [https://github.com/json-iterator/go](https://github.com/json-iterator/go)
+* [https://www.reddit.com/r/golang/comments/5yhfo1/jsondecoder\_vs\_jsonunmarshal/](https://www.reddit.com/r/golang/comments/5yhfo1/jsondecoder_vs_jsonunmarshal/)
 
 ## Survival Tips for Beginners
 
