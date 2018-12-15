@@ -14,7 +14,7 @@
 * [http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html](http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html)
 * [https://www.infoq.com/presentations/scalability-ebay-google-kixeye](https://www.infoq.com/presentations/scalability-ebay-google-kixeye)
 * [https://medium.com/@sarahtavel/five-lessons-from-scaling-pinterest-6a699a889b08](https://medium.com/@sarahtavel/five-lessons-from-scaling-pinterest-6a699a889b08)
-* Stevey's Google Platforms Rant [https://gist.github.com/chitchcock/1281611](https://gist.github.com/chitchcock/1281611) 
+* Stevey's Google Platforms Rant [https://gist.github.com/chitchcock/1281611](https://gist.github.com/chitchcock/1281611)
 * [https://medium.com/@steve.yegge/why-i-left-google-to-join-grab-86dfffc0be84](https://medium.com/@steve.yegge/why-i-left-google-to-join-grab-86dfffc0be84)
 
 
