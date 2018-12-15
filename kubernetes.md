@@ -29,6 +29,7 @@
 
 * [https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
 * [https://aws.amazon.com/eks/faq/](https://aws.amazon.com/eks/faq/)
+* [https://eksworkshop.com/introduction/](https://eksworkshop.com/introduction/)
 * [https://docs.aws.amazon.com/eks/latest/userguide/eks-ug.pdf](https://docs.aws.amazon.com/eks/latest/userguide/eks-ug.pdf)
 * [https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html](https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html)
 * [https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html](https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html)
@@ -50,6 +51,12 @@
 * [https://github.com/kubernetes/kubernetes/issues/26670](https://github.com/kubernetes/kubernetes/issues/26670)
 * [https://www.weave.works/technologies/kubernetes-on-aws](https://www.weave.works/technologies/kubernetes-on-aws/)
 * [https://stripe.com/blog/operating-kubernetes](https://stripe.com/blog/operating-kubernetes)
+* [https://eksworkshop.com/introduction/](https://eksworkshop.com/introduction/)
+* [https://github.com/aws/containers-roadmap/projects/1](https://github.com/aws/containers-roadmap/projects/1)
+* [https://github.com/pahud/eks-alb-ingress](https://github.com/pahud/eks-alb-ingress)
+* [https://github.com/awslabs/aws-app-mesh-examples](https://github.com/awslabs/aws-app-mesh-examples)
+* [https://www.slideshare.net/AmazonWebServices/building-paas-with-amazon-eks-for-the-largescale-highly-regulated-enterprise-con309r1-aws-reinvent-2018](https://www.slideshare.net/AmazonWebServices/building-paas-with-amazon-eks-for-the-largescale-highly-regulated-enterprise-con309r1-aws-reinvent-2018)
+* [https://aws.amazon.com/app-mesh/features/](https://aws.amazon.com/app-mesh/features/)
 
 ## Ingress
 
@@ -74,6 +81,7 @@
 * [https://github.com/nginxinc/nginmesh](https://github.com/nginxinc/nginmesh)
 * [https://blog.giantswarm.io/load-balancer-service-use-cases-on-aws/](https://blog.giantswarm.io/load-balancer-service-use-cases-on-aws/)
 * [https://medium.com/devopslinks/istio-step-by-step-part-01-introduction-to-istio-b9fd0df30a9e](https://medium.com/devopslinks/istio-step-by-step-part-01-introduction-to-istio-b9fd0df30a9e) Istio
+* [https://github.com/pahud/eks-alb-ingress](https://github.com/pahud/eks-alb-ingress)
 
 ## External DNS
 
