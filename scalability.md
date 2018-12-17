@@ -4,7 +4,7 @@
 * [https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 * [http://highscalability.com/all-time-favorites/](http://highscalability.com/all-time-favorites/)
 * GOTO 2016 • Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned • R. Meshenberg [https://www.youtube.com/watch?v=57UK46qfBLY](https://www.youtube.com/watch?v=57UK46qfBLY)
-* GOTO 2016 • What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney [https://www.youtube.com/watch?v=kb-m2fasdDY](https://www.youtube.com/watch?v=kb-m2fasdDY) 
+* GOTO 2016 • What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney [https://www.youtube.com/watch?v=kb-m2fasdDY](https://www.youtube.com/watch?v=kb-m2fasdDY)
 * Lessons from the Birth of Microservices at Google [https://www.youtube.com/watch?v=Fz1PoXqxAZc](https://www.youtube.com/watch?v=Fz1PoXqxAZc)
 * [http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 * [https://www.datanami.com/2018/07/31/inside-fortnites-massive-data-analytics-pipeline/](https://www.datanami.com/2018/07/31/inside-fortnites-massive-data-analytics-pipeline/)
