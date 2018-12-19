@@ -24,6 +24,7 @@ Cloud Dataflow unlocks transformational use cases across industries, including:
 
 * [https://cloud.google.com/dataflow/](https://cloud.google.com/dataflow/)
 * [https://beam.apache.org/](https://beam.apache.org/)
+* [https://github.com/pabloem/awesome-beam](https://github.com/pabloem/awesome-beam)
 * [https://beam.apache.org/documentation/runners/capability-matrix/](https://beam.apache.org/documentation/runners/capability-matrix/)
 * [https://beam.apache.org/documentation/programming-guide/](https://beam.apache.org/documentation/programming-guide/)
 * [https://beam.apache.org/documentation/programming-guide/\#applying-transforms](https://beam.apache.org/documentation/programming-guide/#applying-transforms)
