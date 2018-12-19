@@ -177,6 +177,7 @@
 * [https://medium.com/@valyala/net-http-client-has-the-following-additional-limitations-318ac870ce9d](https://medium.com/@valyala/net-http-client-has-the-following-additional-limitations-318ac870ce9d)
 * [http://tleyden.github.io/blog/2016/11/21/tuning-the-go-http-client-library-for-load-testing/](http://tleyden.github.io/blog/2016/11/21/tuning-the-go-http-client-library-for-load-testing/)
 * [https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/)
+* problems with current HTTP Client[ https://github.com/brad…/exp-httpclient/…/master/problems.md](https://github.com/brad…/exp-httpclient/…/master/problems.md)
 
 ## Performance & monitoring
 
