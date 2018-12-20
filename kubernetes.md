@@ -30,6 +30,7 @@
 * [https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
 * [https://aws.amazon.com/eks/faq/](https://aws.amazon.com/eks/faq/)
 * [https://eksworkshop.com/introduction/](https://eksworkshop.com/introduction/)
+* [https://medium.com/@zhaimo/learning-kubernetes-by-doing-part-1-setting-up-eks-in-aws-50dcf7a76247](https://medium.com/@zhaimo/learning-kubernetes-by-doing-part-1-setting-up-eks-in-aws-50dcf7a76247)
 * [https://docs.aws.amazon.com/eks/latest/userguide/eks-ug.pdf](https://docs.aws.amazon.com/eks/latest/userguide/eks-ug.pdf)
 * [https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html](https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html)
 * [https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html](https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html)
