@@ -4,6 +4,8 @@
 * [https://www.youtube.com/watch?v=Xi\_WrinvTnM](https://www.youtube.com/watch?v=Xi_WrinvTnM) AWS re:Invent 2017: Serverless Architectural Patterns and Best Practices \(ARC401\)
 * [https://www.jfokus.se/jfokus18/preso/Serverless-Architecture-Patterns-and-Best-Practices.pdf](https://www.jfokus.se/jfokus18/preso/Serverless-Architecture-Patterns-and-Best-Practices.pdf)
 * [https://www.slideshare.net/AmazonWebServices/serverless-architectural-patterns-and-best-practices](https://www.slideshare.net/AmazonWebServices/serverless-architectural-patterns-and-best-practices)
+* Serverless Computing: One Step Forward, Two Steps Back [https://arxiv.org/abs/1812.03651](https://arxiv.org/abs/1812.03651)
+* AWS Lambda — should you have few monolithic functions or many single-purposed functions?[https://hackernoon.com/aws-lambda-should-you-have-few-monolithic-functions-or-many-single-purposed-functions-8c3872d4338f](https://hackernoon.com/aws-lambda-should-you-have-few-monolithic-functions-or-many-single-purposed-functions-8c3872d4338f)
 * [https://www.forbes.com/sites/forbesproductgroup/2018/01/25/how-to-avoid-common-emerging-anti-patterns-in-serverless-computing/\#2ae1af085dac](https://www.forbes.com/sites/forbesproductgroup/2018/01/25/how-to-avoid-common-emerging-anti-patterns-in-serverless-computing/#2ae1af085dac)
 * [https://www.3pillarglobal.com/insights/silence-lambdas-5-anti-patterns-aws-lambda](https://www.3pillarglobal.com/insights/silence-lambdas-5-anti-patterns-aws-lambda)
 * [https://www.slideshare.net/keisuke69/serverless-antipatterns](https://www.slideshare.net/keisuke69/serverless-antipatterns)
