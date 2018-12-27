@@ -20,10 +20,12 @@
 * [https://kubedex.com/google-gke-vs-microsoft-aks-vs-amazon-eks/](https://kubedex.com/google-gke-vs-microsoft-aks-vs-amazon-eks/)
 * [https://github.com/darshanime/notes/blob/master/kubernetes.org](https://github.com/darshanime/notes/blob/master/kubernetes.org)
 
-## CNI
+## CNI & Networking
 
 * [https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/](https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/)
 * [https://itnext.io/benchmark-results-of-kubernetes-network-plugins-cni-over-10gbit-s-network-36475925a560](https://itnext.io/benchmark-results-of-kubernetes-network-plugins-cni-over-10gbit-s-network-36475925a560)
+* [https://itnext.io/kubernetes-networking-behind-the-scenes-39a1ab1792bb](https://itnext.io/kubernetes-networking-behind-the-scenes-39a1ab1792bb)
+* [https://itnext.io/kubernetes-multi-cluster-networking-made-simple-c8f26827813](https://itnext.io/kubernetes-multi-cluster-networking-made-simple-c8f26827813)
 
 ## AWS EKS
 
@@ -58,6 +60,7 @@
 * [https://github.com/awslabs/aws-app-mesh-examples](https://github.com/awslabs/aws-app-mesh-examples)
 * [https://www.slideshare.net/AmazonWebServices/building-paas-with-amazon-eks-for-the-largescale-highly-regulated-enterprise-con309r1-aws-reinvent-2018](https://www.slideshare.net/AmazonWebServices/building-paas-with-amazon-eks-for-the-largescale-highly-regulated-enterprise-con309r1-aws-reinvent-2018)
 * [https://aws.amazon.com/app-mesh/features/](https://aws.amazon.com/app-mesh/features/)
+* [https://aws.amazon.com/blogs/opensource/kubernetes-service-catalog-aws-service-broker-on-eks/](https://aws.amazon.com/blogs/opensource/kubernetes-service-catalog-aws-service-broker-on-eks/)
 
 ## Ingress
 
