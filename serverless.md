@@ -42,4 +42,6 @@
 * [https://read.acloud.guru/lambda-for-alexa-skills-7-tips-from-the-trenches-684c963e6ad1](https://read.acloud.guru/lambda-for-alexa-skills-7-tips-from-the-trenches-684c963e6ad1)
 * [https://leanpub.com/serverless](https://leanpub.com/serverless)
 * [https://zef.me/serverless-first-d2117ecc12da](https://zef.me/serverless-first-d2117ecc12da)
+* [https://read.acloud.guru/simon-wardley-is-a-big-fan-of-containers-despite-what-you-might-think-18c9f5352147](https://read.acloud.guru/simon-wardley-is-a-big-fan-of-containers-despite-what-you-might-think-18c9f5352147)
+* [https://read.acloud.guru/save-time-and-money-with-aws-lambda-using-asynchronous-programming-3548ea65f751](https://read.acloud.guru/save-time-and-money-with-aws-lambda-using-asynchronous-programming-3548ea65f751)
 
