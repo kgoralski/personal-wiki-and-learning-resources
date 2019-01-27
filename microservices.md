@@ -12,6 +12,7 @@
 * [https://www.slideshare.net/adriancockcroft/dockercon-state-of-the-art-in-microservices](https://www.slideshare.net/adriancockcroft/dockercon-state-of-the-art-in-microservices)
 * [https://github.com/mfornos/awesome-microservices\#theory](https://github.com/mfornos/awesome-microservices#theory)
 * [https://github.com/theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
+* [https://www.infoq.com/presentations/google-microservices](https://www.infoq.com/presentations/google-microservices)
 * Book: Martin Kleppmann, Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 
 ## Monoliths vs Microservices
