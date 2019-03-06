@@ -306,6 +306,9 @@ Asynchronous and non-blocking execution and IO is often more cost-efficient thro
 * [http://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/](http://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/)
 * [https://enterprisersproject.com/article/2017/9/using-microservices-containers-wisely-5-pitfalls-avoid](https://enterprisersproject.com/article/2017/9/using-microservices-containers-wisely-5-pitfalls-avoid)
 * [https://medium.com/walmartlabs/avoiding-pitfalls-in-microservice-architecture-ba038340f8c1](https://medium.com/walmartlabs/avoiding-pitfalls-in-microservice-architecture-ba038340f8c1)
+* [http://chrisrichardson.net/post/antipatterns/2019/01/28/melbourne-microservices.html](http://chrisrichardson.net/post/antipatterns/2019/01/28/melbourne-microservices.html)
+* [https://messente.com/blog/most-recent/5-mistakes-transition-to-microservices](https://messente.com/blog/most-recent/5-mistakes-transition-to-microservices)
+* [https://walkingtree.tech/7-common-pitfalls-avoid-migrating-microservices/](https://walkingtree.tech/7-common-pitfalls-avoid-migrating-microservices/)
 * [https://www.slideshare.net/InfoQ/microservices-antipatterns](https://www.slideshare.net/InfoQ/microservices-antipatterns)
 * Pitfalls by Mateusz Gajewski [https://www.youtube.com/watch?v=yxZm0Fhn9Tk](https://www.youtube.com/watch?v=yxZm0Fhn9Tk)
 
