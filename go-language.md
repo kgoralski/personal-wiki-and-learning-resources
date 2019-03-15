@@ -4,9 +4,6 @@
 
 * read [https://github.com/golang/go/wiki/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
 * format code according to `gofmt`, nothing else will be accepted
-* don't use a local include path, always prefix the full package URL "github.com/.../package"
-* create functions that return errors as the second return argument and handle it
-* use const if possible and multiple const blocks if necessary
 * [https://github.com/tmrts/go-patterns](https://github.com/tmrts/go-patterns)
 * [https://github.com/cristaloleg/go-advices/blob/master/README.md](https://github.com/cristaloleg/go-advices/blob/master/README.md)
 * [https://goreportcard.com](https://goreportcard.com)
