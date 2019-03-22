@@ -305,6 +305,33 @@ Asynchronous and non-blocking execution and IO is often more cost-efficient thro
 
 ## Microservices Antipatterns & Pitfalls
 
+
+
+Microservices Common Mistakes:
+
+* Wrong service boundaries - not based on business domain
+* Lack of Business Alignment - microservice needs to deliver clear business value, so we need to work closely with business
+* Lack of code modularity \(or lack of Common Closure Principle\)
+* Shared data or shared database between services
+* Sharing “common” dependencies - shared pieces of code requiring updating more than one service at once
+* Forgetting about Fallacies of distributed computing
+* Treating services as programming language-level modules / temporal coupling
+* Forgetting about Conway’s Law & lack of clear ownership
+* Cascading failures & lack of designing for Failure \(circuit breakers, retries etc.\) and flooding other services with errors
+* Everything RESTful, chatty microservices and Lack of async communication
+* Lack of APIs compatibility/versioning
+* Lack of infrastructure/platform automation, monitoring, tracing & proper logging
+* Lack of idempotency
+* Lack of service discovery, api gateway and orchestration
+* Trying to do everything ACID instead of BASE \(CAP Theorem\)
+* Not taking care about resource utilization
+* Low amount of tests and lack of acceptance tests
+* Trying to do everything at once
+* Microservices as the goal - they are solution for a specific problem, not a goal.
+* Hype driven and too optimistic
+
+
+
 * [http://highscalability.com/blog/2015/8/3/seven-of-the-nastiest-anti-patterns-in-microservices.html](http://highscalability.com/blog/2015/8/3/seven-of-the-nastiest-anti-patterns-in-microservices.html)
 * [https://container-solutions.com/the-seven-deadly-sins-of-microservices-redux/](https://container-solutions.com/the-seven-deadly-sins-of-microservices-redux/)
 * [https://www.infoq.com/articles/seven-uservices-antipatterns](https://www.infoq.com/articles/seven-uservices-antipatterns)
