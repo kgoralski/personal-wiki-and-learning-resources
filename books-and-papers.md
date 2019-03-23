@@ -1,8 +1,10 @@
 ---
-description: 'Books I have, read or want to read.'
+description: 'Books I have, read or want to read, computer science and stuff.'
 ---
 
 # Books and Papers
+
+## Books
 
 1. Core Java, Volume I and II; Horstmann
 2. Thinking in Java; Eckel
@@ -50,4 +52,10 @@ description: 'Books I have, read or want to read.'
 44. I Heart Logs; Kreps
 45. Microservices AntiPatterns and Pitfalls, Richards
 46. Software Architecture Patterns, Richards
+
+## Papers
+
+1. [https://paperswelove.org/](https://paperswelove.org/)
+2. [https://www.akkadia.org/drepper/cpumemory.pdf](https://www.akkadia.org/drepper/cpumemory.pdf)
+3. [http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF)
 
