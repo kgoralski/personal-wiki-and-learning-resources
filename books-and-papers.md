@@ -29,24 +29,25 @@ description: 'Books I have, read or want to read.'
 23. Clean Code; Martin
 24. Working Effectively with Legacy Code; Martin
 25. The Pragmatic Programmer; Hunt
-26. The Software Craftsman: Professionalism, Pragmatism, Pride; Mancuso
-27. The Go Programming Language, Donovan & Kernighan
-28. Modern Operating Systems; Andrew S. Tanenbaum
-29. Computer Networks; Andrew S. Tanenbaum
-30. Distributed Systems; Andrew S. Tanenbaum
-31. Site Reliability Engineering: How Google Runs Production Systems; Murphy, Beyer, Jones, Petoff
-32. The Site Reliability Workbook; Murphy, Beyer, Jones, Petoff
-33. Java Performance - The Definitive Guide - Scott Oaks
-34. Domain Driven-Design, Evans
-35. Implementing Domain-Driven Design, Vernon
-36. Designing Data-Intensive Applications; Kleppman
-37. Linux System Programming; Love
-38. Linux Kernel Development; Love
-39. The Linux Programmer's Toolbox; Fusco
-40. Designing Event-Driven Systems; Stopford
-41. Kafka: The Definitive Guide; Neha Narkhede, Gwen Shapira, Todd Palino
-42. Making Sense of Stream Processing; Kleppmann
-43. I Heart Logs; Kreps
-44. Microservices AntiPatterns and Pitfalls, Richards
-45. Software Architecture Patterns, Richards
+26. Test Driven Development: By Example, Hunt
+27. The Software Craftsman: Professionalism, Pragmatism, Pride; Mancuso
+28. The Go Programming Language, Donovan & Kernighan
+29. Modern Operating Systems; Andrew S. Tanenbaum
+30. Computer Networks; Andrew S. Tanenbaum
+31. Distributed Systems; Andrew S. Tanenbaum
+32. The Site Reliability Engineering: How Google Runs Production Systems; Murphy, Beyer, Jones, Petoff
+33. The Site Reliability Workbook; Murphy, Beyer, Jones, Petoff
+34. Java Performance - The Definitive Guide - Scott Oaks
+35. Domain Driven-Design, Evans
+36. Implementing Domain-Driven Design, Vernon
+37. Designing Data-Intensive Applications; Kleppman
+38. Linux System Programming; Love
+39. Linux Kernel Development; Love
+40. The Linux Programmer's Toolbox; Fusco
+41. Designing Event-Driven Systems; Stopford
+42. Kafka: The Definitive Guide; Neha Narkhede, Gwen Shapira, Todd Palino
+43. Making Sense of Stream Processing; Kleppmann
+44. I Heart Logs; Kreps
+45. Microservices AntiPatterns and Pitfalls, Richards
+46. Software Architecture Patterns, Richards
 
