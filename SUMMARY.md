@@ -17,5 +17,6 @@
 * [Site Reliability Engineering](site-reliability-engineering.md)
 * [Scalability](scalability.md)
 * [Software Craftsmanship](software-craftsmanship.md)
+* [Books and Papers](books-and-papers.md)
 * [Conference and meetup videos](conference_and_meetup_videos.md)
 
