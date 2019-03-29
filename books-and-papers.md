@@ -76,7 +76,7 @@ description: 'Books I have, read or want to read, computer science and stuff.'
 #### Devops
 
 1. The Goal 1 & 2, Goldratt
-2. The Pheonix Project, Kim
+2. The Phoenix Project, Kim
 3. The DevOPS Handbook, Kim
 
 
@@ -85,6 +85,6 @@ description: 'Books I have, read or want to read, computer science and stuff.'
 
 1. [https://paperswelove.org/](https://paperswelove.org/)
 2. [https://www.akkadia.org/drepper/cpumemory.pdf](https://www.akkadia.org/drepper/cpumemory.pdf)
-3. [http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF)
+3. First "Software Engineering" Nato Conference White Paper [http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF)
 4. [https://d0.awsstatic.com/whitepapers/AWS\_Cloud\_Best\_Practices.pdf](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
 
