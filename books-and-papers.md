@@ -73,6 +73,12 @@ description: 'Books I have, read or want to read, computer science and stuff.'
 1. Domain Driven-Design, Evans
 2. Implementing Domain-Driven Design, Vernon
 
+#### Devops
+
+1. The Goal 1 & 2, Goldratt
+2. The Pheonix Project, Kim
+3. The DevOPS Handbook, Kim
+
 
 
 ## Papers
