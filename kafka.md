@@ -25,6 +25,9 @@ First a few concepts:
 * [https://blog.twitter.com/engineering/en\_us/topics/insights/2018/twitters-kafka-adoption-story.html](https://blog.twitter.com/engineering/en_us/topics/insights/2018/twitters-kafka-adoption-story.html)
 * [https://tech.trello.com/why-we-chose-kafka/](https://tech.trello.com/why-we-chose-kafka/)
 * [https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be](https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be)
+* [https://allegro.tech/2019/05/hermes-1-0-released.html](https://allegro.tech/2019/05/hermes-1-0-released.html)
+* [https://opensource.com/article/17/9/apache-kafka](https://opensource.com/article/17/9/apache-kafka)
+* [https://www.confluent.io/customers/](https://www.confluent.io/customers/)
 
 ## References
 

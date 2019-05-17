@@ -81,10 +81,16 @@ description: 'Books I have, read or want to read, computer science and stuff.'
 
 
 
-## Papers
+## Papers and articles
 
 1. [https://paperswelove.org/](https://paperswelove.org/)
-2. [https://www.akkadia.org/drepper/cpumemory.pdf](https://www.akkadia.org/drepper/cpumemory.pdf)
+2. What Every Programmer Should Know About Memory [https://www.akkadia.org/drepper/cpumemory.pdf](https://www.akkadia.org/drepper/cpumemory.pdf)
 3. First "Software Engineering" Nato Conference White Paper [http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF)
 4. [https://aws.amazon.com/whitepapers/architecting-for-the-aws-cloud-best-practices/](https://aws.amazon.com/whitepapers/architecting-for-the-aws-cloud-best-practices/) 
+5. On the Impact of Memory Allocation on High-Performance Query Processing [https://arxiv.org/abs/1905.01135](https://arxiv.org/abs/1905.01135)
+6. I/O Is Faster Than the CPU – Let’s Partition Resources and Eliminate \(Most\) OS Abstractions [https://penberg.org/parakernel-hotos19.pdf](https://penberg.org/parakernel-hotos19.pdf)
+7. The benefits and costs of writing a POSIX kernel in a high-level language [https://www.usenix.org/system/files/osdi18-cutler.pdf](https://www.usenix.org/system/files/osdi18-cutler.pdf)
+8. Learn where some of the network sysctl variables fit into the Linux/Kernel network flow [https://github.com/leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters)
+9. Distributed consensus revised [https://blog.acolyer.org/2019/05/07/distributed-consensus-revised-part-i/](https://blog.acolyer.org/2019/05/07/distributed-consensus-revised-part-i/)
+10. Monitoring and Tuning the Linux Networking Stack: Sending Data [https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data/](https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data/)
 
