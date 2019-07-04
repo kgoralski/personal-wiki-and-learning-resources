@@ -6,8 +6,12 @@
 
 "Conway's Law states that Organizations that design systems are constrained to produce copies of the communication structures of these organizations \[...\] the organization chart will initially reflect the first system design, which is almost surely not the right one \[...\] as one learns, he changes the design \[...\]. Management structures also need to be changed as the system changes..."
 
-* [https://martinfowler.com/articles/microservices.html](https://martinfowler.com/articles/microservices.html)
-* [https://www.martinfowler.com/microservices/](https://www.martinfowler.com/microservices/)
+* [https://martinfowler.com/bliki/MicroservicePrerequisites.html](https://martinfowler.com/bliki/MicroservicePrerequisites.html) 
+* [https://martinfowler.com/articles/microservices.html](https://martinfowler.com/articles/microservices.html) 
+* [https://martinfowler.com/microservices/](https://martinfowler.com/microservices/)
+* [https://martinfowler.com/articles/microservice-trade-offs.html](https://martinfowler.com/articles/microservice-trade-offs.html) 
+* [https://martinfowler.com/articles/break-monolith-into-microservices.html](https://martinfowler.com/articles/break-monolith-into-microservices.html) 
+* [https://martinfowler.com/bliki/MonolithFirst.html](https://martinfowler.com/bliki/MonolithFirst.html)
 * [http://www.neverletdown.net/2015/05/introduction-to-microservices.html](http://www.neverletdown.net/2015/05/introduction-to-microservices.html)
 * [https://www.slideshare.net/adriancockcroft/dockercon-state-of-the-art-in-microservices](https://www.slideshare.net/adriancockcroft/dockercon-state-of-the-art-in-microservices)
 * [https://github.com/mfornos/awesome-microservices\#theory](https://github.com/mfornos/awesome-microservices#theory)
