@@ -26,6 +26,7 @@ description: 'Books I have, read or want to read, computer science and stuff.'
 5. Linux System Programming; Love
 6. Linux Kernel Development; Love
 7. The Linux Programmer's Toolbox; Fusco
+8. Systems Performance: Enterprise and the Cloud; Gregg
 
 #### Programming languages
 
