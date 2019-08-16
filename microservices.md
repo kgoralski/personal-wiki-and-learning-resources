@@ -27,6 +27,8 @@
 * A single technology stack 
 * A single code base maintained by multiple teams 
 
+In defence of the monolith [https://docs.google.com/spreadsheets/d/1vjnjAII\_8TZBv2XhFHra7kEQzQpOHSZpFIWDjynYYf0/edit\#gid=0](https://docs.google.com/spreadsheets/d/1vjnjAII_8TZBv2XhFHra7kEQzQpOHSZpFIWDjynYYf0/edit#gid=0)
+
 ### Monoliths Disadvantages
 
 * All parts are interconnected 
@@ -159,7 +161,7 @@ References:
 6. Design a Well-Defined Entry Point and Exit Point
 7. Implement a Self-Registration and Discovery Mechanism
 8. Explicitly Check for Rules and Constraints
-9. Prefer Polyglot Over Single Stack
+9. Prefer Polyglot Over Single Stack \(do we really need that?\)
 10. Maintain Independent Revisions and Build Environments
 
 [https://thenewstack.io/ten-commandments-microservices/](https://thenewstack.io/ten-commandments-microservices/)
@@ -352,6 +354,49 @@ Microservices Common Mistakes:
 * [https://www.slideshare.net/InfoQ/microservices-antipatterns](https://www.slideshare.net/InfoQ/microservices-antipatterns)
 * Pitfalls by Mateusz Gajewski [https://www.youtube.com/watch?v=yxZm0Fhn9Tk](https://www.youtube.com/watch?v=yxZm0Fhn9Tk)
 
+## Microservices Stories
+
+Netflix
+
+1. [https://www.nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/](https://www.nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/)
+2. [https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
+3. [https://www.infoq.com/news/2019/01/netflix-evolution-architecture/](https://www.infoq.com/news/2019/01/netflix-evolution-architecture/)
+
+Amazon 
+
+[https://www.slideshare.net/adriancockcroft/microservices-workshop-craft-conference](https://www.slideshare.net/adriancockcroft/microservices-workshop-craft-conference)e
+
+Bay & Google
+
+1. [https://www.slideshare.net/RandyShoup/from-monolith-to-microservices-craftconf-2015](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.slideshare.net%2FRandyShoup%2Ffrom-monolith-to-microservices-craftconf-2015&h=AT2Jf1xI_2lPCACwVhRChZaT4EgzU7VhCnedNJ8U0_bnAQeKPDt5O9_PIcLMLfF3KlzOxQDIOhcruuE_yksNzP7tpMDB12CO5-ZNywMMz3Pew6awsUO90Afvx3kP8cdK2Qma_RfpWpk8xf45jLzugpB8_EQXnMvODvIGdIc) [https://www.slideshare.net/kasun04/microservices-at-ebay](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.slideshare.net%2Fkasun04%2Fmicroservices-at-ebay&h=AT2zvU7-evXO2WAOCa_HccwrvLyMhCJJdwzLtSiIA4xSEjL8akPAhkvVSb0HlxuyNjThZ8OktbApMA4-Gm30e7TXK0OxN6s4riLSpWt4gBWplnt_S8p4ox26hBKzUy2YsmhE_kzejighV0Jg8aFaWsyGX1lsoFKrPXL7_Rk)
+2. [http://highscalability.com/blog/2015/12/1/deep-lessons-from-google-and-ebay-on-building-ecosystems-of.html](https://l.facebook.com/l.php?u=http%3A%2F%2Fhighscalability.com%2Fblog%2F2015%2F12%2F1%2Fdeep-lessons-from-google-and-ebay-on-building-ecosystems-of.html&h=AT3WLWsjcro-n8O4NmNZ6Q3dloCPQV0iufgYAsXL0MKJrby5MkMfng7alXWPMCSsN5lshFqqido5kpvISwqVB5qKiHpQT2qsujdqXnN8zHL1I6Lio0diA8xhaEVXXxqTAb84MZOSeCEItrf4pmMpwboxpSvutMj3t6GCwdE)
+3. [https://www.infoq.com/presentations/google-microservices/](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.infoq.com%2Fpresentations%2Fgoogle-microservices%2F&h=AT3dN-2rjeFYIAts6QRVKC9-51vxiLAirUAlqMALUTzpg3QmNLEs6SsnYrJfBSZCvsCEuWBGjvQ6bFfn_lifdRGyCwwhKLySQ-wtiWJKmCeiOtnCGaMse9wKK7Dm0PJNbwr8Sy2oMMoRf-95-qIR1Tt1DPFIGreSHgN9nqg)
+
+Linkedin
+
+1. [https://www.infoq.com/presentations/linkedin-microservices-urn/](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.infoq.com%2Fpresentations%2Flinkedin-microservices-urn%2F&h=AT34VZkG5xO_pFaWb8sRqj0Xf8i6LnIJnfF7XNYFIF1SgSItclJ1gTKIFCeD609TNizDUideKADOmFv5TnA3ObYFlYSt_OoMmPSRy73NNzmVrewX9zfNUHnm_JmWIy2RrAvUS9hA1aqfqWC5SoADUum3yT6T8lWNK7h90_4)
+2. [https://www.slideshare.net/InfoQ/from-a-monolith-to-microservices-rest-the-evolution-of-linkedins-service-architecture](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.slideshare.net%2FInfoQ%2Ffrom-a-monolith-to-microservices-rest-the-evolution-of-linkedins-service-architecture&h=AT2jkniKwM7G3mKqaPPFuppudSQ1QMgCee01sppiPZtEyhGY5Qg429e5CNTLmnY3By4vIuXsAxEVfYsuBtjdhyPMbSGXIZ7w0CMUhmhM8Um0SJmbXKQhfrkz89m74GimdzHyvnMLSOQxRLRQL12SHELLartMzftpJgXvldU)
+3. [https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
+
+Twitter
+
+1. [http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html](https://l.facebook.com/l.php?u=http%3A%2F%2Fhighscalability.com%2Fblog%2F2013%2F7%2F8%2Fthe-architecture-twitter-uses-to-deal-with-150m-active-users.html&h=AT240WhhWa9qPrQqhk03EKtZ_NybC6p42AGL01-Cy-JT6Oqzb6AeJubwqpP1MJFsaO0zMAR_TyLHWnqWke-eJzaKWjRG8vYOfnG7Upzqqw_ODdraL7Ja0vyGGZKTwjrEqEbIXKwBq-PFr7u9vpMUBVITIantdd4v87WxgUY)
+2. [https://www.infoq.com/articles/twitter-java-use/](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.infoq.com%2Farticles%2Ftwitter-java-use%2F&h=AT3EeZ0J8b30eMkZ8WHdL4Bo-Bwpcao2rxhued3HwqQPMXAjMW6Hqhr6Z3D-sGqHMEUuiLYn-Knn4K9LGS9Mr3Jv5cjxRNLDPtSQ3_dpnEgiugOFPpv4xMrL16MiRxR6OoP4UFMvIV-pkirplshhQv4rgzKAt4k-00EIwlQ)
+3. [https://blog.twitter.com/engineering/en\_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale.html](https://l.facebook.com/l.php?u=https%3A%2F%2Fblog.twitter.com%2Fengineering%2Fen_us%2Ftopics%2Finfrastructure%2F2017%2Fthe-infrastructure-behind-twitter-scale.html&h=AT31RvkjW2EoWwwzcRnn637VnafNAKNxhU-ReYDDO6-Rzy1qK-riinzl-DOkazErET6coJBvf2aF_jZdgLbwHmdakxsmn8AgYPlnjEfVvtf6Rq_Yv6gcxkX_Tfc0ZCcMqu3w13mxLvtIHwy4Rf8_OvuJHqNA-fgAb7voWVA)
+4. [http://highscalability.com/scaling-twitter-making-twitter-10000-percent-faster](https://l.facebook.com/l.php?u=http%3A%2F%2Fhighscalability.com%2Fscaling-twitter-making-twitter-10000-percent-faster&h=AT39BX5TZBn7Dg3_O0f3TWa__KUt1xDfT8-N0wW1onXklDN-GEW5xzUrrc7gCwlze3xnmrg5-ND6S-x7aOEkf5Yh0bUNNFdLP3sGjo_a07nYX4GIlYSFC7pT_-686Svb3CpR_rGtGsrvMHSAeR0I2k_7vHYtTGlbzCv8YcI)
+
+Zalando
+
+1. [https://jobs.zalando.com/tech/blog/jimmy-to-microservices-the-journey-one-year-later/?gh\_src=4n3gxh1](https://l.facebook.com/l.php?u=https%3A%2F%2Fjobs.zalando.com%2Ftech%2Fblog%2Fjimmy-to-microservices-the-journey-one-year-later%2F%3Fgh_src%3D4n3gxh1&h=AT2b64p13-jBhK3a7ICxzfu6MAcSpwIFv_tpraeBxcktANqx98mw2C50qN1V1z5xKIrYDUeMtxCU0v2uBLs1wxIi0jGWS-4lLRfEjM4WACYxh4S7ucm0z0Yp1H6bdp3pQbuOYCXHOSj9WaRCyoPHvo9LDi1HfQyGs4Bjcx8)
+2. [https://www.infoq.com/news/2016/02/Monolith-Microservices-Zalando/](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.infoq.com%2Fnews%2F2016%2F02%2FMonolith-Microservices-Zalando%2F&h=AT1MHPk72yItwLKbhuBIC1AUIvgPXVP_FymRkNQKLML5OxX28_72rtrcCNByWTc6UbavskzGO2G8gyLDScFI11eqP3L5qsmH62znmjwFQocNQoahVqjRw4vrHTR3rGwFLcyAHDQkGZ55SAaP4BqlPbtyZ17aFP-CFjRWHtuj2-htQ8ZtmRtq)
+
+Spotify [https://www.kevingoldsmith.com/talks/microservices-at-spotify.html](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.kevingoldsmith.com%2Ftalks%2Fmicroservices-at-spotify.html&h=AT2Ksu05Wx-eUR3i6kySS1rbeIPp6Kk2ooNKxUISbsqWckOPlZxtQleCE_20owzzIcfRc3cDt2rnkh0nHdag1iUYTDeSFQFSGgnkkYFXWkqPstJfabfcouRUro2-G065hurQIkM7dW7G7sZs4OyOq1CD9Pj3aJVECpPFOEc)  
+BestBuy [https://blog.runscope.com/posts/monolith-microservices-transforming-real-world-ecommerce-platform-using-strangler-pattern](https://blog.runscope.com/posts/monolith-microservices-transforming-real-world-ecommerce-platform-using-strangler-pattern)  
+Wix [https://stackshare.io/wix/scaling-wix-to-60m-users-from-monolith-to-microservices](https://stackshare.io/wix/scaling-wix-to-60m-users-from-monolith-to-microservices)  
+Airbnb [https://thenewstack.io/airbnbs-10-takeaways-moving-microservices/](https://l.facebook.com/l.php?u=https%3A%2F%2Fthenewstack.io%2Fairbnbs-10-takeaways-moving-microservices%2F&h=AT0kij0b9tdO-qSxkOJW3p7iIIkOYsF4BfFB3mhqOpeyuB51cqtcFm9lndFSapZdl-HFpHJT9Ew1fJG8MQ-lqQjrAv-LosWtM4xqVTZ96wsoRVDEsbGr570j9PvRC_en_2HPER9ubInh7CJ8rmZBwn3wwNVIOLlV1RcpSExzp01xFNGqp_lW)  
+Tumblr [http://highscalability.com/blog/2012/2/13/tumblr-architecture-15-billion-page-views-a-month-and-harder.html](http://highscalability.com/blog/2012/2/13/tumblr-architecture-15-billion-page-views-a-month-and-harder.html)  
+Walmart [https://www.slideshare.net/kvnwbbr/revitalizing-walmarts-aging-architecture-for-web-scale](https://www.slideshare.net/kvnwbbr/revitalizing-walmarts-aging-architecture-for-web-scale)
+
 ## References
 
 * [https://www.martinfowler.com/microservices](https://www.martinfowler.com/microservices)
@@ -438,8 +483,14 @@ Microservices Common Mistakes:
 * [https://vimeo.com/233798451https://speakerdeck.com/wendigo/jdd-dlug-techniczny](https://vimeo.com/233798451https://speakerdeck.com/wendigo/jdd-dlug-techniczny)
 * [https://threedots.tech/post/microservices-or-monolith-its-detail/](https://threedots.tech/post/microservices-or-monolith-its-detail/)
 * [http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
-* [https://gist.github.com/chitchcock/1281611](https://gist.github.com/chitchcock/1281611)
+* Stevey's Google Platforms Rant [https://gist.github.com/chitchcock/1281611](https://gist.github.com/chitchcock/1281611)
 * [https://plus.google.com/+RipRowan/posts/eVeouesvaVX](https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
+* [https://www.michaelnygard.com/blog/2018/01/coherence-penalty-for-humans/](https://www.michaelnygard.com/blog/2018/01/coherence-penalty-for-humans/)
+* JOTB19 - Interaction Protocols: It's all about good manners by Martin Thompson [https://youtu.be/A5ovSBt0-C0](https://youtu.be/A5ovSBt0-C0)
+* When not to use microservices [https://www.feval.ca/posts/microservices/](https://www.feval.ca/posts/microservices/)
+* Fallbacks Are Overrated - Architecting For Resilience [https://www.nurkiewicz.com/2019/07/fallbacks-are-overrated-architecting.html?m=1](https://www.nurkiewicz.com/2019/07/fallbacks-are-overrated-architecting.html?m=1)
+* [https://blog.overops.com/5-ways-to-not-f-up-your-microservices-in-production/](https://blog.overops.com/5-ways-to-not-f-up-your-microservices-in-production/)
+* [https://techbeacon.com/app-dev-testing/forget-monoliths-vs-microservices-cognitive-load-what-matters](https://techbeacon.com/app-dev-testing/forget-monoliths-vs-microservices-cognitive-load-what-matters)
 
 ## Docker in production
 
