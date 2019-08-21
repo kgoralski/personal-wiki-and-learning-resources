@@ -114,6 +114,7 @@
 
 ## Tests
 
+* [https://quii.gitbook.io/learn-go-with-tests/](https://quii.gitbook.io/learn-go-with-tests/)
 * [https://medium.com/@povilasve/go-advanced-tips-tricks-a872503ac859](https://medium.com/@povilasve/go-advanced-tips-tricks-a872503ac859)
 * [https://medium.com/@sebdah/go-best-practices-testing-3448165a0e18](https://medium.com/@sebdah/go-best-practices-testing-3448165a0e18)
 * [https://github.com/stretchr/testify](https://github.com/stretchr/testify)
