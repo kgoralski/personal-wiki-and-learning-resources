@@ -16,6 +16,7 @@ description: 'Books I have, read or want to read, computer science and stuff.'
 6. I Heart Logs; Kreps
 7. Microservices AntiPatterns and Pitfalls, Richards
 8. Software Architecture Patterns, Richards
+9. Database Internals. A Deep Dive into How Distributed Data Systems Work; [Alex Petrov](https://www.amazon.com/Alex-Petrov/e/B07YC94DMN/ref=dp_byline_cont_book_1) 
 
 #### Operating Systems, Networks & SRE
 
