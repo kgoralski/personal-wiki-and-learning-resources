@@ -27,6 +27,9 @@ description: 'Books I have, read or want to read, computer science and stuff.'
 6. Linux Kernel Development; Love
 7. The Linux Programmer's Toolbox; Fusco
 8. Systems Performance: Enterprise and the Cloud; Gregg
+9. UNIX and Linux System Administration Handbook;  [Evi Nemeth](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Evi+Nemeth&text=Evi+Nemeth&sort=relevancerank&search-alias=books), [Garth Snyder](https://www.amazon.com/s/ref=dp_byline_sr_book_2?ie=UTF8&field-author=Garth+Snyder&text=Garth+Snyder&sort=relevancerank&search-alias=books), [Trent R. Hein](https://www.amazon.com/Trent-R-Hein/e/B001IGFJ5Q/ref=dp_byline_cont_book_3), [Ben Whaley](https://www.amazon.com/Ben-Whaley/e/B0725R4PV5/ref=dp_byline_cont_book_4), [Dan Mackin](https://www.amazon.com/Dan-Mackin/e/B076FDP78H/ref=dp_byline_cont_book_5) 
+10. Every Computer Performance Book: How to Avoid and Solve Performance Problems      on The Computers You Work With; [Bob Wescott](https://www.amazon.com/Bob-Wescott/e/B00C7CHP34/ref=dp_byline_cont_book_1) 
+11. The Practical Performance Analyst**;** [Neil Gunther](https://www.amazon.co.uk/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Neil+Gunther&text=Neil+Gunther&sort=relevancerank&search-alias=books-uk) 
 
 #### Programming languages
 
