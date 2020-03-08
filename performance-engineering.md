@@ -32,6 +32,10 @@
 16. [https://facebookmicrosites.github.io/bpf/blog/](https://facebookmicrosites.github.io/bpf/blog/)
 17. [https://techbeacon.com/app-dev-testing/30-top-performance-engineering-leaders-follow-twitter](https://techbeacon.com/app-dev-testing/30-top-performance-engineering-leaders-follow-twitter)
 18. [Performance Matters](https://youtu.be/r-TLSBdHe1A), Emery Berger
-19. [https://www.igvita.com/](https://www.igvita.com/)
-20. [https://www.hostingmanual.net/3-seconds-how-website-speed-impacts-visitors-sales/](https://www.hostingmanual.net/3-seconds-how-website-speed-impacts-visitors-sales/)
+19. [https://tangowhisky37.github.io/PracticalPerformanceAnalyst/2017/12/25/Six-Reasons-Why-You-Want-To-Be-A-Systems-Performance-Engineer/](https://tangowhisky37.github.io/PracticalPerformanceAnalyst/2017/12/25/Six-Reasons-Why-You-Want-To-Be-A-Systems-Performance-Engineer/)
+20. [https://www.igvita.com/](https://www.igvita.com/)
+21. [https://techbeacon.com/app-dev-testing/5-ways-learn-performance-engineering-skills](https://techbeacon.com/app-dev-testing/5-ways-learn-performance-engineering-skills)
+22. [https://dzone.com/articles/skills-required-to-be-a-perfect-performance-engine](https://dzone.com/articles/skills-required-to-be-a-perfect-performance-engine)
+23. [https://www.hostingmanual.net/3-seconds-how-website-speed-impacts-visitors-sales/](https://www.hostingmanual.net/3-seconds-how-website-speed-impacts-visitors-sales/)
+24. [https://github.com/andriisoldatenko/awesome-performance-testing](https://github.com/andriisoldatenko/awesome-performance-testing)
 
