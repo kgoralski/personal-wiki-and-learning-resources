@@ -36,6 +36,8 @@
 20. [https://www.igvita.com/](https://www.igvita.com/)
 21. [https://techbeacon.com/app-dev-testing/5-ways-learn-performance-engineering-skills](https://techbeacon.com/app-dev-testing/5-ways-learn-performance-engineering-skills)
 22. [https://dzone.com/articles/skills-required-to-be-a-perfect-performance-engine](https://dzone.com/articles/skills-required-to-be-a-perfect-performance-engine)
-23. [https://www.hostingmanual.net/3-seconds-how-website-speed-impacts-visitors-sales/](https://www.hostingmanual.net/3-seconds-how-website-speed-impacts-visitors-sales/)
-24. [https://github.com/andriisoldatenko/awesome-performance-testing](https://github.com/andriisoldatenko/awesome-performance-testing)
+23. [https://cloud.google.com/appengine/docs/standard/java/microservice-performance](https://cloud.google.com/appengine/docs/standard/java/microservice-performance)
+24. [https://www.researchgate.net/publication/313220433\_Performance\_Engineering\_for\_Microservices\_Research\_Challenges\_and\_Directions](https://www.researchgate.net/publication/313220433_Performance_Engineering_for_Microservices_Research_Challenges_and_Directions)
+25. [https://www.hostingmanual.net/3-seconds-how-website-speed-impacts-visitors-sales/](https://www.hostingmanual.net/3-seconds-how-website-speed-impacts-visitors-sales/)
+26. [https://github.com/andriisoldatenko/awesome-performance-testing](https://github.com/andriisoldatenko/awesome-performance-testing)
 
