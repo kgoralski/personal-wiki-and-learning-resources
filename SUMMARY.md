@@ -14,6 +14,7 @@
 * [Serverless](serverless.md)
 * [Janusgraph](janusgraph.md)
 * [Event Sourcing & CQRS](event-sourcing-and-cqrs.md)
+* [Performance Engineering](performance-engineering.md)
 * [Site Reliability Engineering](site-reliability-engineering.md)
 * [Scalability](scalability.md)
 * [Software Craftsmanship](software-craftsmanship.md)
