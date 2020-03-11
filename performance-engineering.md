@@ -52,9 +52,10 @@
 17. [https://twitter.com/patmeenan](https://twitter.com/patmeenan)
 18. [https://twitter.com/yoavweiss](https://twitter.com/yoavweiss)
 19. [https://twitter.com/MarkZeman](https://twitter.com/MarkZeman)
-20. [https://twitter.com/JVMPerformance](https://twitter.com/JVMPerformance)
-21. [https://twitter.com/PerfBytes](https://twitter.com/PerfBytes)
-22. [https://twitter.com/go\_perf](https://twitter.com/go_perf)
+20. [https://twitter.com/apodelko](https://twitter.com/apodelko)
+21. [https://twitter.com/JVMPerformance](https://twitter.com/JVMPerformance)
+22. [https://twitter.com/PerfBytes](https://twitter.com/PerfBytes)
+23. [https://twitter.com/go\_perf](https://twitter.com/go_perf)
 
 ## Links
 
