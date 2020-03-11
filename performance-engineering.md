@@ -9,11 +9,12 @@
 3. Systems Performance: Enterprise and the Cloud; [Gregg](https://www.amazon.com/Brendan-Gregg/e/B004GG0SEW)
 4. BPF Performance Tools; [Gregg](https://www.amazon.com/Brendan-Gregg/e/B004GG0SEW)
 5. Performance Solutions: A Practical Guide to Creating Responsive, Scalable Software**;**  [Connie U. Smith](https://www.amazon.com/Connie-U-Smith/e/B001IQXC9Q/ref=dp_byline_cont_book_1), [Lloyd G. Williams](https://www.amazon.com/s/ref=dp_byline_sr_book_2?ie=UTF8&field-author=Lloyd+G.+Williams&text=Lloyd+G.+Williams&sort=relevancerank&search-alias=books)
-6. Java Performance - The Definitive Guide; [Scott Oaks](https://www.amazon.com/Scott-Oaks/e/B000APH2E2)
-7. Optimizing Java: Practical Techniques for Improving JVM Application Performance;  [Benjamin J Evans](https://www.amazon.com/Benjamin-J-Evans/e/B07DGL1TM4/ref=dp_byline_cont_book_1) , [James Gough](https://www.amazon.com/s/ref=dp_byline_sr_book_2?ie=UTF8&field-author=James+Gough&text=James+Gough&sort=relevancerank&search-alias=books), [Chris Newland](https://www.amazon.com/Chris-Newland/e/B07L4YL11R/ref=dp_byline_cont_book_3)
-8. High Performance Browser Networking: What every web developer should know about networking and web performance; [Ilya Grigorik](https://www.amazon.com/Ilya-Grigorik/e/B00CNKCS1E/ref=dp_byline_cont_ebooks_1)
-9. High-Performance Java Persistence; [Vlad Mihalcea](https://www.amazon.com/Vlad-Mihalcea/e/B01N8PGJ7E/ref=dp_byline_cont_book_1) 
-10. [Go-Perf Book,](https://github.com/dgryski/go-perfbook) Thoughts on Go performance optimization, [Damian Gryski](https://twitter.com/dgryski)
+6. The Art of Capacity Planning: Scaling Web Resources; John Allspaw
+7. Java Performance - The Definitive Guide; [Scott Oaks](https://www.amazon.com/Scott-Oaks/e/B000APH2E2)
+8. Optimizing Java: Practical Techniques for Improving JVM Application Performance;  [Benjamin J Evans](https://www.amazon.com/Benjamin-J-Evans/e/B07DGL1TM4/ref=dp_byline_cont_book_1) , [James Gough](https://www.amazon.com/s/ref=dp_byline_sr_book_2?ie=UTF8&field-author=James+Gough&text=James+Gough&sort=relevancerank&search-alias=books), [Chris Newland](https://www.amazon.com/Chris-Newland/e/B07L4YL11R/ref=dp_byline_cont_book_3)
+9. High Performance Browser Networking: What every web developer should know about networking and web performance; [Ilya Grigorik](https://www.amazon.com/Ilya-Grigorik/e/B00CNKCS1E/ref=dp_byline_cont_ebooks_1)
+10. High-Performance Java Persistence; [Vlad Mihalcea](https://www.amazon.com/Vlad-Mihalcea/e/B01N8PGJ7E/ref=dp_byline_cont_book_1) 
+11. [Go-Perf Book,](https://github.com/dgryski/go-perfbook) Thoughts on Go performance optimization, [Damian Gryski](https://twitter.com/dgryski)
 
 ## Blogs
 
