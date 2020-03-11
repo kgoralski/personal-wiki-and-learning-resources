@@ -48,9 +48,13 @@
 13. [https://twitter.com/kwalfridsson](https://twitter.com/kwalfridsson)
 14. [https://twitter.com/matthewwarren](https://twitter.com/matthewwarren)
 15. [https://twitter.com/perfsherpa](https://twitter.com/perfsherpa)
-16. [https://twitter.com/JVMPerformance](https://twitter.com/JVMPerformance)
-17. [https://twitter.com/PerfBytes](https://twitter.com/PerfBytes)
-18. [https://twitter.com/go\_perf](https://twitter.com/go_perf)
+16. [https://twitter.com/tkadlec](https://twitter.com/tkadlec)
+17. [https://twitter.com/patmeenan](https://twitter.com/patmeenan)
+18. [https://twitter.com/yoavweiss](https://twitter.com/yoavweiss)
+19. [https://twitter.com/MarkZeman](https://twitter.com/MarkZeman)
+20. [https://twitter.com/JVMPerformance](https://twitter.com/JVMPerformance)
+21. [https://twitter.com/PerfBytes](https://twitter.com/PerfBytes)
+22. [https://twitter.com/go\_perf](https://twitter.com/go_perf)
 
 ## Links
 
@@ -103,9 +107,10 @@
 14. [https://www.researchgate.net/publication/313220433\_Performance\_Engineering\_for\_Microservices\_Research\_Challenges\_and\_Directions](https://www.researchgate.net/publication/313220433_Performance_Engineering_for_Microservices_Research_Challenges_and_Directions)
 15. [https://www.hostingmanual.net/3-seconds-how-website-speed-impacts-visitors-sales/](https://www.hostingmanual.net/3-seconds-how-website-speed-impacts-visitors-sales/)
 16. [http://normanmaurer.me/blog/2013/11/09/The-hidden-performance-costs-of-instantiating-Throwables/](http://normanmaurer.me/blog/2013/11/09/The-hidden-performance-costs-of-instantiating-Throwables/)
-17. On the Impact of Memory Allocation on High-Performance Query Processing [https://arxiv.org/abs/1905.01135](https://arxiv.org/abs/1905.01135)
-18. I/O Is Faster Than the CPU – Let’s Partition Resources and Eliminate \(Most\) OS Abstractions [https://penberg.org/parakernel-hotos19.pdf](https://penberg.org/parakernel-hotos19.pdf)
-19. What Every Programmer Should Know About Memory [https://www.akkadia.org/drepper/cpumemory.pdf](https://www.akkadia.org/drepper/cpumemory.pdf)
+17. [https://pathtoperf.com/](https://pathtoperf.com/)
+18. On the Impact of Memory Allocation on High-Performance Query Processing [https://arxiv.org/abs/1905.01135](https://arxiv.org/abs/1905.01135)
+19. I/O Is Faster Than the CPU – Let’s Partition Resources and Eliminate \(Most\) OS Abstractions [https://penberg.org/parakernel-hotos19.pdf](https://penberg.org/parakernel-hotos19.pdf)
+20. What Every Programmer Should Know About Memory [https://www.akkadia.org/drepper/cpumemory.pdf](https://www.akkadia.org/drepper/cpumemory.pdf)
 
 
 
