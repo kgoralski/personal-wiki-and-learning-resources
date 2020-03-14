@@ -123,4 +123,5 @@ description: 'Books I have, read or want to read, computer science and stuff.'
 9. Distributed consensus revised [https://blog.acolyer.org/2019/05/07/distributed-consensus-revised-part-i/](https://blog.acolyer.org/2019/05/07/distributed-consensus-revised-part-i/)
 10. Monitoring and Tuning the Linux Networking Stack: Sending Data [https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data/](https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data/)
 11. Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems [https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
+12. [https://github.com/trimstray/technical-whitepapers](https://github.com/trimstray/technical-whitepapers)
 
