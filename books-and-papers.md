@@ -76,6 +76,7 @@ description: 'Books I have, read or want to read, computer science and stuff.'
 16. Scala in Depth, Suereth
 17. Javascript: The Good Parts, Crockford
 18. Seven Languages in Seven Weeks, Tate
+19. [The Rust Programming Language Paperback](https://doc.rust-lang.org/book/); [Steve Klabnik](https://www.amazon.com/Steve-Klabnik/e/B06XYFKYZB/ref=dp_byline_cont_book_1)
 
 #### Design Patterns
 
