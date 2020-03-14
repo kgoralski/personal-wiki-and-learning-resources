@@ -16,7 +16,6 @@ description: 'Books I have, read or want to read, computer science and stuff.'
 6. I Heart Logs; Kreps
 7. Microservices AntiPatterns and Pitfalls, Richards
 8. Software Architecture Patterns, Richards
-9. Database Internals. A Deep Dive into How Distributed Data Systems Work; [Alex Petrov](https://www.amazon.com/Alex-Petrov/e/B07YC94DMN/ref=dp_byline_cont_book_1) 
 
 #### Operating Systems, Networks & SRE
 
@@ -29,6 +28,16 @@ description: 'Books I have, read or want to read, computer science and stuff.'
 7. The Linux Programmer's Toolbox; Fusco
 8. Systems Performance: Enterprise and the Cloud; Gregg
 9. UNIX and Linux System Administration Handbook;  [Evi Nemeth](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Evi+Nemeth&text=Evi+Nemeth&sort=relevancerank&search-alias=books), [Garth Snyder](https://www.amazon.com/s/ref=dp_byline_sr_book_2?ie=UTF8&field-author=Garth+Snyder&text=Garth+Snyder&sort=relevancerank&search-alias=books), [Trent R. Hein](https://www.amazon.com/Trent-R-Hein/e/B001IGFJ5Q/ref=dp_byline_cont_book_3), [Ben Whaley](https://www.amazon.com/Ben-Whaley/e/B0725R4PV5/ref=dp_byline_cont_book_4), [Dan Mackin](https://www.amazon.com/Dan-Mackin/e/B076FDP78H/ref=dp_byline_cont_book_5) 
+
+#### Databases
+
+1. Database Internals. A Deep Dive into How Distributed Data Systems Work; [Alex Petrov](https://www.amazon.com/Alex-Petrov/e/B07YC94DMN/ref=dp_byline_cont_book_1) 
+2. Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design;
+
+    [Michael J. Hernandez](https://www.amazon.com/Michael-J-Hernandez/e/B000APGESM/ref=dp_byline_cont_book_1)
+
+3. High Performance MySQL: Optimization, Backups, and Replication; [Baron Schwartz](https://www.amazon.com/Baron-Schwartz/e/B00OWS7XGU/ref=dp_byline_cont_book_1)
+4. [The Art of PostgreSQL](https://theartofpostgresql.com/); [Dimitri Fontaine](https://www.youtube.com/watch?v=09b-uk9UXbM)
 
 #### Performance Engineering
 
@@ -43,6 +52,9 @@ description: 'Books I have, read or want to read, computer science and stuff.'
 9. High Performance Browser Networking: What every web developer should know about networking and web performance; [Ilya Grigorik](https://www.amazon.com/Ilya-Grigorik/e/B00CNKCS1E/ref=dp_byline_cont_ebooks_1)
 10. High-Performance Java Persistence; [Vlad Mihalcea](https://www.amazon.com/Vlad-Mihalcea/e/B01N8PGJ7E/ref=dp_byline_cont_book_1) 
 11. [Go-Perf Book,](https://github.com/dgryski/go-perfbook) Thoughts on Go performance optimization, [Damian Gryski](https://twitter.com/dgryski)
+12. The Garbage Collection Handbook: The Art of Automatic Memory Management;
+
+    [Richard Jones](https://www.amazon.com/Richard-Jones/e/B000AQTHV2/ref=dp_byline_cont_book_1), [Antony Hosking](https://www.amazon.com/Antony-Hosking/e/B004QJ36QG/ref=dp_byline_cont_book_2), [Eliot Moss](https://www.amazon.com/s/ref=dp_byline_sr_book_3?ie=UTF8&field-author=Eliot+Moss&text=Eliot+Moss&sort=relevancerank&search-alias=books)
 
 #### Programming languages
 
