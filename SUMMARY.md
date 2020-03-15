@@ -16,6 +16,7 @@
 * [Event Sourcing & CQRS](event-sourcing-and-cqrs.md)
 * [Performance Engineering](performance-engineering.md)
 * [Site Reliability Engineering](site-reliability-engineering.md)
+* [Software Security](software-security.md)
 * [Scalability](scalability.md)
 * [Software Craftsmanship](software-craftsmanship.md)
 * [Books and Papers](books-and-papers.md)

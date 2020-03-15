@@ -57,6 +57,7 @@
 21. [https://twitter.com/JVMPerformance](https://twitter.com/JVMPerformance)
 22. [https://twitter.com/PerfBytes](https://twitter.com/PerfBytes)
 23. [https://twitter.com/go\_perf](https://twitter.com/go_perf)
+24. [https://twitter.com/fast\_code\_r\_us](https://twitter.com/fast_code_r_us)
 
 ## Links
 
