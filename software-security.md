@@ -28,4 +28,6 @@
 14. [https://portswigger.net/web-security](https://portswigger.net/web-security)
 15. [https://github.com/OWASP/Serverless-Goat](https://github.com/OWASP/Serverless-Goat)
 16. [https://github.com/OWASP/Vulnerable-Web-Application](https://github.com/OWASP/Vulnerable-Web-Application)
+17. [https://www.katacoda.com/sebastienblanc/courses/keycloak](https://www.katacoda.com/sebastienblanc/courses/keycloak)
+18. [https://github.com/thomasdarimont/awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak)
 
