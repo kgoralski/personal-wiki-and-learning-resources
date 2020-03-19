@@ -114,6 +114,8 @@
 18. On the Impact of Memory Allocation on High-Performance Query Processing [https://arxiv.org/abs/1905.01135](https://arxiv.org/abs/1905.01135)
 19. I/O Is Faster Than the CPU – Let’s Partition Resources and Eliminate \(Most\) OS Abstractions [https://penberg.org/parakernel-hotos19.pdf](https://penberg.org/parakernel-hotos19.pdf)
 20. What Every Programmer Should Know About Memory [https://www.akkadia.org/drepper/cpumemory.pdf](https://www.akkadia.org/drepper/cpumemory.pdf)
+21. [https://www.nginx.com/blog/performance-tuning-tips-tricks/](https://www.nginx.com/blog/performance-tuning-tips-tricks/)
+22. [https://blog.cloudflare.com/the-problem-with-event-loops/](https://blog.cloudflare.com/the-problem-with-event-loops/)
 
 
 
