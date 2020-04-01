@@ -116,6 +116,7 @@
 20. What Every Programmer Should Know About Memory [https://www.akkadia.org/drepper/cpumemory.pdf](https://www.akkadia.org/drepper/cpumemory.pdf)
 21. [https://www.nginx.com/blog/performance-tuning-tips-tricks/](https://www.nginx.com/blog/performance-tuning-tips-tricks/)
 22. [https://blog.cloudflare.com/the-problem-with-event-loops/](https://blog.cloudflare.com/the-problem-with-event-loops/)
+23. [https://www.datadoghq.com/blog/network-performance-monitoring/](https://www.datadoghq.com/blog/network-performance-monitoring/)
 
 
 
