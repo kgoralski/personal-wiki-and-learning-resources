@@ -31,6 +31,7 @@
 11. [https://mr.gy/blog/](https://mr.gy/blog/)
 12. [https://blog.stgolabs.net/search/label/performance](https://blog.stgolabs.net/search/label/performance)
 13. [https://mechanical-sympathy.blogspot.com/](https://mechanical-sympathy.blogspot.com/) 
+14. [https://easyperf.net/notes/](https://easyperf.net/notes/)
 
 ## Twitter
 
@@ -117,6 +118,8 @@
 21. [https://www.nginx.com/blog/performance-tuning-tips-tricks/](https://www.nginx.com/blog/performance-tuning-tips-tricks/)
 22. [https://blog.cloudflare.com/the-problem-with-event-loops/](https://blog.cloudflare.com/the-problem-with-event-loops/)
 23. [https://www.datadoghq.com/blog/network-performance-monitoring/](https://www.datadoghq.com/blog/network-performance-monitoring/)
+24. [https://easyperf.net/blog/2020/04/01/HW-SW-rules-of-thumb](https://easyperf.net/blog/2020/04/01/HW-SW-rules-of-thumb)
+25. [https://youtu.be/Ho3bCIJcMcc](https://youtu.be/Ho3bCIJcMcc) - Performance Analysis & Tuning on Modern CPU - Denis Bakhvalov.
 
 
 
