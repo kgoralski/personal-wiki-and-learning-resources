@@ -54,6 +54,7 @@
 * Cheatsheet [https://github.com/a8m/go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet)
 * [https://grpc.io/docs/tutorials/basic/go.html](https://grpc.io/docs/tutorials/basic/go.html)
 * [https://gobyexample.com/](https://gobyexample.com/)
+* [https://divyanshushekhar.com/category/golang](Golang Tutorial)
 
 ## Package Design
 
