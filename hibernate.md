@@ -1,6 +1,6 @@
 # Hibernate
 
-J**PA beyond copy paste by Jakub Kubrynski** [https://youtu.be/EZwpOLCfuq4](https://www.youtube.com/watch?v=EZwpOLCfuq4&t=2408s) - this is video might be a little bit outdated but still contains a lot of useful **tips**, the content of this video is described here: 
+**JPA beyond copy paste by Jakub Kubrynski** [https://youtu.be/EZwpOLCfuq4](https://www.youtube.com/watch?v=EZwpOLCfuq4&t=2408s) - this is video might be a little bit outdated but still contains a lot of useful **tips**, the content of this video is described here: 
 
 * [https://www.youtube.com/watch?v=EZwpOLCfuq4&lc=Ugxp9JpfgF9Hv5nfGyl4AaABAg](https://www.youtube.com/watch?v=EZwpOLCfuq4&lc=Ugxp9JpfgF9Hv5nfGyl4AaABAg) 
 * [https://speakerdeck.com/jkubrynski/jpa-beyond-copy-paste](https://speakerdeck.com/jkubrynski/jpa-beyond-copy-paste)
