@@ -6,6 +6,7 @@
 * [Go Programming Language](go-language.md)
 * [Kotlin Programming Language](kotlin.md)
 * [Java Programming Language](java-programming-language.md)
+* [Hibernate](hibernate.md)
 * [Reactive Programming](reactive.md)
 * [Kubernetes](kubernetes.md)
 * [Apache Kafka](kafka.md)
